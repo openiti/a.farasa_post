@@ -1,0 +1,62 @@
+S/S |/PUNC -/PUNC 2/NUM-MP -/PUNC رسال/NOUN-FS +ة/NSUFF في/PREP أمه/NOUN-FP +ات/NSUFF ال+/DET خلفاء/NOUN-MP E/E 
+S/S قال/V أبو/NOUN-MS محمد/NOUN-MS ابن/NOUN-MS حزم/NOUN-MS :/PUNC أم/CONJ ال+/DET نبي/NOUN-MS صلى/V الله/NOUN-MS علي/PREP +ه/PRON و+/CONJ سلم/NOUN-MS آمن/ADJ-FD +ة/NSUFF بنت/NOUN-MS وهب/NOUN-MS بن/NOUN-MS عبد/NOUN-MS مناف/NOUN-MS بن/NOUN-MS زهر/NOUN-FS +ة/NSUFF بن/NOUN-MS كلاب/NOUN-MP بن/NOUN-MS مر/NOUN-FS +ة/NSUFF ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS أبي/NOUN-MS بكر/NOUN-MS ،/PUNC رضي/V الله/NOUN-MS عن/PREP +ه/PRON ،/PUNC أم/CONJ ال+/DET خير/NOUN-MS ،/PUNC مسلم/NOUN-FS +ة/NSUFF فاضل/NOUN-FS +ة/NSUFF ،/PUNC سلمى/NOUN-MP بنت/NOUN-MS صخر/NOUN-MS بن/NOUN-MS عامر/NOUN-MS (/PUNC 1/NUM-MP )/PUNC بن/NOUN-MS كعب/NOUN-MS بن/NOUN-MS سعد/NOUN-MS بن/NOUN-MS تيم/NOUN-MS بن/NOUN-MS مر/NOUN-FS +ة/NSUFF ./PUNC E/E 
+S/S أم/CONJ عمر/NOUN-MS ،/PUNC رضي/ADJ-MS الله/NOUN-MS عن/PREP +ه/PRON ،/PUNC أروى/V بنت/NOUN-MS كريز/NOUN-MS (/PUNC 2/NUM-MP )/PUNC بن/NOUN-MS ربيع/NOUN-FS +ة/NSUFF بن/NOUN-MS حبيب/NOUN-MS بن/NOUN-MS عبد/NOUN-MS شمس/NOUN-FS بن/NOUN-MS عبد/NOUN-MS مناف/NOUN-MS ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS علي/NOUN-MS ،/PUNC رضي/V الله/NOUN-MS عن/PREP +ه/PRON ،/PUNC فاطم/NOUN-FS +ة/NSUFF بنت/NOUN-MS أسد/NOUN-MS بن/NOUN-MS هاشم/NOUN-MS بن/NOUN-MS عبد/NOUN-MS مناف/NOUN-MS ،/PUNC مسلم/NOUN-FS +ة/NSUFF فاضل/NOUN-FS +ة/NSUFF مهاجر/NOUN-FS +ة/NSUFF ./PUNC E/E 
+S/S أم/CONJ ال+/DET حسن/NOUN-MS ،/PUNC رضي/V الله/NOUN-MS عن/PREP +ه/PRON ،/PUNC فاطم/NOUN-FS +ة/NSUFF بنت/NOUN-MS رسول/NOUN-MS الله/NOUN-MS صلى/V الله/NOUN-MS علي/PREP +ه/PRON و+/CONJ سلم/V و+/CONJ رضي/V عن/PREP +ها/PRON ./PUNC E/E 
+S/S أم/CONJ معاوي/NOUN-FS +ة/NSUFF ،/PUNC رضي/V الله/NOUN-MS عن/PREP +ه/PRON :/PUNC هند/NOUN-MS بنت/NOUN-MS عتب/NOUN-FS +ة/NSUFF بن/NOUN-MS ربيع/NOUN-FS +ة/NSUFF بن/NOUN-MS عبد/NOUN-MS شمس/NOUN-FS بن/NOUN-MS عبد/NOUN-MS مناف/NOUN-MS ،/PUNC مسلم/NOUN-FS +ة/NSUFF مبايع/NOUN-FS +ة/NSUFF ./PUNC E/E 
+S/S أم/CONJ يزيد/V :/PUNC ميسون/NOUN-MS بنت/NOUN-MS ب+/PREP حدل/NOUN-MS ال+/DET كلبي/NOUN-FS +ة/NSUFF ./PUNC E/E 
+S/S أم/CONJ عبد/NOUN-MS الله/NOUN-MS بن/NOUN-MS ال+/DET زبير/NOUN-MS :/PUNC أسماء/NOUN-FP بنت/NOUN-MS أبي/NOUN-MS بكر/NOUN-MS ال+/DET صديق/NOUN-MS ./PUNC E/E 
+S/S أم/CONJ معاوي/NOUN-FS +ة/NSUFF بن/NOUN-MS يزيد/NOUN-MS :/PUNC أم/CONJ خالد/NOUN-MS بنت/NOUN-MS [/FOREIGN أبي/NOUN-MS ]/FOREIGN هاشم/NOUN-MS بن/NOUN-MS عتب/NOUN-FS +ة/NSUFF بن/NOUN-MS ربيع/NOUN-FS +ة/NSUFF بن/NOUN-MS عبد/NOUN-MS شمس/NOUN-FS ./PUNC E/E 
+S/S أم/CONJ مروان/NOUN-MS بن/NOUN-MS ال+/DET حكم/NOUN-MS :/PUNC ال+/DET زرقاء/NOUN-MS ال+/DET كناني/ADJ-MP +ة/NSUFF ./PUNC E/E 
+S/S أم/CONJ عبد/NOUN-MS ال+/DET ملك/NOUN-MS :/PUNC عائشة/NOUN-MS بنت/NOUN-MS معاوي/NOUN-FS +ة/NSUFF بن/NOUN-MS ال+/DET مغير/NOUN-MP +ة/NSUFF بن/NOUN-MS أبي/NOUN-MS ال+/DET عاصي/NOUN-MS بن/NOUN-MS أمية/NOUN-FS ./PUNC E/E 
+S/S أم/CONJ [/FOREIGN ال+/DET وليد/NOUN-MS و/CONJ ]/FOREIGN سليمان/NOUN-MS :/PUNC ولاد/NOUN-FS +ة/NSUFF بنت/NOUN-MS ال+/DET عباس/NOUN-MS بن/NOUN-MS جزء/NOUN-MS بن/NOUN-MS ال+/DET حارث/NOUN-MS بن/NOUN-MS زهير/NOUN-MS بن/NOUN-MS جذيمة/NOUN-MS ال+/DET عبسي/NOUN-MS ./PUNC E/E 
+S/S أم/CONJ عمر/NOUN-MS بن/NOUN-MS عبد/NOUN-MS ال+/DET عزيز/NOUN-MS ،/PUNC رضي/V الله/NOUN-MS عن/PREP +ه/PRON :/PUNC أم/CONJ عاصم/NOUN-MS بنت/NOUN-MS عاصم/NOUN-MS بن/NOUN-MS عمر/NOUN-MS بن/NOUN-MS ال+/DET خطاب/NOUN-MS ./PUNC E/E 
+S/S [/FOREIGN أم/NOUN-MS يزيد/NOUN-MS بن/NOUN-MS عبد/NOUN-MS ال+/DET ملك/NOUN-MS ]/FOREIGN :/PUNC عاتك/NOUN-FS +ة/NSUFF بنت/NOUN-MS يزيد/NOUN-MS بن/NOUN-MS معاوي/NOUN-FS +ة/NSUFF بن/NOUN-MS أبي/NOUN-MS سفيان/NOUN-FP ./PUNC E/E 
+S/S أم/CONJ هشام/NOUN-MS :/PUNC أم/CONJ هشام/NOUN-MS بنت/NOUN-MS هشام/NOUN-MS بن/NOUN-MS إسماعيل/NOUN-MS بن/NOUN-MS هشام/NOUN-MS بن/NOUN-MS ال+/DET وليد/NOUN-MS بن/NOUN-MS ال+/DET مغير/NOUN-MP +ة/NSUFF بن/NOUN-MS عبد/NOUN-MS الله/NOUN-MS بن/NOUN-MS عمر/NOUN-MS بن/NOUN-MS مخزوم/NOUN-MS ./PUNC E/E 
+S/S [/FOREIGN أم/NOUN-MS ال+/DET وليد/NOUN-MS بن/NOUN-MS يزيد/NOUN-MS ]/FOREIGN :/PUNC بنت/NOUN-MS محمد/NOUN-MS بن/NOUN-MS يوسف/NOUN-FS أخي/NOUN-MS ال+/DET حجاج/NOUN-MP بن/NOUN-MS يوسف/NOUN-FS ال+/DET ثقفي/NOUN-MS ./PUNC E/E 
+S/S [/FOREIGN أم/NOUN-MS يزيد/NOUN-MS بن/NOUN-MS ال+/DET وليد/NOUN-MS ]/FOREIGN :/PUNC شاهفريد/NOUN-MS (/PUNC 1/NUM-MP )/PUNC بنت/NOUN-MS خسروفيروز/NOUN-MS بن/NOUN-MS يزدجرد/NOUN-MS بن/NOUN-MS شهريار/NOUN-MS ابن/NOUN-MS كسرى/NOUN-MS أبرويز/NOUN-MS ./PUNC E/E 
+S/S [/FOREIGN أم/NOUN-MS إبراهيم/NOUN-MS بن/NOUN-MS ال+/DET وليد/NOUN-MS ]/FOREIGN :/PUNC أم/NOUN-MS ولد/V لا/PART أقف/V ال+/DET آن/NOUN-MS على/PREP اسم/NOUN-MS +ها/PRON ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS مروان/NOUN-MS :/PUNC اختلف/V في/PREP +ها/PRON ،/PUNC ف+/CONJ قيل/V أم/NOUN-MS ولد/V اسم/NOUN-MS +ها/PRON ريا/NOUN-MS ./PUNC E/E 
+S/S و+/CONJ قيل/V بنت/NOUN-MS جعد/NOUN-FS +ة/NSUFF بن/NOUN-MS كلب/NOUN-MS من/PREP بني/NOUN-MS عامر/NOUN-MS بن/NOUN-MS صعصع/NOUN-FD +ة/NSUFF ./PUNC E/E 
+S/S أم/CONJ ال+/DET سفاح/ADJ-MS :/PUNC ريط/NOUN-FS +ة/NSUFF بنت/NOUN-MS عبيد/NOUN-MS الله/NOUN-MS (/PUNC 2/NUM-MP )/PUNC بن/NOUN-MS عبد/NOUN-MS الله/NOUN-MS ال+/DET حارثي/NOUN-MS ،/PUNC من/PREP بني/NOUN-MS ال+/DET حارث/NOUN-MS بن/NOUN-MS كعب/NOUN-MS ./PUNC E/E 
+S/S أم/CONJ ال+/DET منصور/NOUN-MS :/PUNC سلام/NOUN-FS +ة/NSUFF ال+/DET بربري/ADJ-FS +ة/NSUFF من/PREP نفز/NOUN-FS +ة/NSUFF ،/PUNC و+/CONJ قيل/V من/PREP [/FOREIGN صنهاجة/NOUN-MS ]/FOREIGN ./PUNC E/E 
+S/S أم/CONJ ال+/DET مهدي/NOUN-MS :/PUNC أم/CONJ موسى/NOUN-MS بنت/NOUN-MS منصور/NOUN-MS ال+/DET حميري/NOUN-MS ./PUNC E/E 
+S/S أم/CONJ ال+/DET هادي/NOUN-MS و+/CONJ هارون/NOUN-MS :/PUNC ال+/DET خيزران/NOUN-MP ،/PUNC مولد/NOUN-FS +ة/NSUFF كوفي/NOUN-FS +ة/NSUFF ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS ال+/DET أمين/NOUN-MS :/PUNC أم/NOUN-MS جعفر/NOUN-MS زبيد/NOUN-FS +ة/NSUFF بنت/NOUN-MS جعفر/NOUN-MS ال+/DET أكبر/ADJ-MS بن/NOUN-MS أبي/NOUN-MS جعفر/NOUN-MS ال+/DET منصور/NOUN-MS ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS إبراهيم/NOUN-MS بن/NOUN-MS ال+/DET مهدي/NOUN-MS :/PUNC شكل/NOUN-FS +ة/NSUFF ،/PUNC ظفرية/NOUN-MS ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS ال+/DET مأمون/NOUN-MS :/PUNC مراجل/NOUN-FP ،/PUNC رومية/NOUN-MS (/PUNC 3/NUM-MP )/PUNC ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS ال+/DET معتصم/NOUN-MS :/PUNC مارد/ADJ-FP +ة/NSUFF (/PUNC 4/NUM-MP )/PUNC مولد/NOUN-FS +ة/NSUFF كوفي/NOUN-FS +ة/NSUFF ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS ال+/DET واثق/ADJ-MS :/PUNC قراطيس/NOUN-FP ،/PUNC رومية/NOUN-MS ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS ال+/DET متوكل/NOUN-MS :/PUNC شجاع/NOUN-MS ،/PUNC تركي/ADJ-FS +ة/NSUFF ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS ال+/DET منتصر/ADJ-MS :/PUNC اسم/NOUN-MS +ها/PRON حبشي/NOUN-FS +ة/NSUFF ،/PUNC رومية/NOUN-MS ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS ال+/DET مستعين/ADJ-MS :/PUNC مخارق/NOUN-MS ،/PUNC رومية/NOUN-MS أم/NOUN-MS ولد/NOUN-MS ./PUNC E/E 
+S/S و+/CONJ قيل/V إن/PART +ها/PRON بنت/NOUN-MS عبيد/NOUN-MS من/PREP أهل/NOUN-MS دوسر/NOUN-MS قري/NOUN-FS +ة/NSUFF ب+/PREP ال+/DET موصل/NOUN-MS ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS ال+/DET معتز/NOUN-MS :/PUNC اسم/NOUN-MS +ها/PRON قبيح/ADJ-FS +ة/NSUFF ،/PUNC صقلبي/NOUN-FS +ة/NSUFF (/PUNC 1/NUM-MP )/PUNC ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS ال+/DET مهتدي/NOUN-MS :/PUNC قرب/NOUN-MS ،/PUNC رومية/NOUN-MS ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS ال+/DET معتمد/NOUN-MS :/PUNC فتيان/NOUN-MP ،/PUNC أم/CONJ ولد/V ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS ال+/DET معتضد/NOUN-MS :/PUNC ضرار/NOUN-MS (/PUNC 2/NUM-MP )/PUNC ،/PUNC من/PREP دار/NOUN-MS محمد/NOUN-MS بن/NOUN-MS عبد/NOUN-MS الله/NOUN-MS بن/NOUN-MS طاهر/NOUN-MS ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS ال+/DET مكتفي/ADJ-MS :/PUNC خاضع/ADJ-MS (/PUNC 3/NUM-MP )/PUNC ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS ال+/DET مقتدر/ADJ-MS :/PUNC شغب/NOUN-MS ،/PUNC أم/CONJ ولد/V ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS ال+/DET قاهر/NOUN-MS :/PUNC قتول/NOUN-MS (/PUNC 4/NUM-MP )/PUNC ،/PUNC أم/CONJ ولد/V ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS ال+/DET راضي/NOUN-MS :/PUNC ظلوم/ADJ-MS ،/PUNC أم/CONJ ولد/V ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS ال+/DET متقي/NOUN-MS :/PUNC خلوب/NOUN-FP (/PUNC 5/NUM-MP )/PUNC ،/PUNC [/FOREIGN أم/CONJ ولد/V ]/FOREIGN ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS ال+/DET مستكفي/NOUN-MS :/PUNC غصن/NOUN-MS ،/PUNC أم/CONJ ولد/V ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS ال+/DET مطيع/ADJ-MS :/PUNC شعل/NOUN-FS +ة/NSUFF (/PUNC 6/NUM-MP )/PUNC ،/PUNC من/PREP دار/NOUN-MS ال+/DET عباس/NOUN-MS بن/NOUN-MS ال+/DET حسن/NOUN-MS ./PUNC E/E 
+S/S و+/CONJ لا/PART أدري/V اسم/NOUN-MS أم/NOUN-MS ال+/DET طائع/ADJ-MS ./PUNC E/E 
+S/S |/PUNC أمه/NOUN-FP +ات/NSUFF (/PUNC 1/NUM-MP )/PUNC أمراء/NOUN-MP بني/NOUN-MS أمية/NOUN-FS ب+/PREP ال+/DET أندلس/NOUN-MS (/PUNC 2/NUM-MP )/PUNC E/E 
+S/S أم/CONJ عبد/NOUN-MS ال+/DET رحمن/NOUN-MS بن/NOUN-MS معاوي/NOUN-FS +ة/NSUFF :/PUNC راح/NOUN-MS ،/PUNC نفزي/NOUN-FS +ة/NSUFF ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS هشام/NOUN-MS :/PUNC حوراء/NOUN-MS ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS ال+/DET حكم/NOUN-MS :/PUNC زخرف/NOUN-MS ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS محمد/NOUN-MS :/PUNC تهتز/V ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS ال+/DET منذر/NOUN-MS :/PUNC أثل/NOUN-FP ./PUNC E/E 
+S/S [/FOREIGN و+/CONJ أم/CONJ عبد/NOUN-MS الله/NOUN-MS :/PUNC عشار/NOUN-MS ]/FOREIGN (/PUNC 3/NUM-MP )/PUNC ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS ال+/DET ناصر/NOUN-MS :/PUNC حزم/NOUN-MS (/PUNC 4/NUM-MP )/PUNC ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS ال+/DET حكم/NOUN-MS :/PUNC مرجان/NOUN-MS ./PUNC E/E 
+S/S [/FOREIGN و+/CONJ أم/CONJ ال+/DET مؤيد/ADJ-MS :/PUNC صبح/V ]/FOREIGN ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS ال+/DET مهدي/NOUN-MS :/PUNC مزن/NOUN-FS +ة/NSUFF ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS سليمان/NOUN-MS :/PUNC ظبي/NOUN-FS +ة/NSUFF ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS ال+/DET مستظهر/NOUN-MS :/PUNC غاي/NOUN-FS +ة/NSUFF ./PUNC E/E 
+S/S و+/CONJ أم/NOUN-MS ال+/DET مستكفي/NOUN-MS :/PUNC حور/NOUN-MS (/PUNC 5/NUM-MP )/PUNC ./PUNC E/E 
+S/S [/FOREIGN و+/CONJ أم/CONJ ال+/DET معتد/NOUN-MS :/PUNC عاتب/V ]/FOREIGN (/PUNC 6/NUM-MP )/PUNC ./PUNC E/E 
+S/S آخر/NOUN-MS +ه/PRON :/PUNC وول/NOUN-MS +ه/PRON ال+/DET حمد/NOUN-MS و+/CONJ ال+/DET من/PREP +ة/NSUFF و+/CONJ ال+/DET صلا/NOUN-FS +ة/NSUFF على/PREP محمد/NOUN-MS و+/CONJ آله/NOUN-FS و+/CONJ ال+/DET سلام/NOUN-MS E/E 
