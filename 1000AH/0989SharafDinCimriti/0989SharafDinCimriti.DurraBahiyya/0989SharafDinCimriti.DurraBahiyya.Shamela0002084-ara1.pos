@@ -1,0 +1,548 @@
+S/S بسم/NOUN-MS الله/NOUN-MS ال+/DET رحمن/NOUN-MS ال+/DET رحيم/NOUN-MS */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC نظم/V ال+/DET أجرومي/NOUN-FS +ة/NSUFF E/E 
+S/S ل+/PREP ال+/DET إمام/NOUN-MS العمريطي/NOUN-MS */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S ال+/DET حمد/NOUN-MS ل+/PREP الله/NOUN-MS الذي/PART قد/PART وفق/NOUN-MS +ا/CASE ./PUNC ../PUNC E/E 
+S/S ل+/PREP ال+/DET علم/NOUN-MS خير/NOUN-MS خلق/NOUN-MS +ه/PRON و+/CONJ ل+/PREP ال+/DET تقى/NOUN-FP E/E 
+S/S حتى/PREP نحت/NOUN-MS قلوب/NOUN-MS +هم/PRON ل+/PREP نحو/NOUN-MS +ه/PRON ./PUNC ../PUNC E/E 
+S/S ف+/CONJ من/PREP عظيم/NOUN-MS شأن/NOUN-MS +ه/PRON لم/PART تحو/V +ه/PRON E/E 
+S/S ف+/CONJ أشرب/V +ت/PRON معنى/NOUN-MS ضمير/NOUN-MS ال+/DET شأن/NOUN-MS ./PUNC ../PUNC E/E 
+S/S ف+/CONJ أعرب/V +ت/PRON في/PREP ألحان/NOUN-FP ب+/PREP ال+/DET ألحان/NOUN-FP E/E 
+S/S ثم/CONJ ال+/DET صلا/NOUN-FS +ة/NSUFF مع/NOUN-MS سلام/NOUN-MS لائق/ADJ-MS ./PUNC ../PUNC E/E 
+S/S على/PREP ال+/DET نبي/NOUN-MS أفصح/V ال+/DET خلائق/NOUN-FP E/E 
+S/S محمد/NOUN-MS و+/CONJ ال+/DET آل/NOUN-MS و+/CONJ ال+/DET أصحاب/NOUN-MP ./PUNC ../PUNC E/E 
+S/S من/PREP أتقن/V +وا/PRON ال+/DET قرء/NOUN-MD +ان/NSUFF ب+/PREP ال+/DET إعراب/NOUN-MS E/E 
+S/S و+/CONJ بعد/NOUN-MS ف+/PART اعلم/V أن/PART +ه/PRON لما/PART اقتصر/V ./PUNC ../PUNC E/E 
+S/S جل/V ال+/DET ورى/NOUN-FP على/PREP ال+/DET كلام/NOUN-MS ال+/DET مختصر/ADJ-MS E/E 
+S/S و+/CONJ كان/V مطلوب/ADJ-MS +ا/CASE أشد/ADJ-MS ال+/DET طلب/NOUN-MS ./PUNC ../PUNC E/E 
+S/S من/PREP ال+/DET ورى/NOUN-FP حفظ/NOUN-MS ال+/DET لسان/NOUN-MS ال+/DET عربي/ADJ-MS E/E 
+S/S كي/PART يفهم/V +وا/PRON معاني/NOUN-FP ال+/DET قرء/NOUN-MD +ان/NSUFF ./PUNC ../PUNC E/E 
+S/S و+/CONJ ال+/DET سن/NOUN-FS +ة/NSUFF ال+/DET دقيق/ADJ-FS +ة/NSUFF ال+/DET معاني/NOUN-FP E/E 
+S/S و+/CONJ ال+/DET نحو/NOUN-MS أولى/NUM-MS أول/NUM-MS +ا/CASE أن/PART يعلم/V +ا/PRON ./PUNC ../PUNC E/E 
+S/S إذ/PART ال+/DET كلام/NOUN-MS دون/NOUN-MS +ه/PRON لن/PART يفهم/V +ا/PRON E/E 
+S/S و+/CONJ كان/V خير/NOUN-MS كتب/V +ه/PRON ال+/DET صغيره/NOUN-MS ./PUNC ../PUNC E/E 
+S/S كراس/NOUN-FS +ة/NSUFF لطيف/NOUN-FS +ة/NSUFF شهير/ADJ-MS +ه/PRON E/E 
+S/S في/PREP عرب/NOUN-MP +ها/PRON و+/CONJ عجم/NOUN-MS +ها/PRON و+/CONJ ال+/DET روم/NOUN-MS ./PUNC ../PUNC E/E 
+S/S ألف/NUM-MS +ها/PRON ال+/DET حبر/NOUN-MS (/PUNC ابنءاجروم/NOUN-MS )/PUNC E/E 
+S/S و+/CONJ انتفع/V +ت/PRON أجل/NOUN-FP +ة/NSUFF ب+/PREP علم/NOUN-MS +ها/PRON ./PUNC ../PUNC E/E 
+S/S مع/NOUN-MS ما/PART ترا/V +ه/PRON من/PREP لطيف/NOUN-MS حجم/NOUN-MS +ها/PRON E/E 
+S/S نظم/V +ت/PRON +ها/PRON نظم/V +ا/PRON بديع/NOUN-MS +ا/CASE مقتدي/ADJ-MS ./PUNC ../PUNC E/E 
+S/S ب+/PREP ال+/DET أصل/NOUN-MS في/PREP تقريب/NOUN-MS +ه/PRON ل+/PREP ال+/DET مبتدى/NOUN-MS E/E 
+S/S و+/CONJ قد/PART حذف/NOUN-MS +ت/PRON من/PREP +ه/PRON ما/PART عن/PREP +ه/PRON غنى/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ زد/ABBREV +ت/PRON +ه/PRON فوائد/NOUN-FP +ا/CASE ب+/PREP +ها/PRON ال+/DET غنى/NOUN-MS E/E 
+S/S متمم/NOUN-MS +ا/CASE ل+/PREP غالب/NOUN-MS ال+/DET أبواب/NOUN-FP ./PUNC ../PUNC E/E 
+S/S ف+/CONJ جاء/V مثل/NOUN-MS ال+/DET شرح/NOUN-MS ل+/PREP ال+/DET كتاب/NOUN-MS E/E 
+S/S سئل/V +ت/PRON في/PREP +ه/PRON من/PREP صديق/NOUN-MS صادق/ADJ-MS ./PUNC ../PUNC E/E 
+S/S يفهم/V قول/NOUN-MS +ي/PRON ل+/PREP اعتقاد/NOUN-MS واثق/ADJ-MS E/E 
+S/S إذ/PART ال+/DET فتى/NOUN-MS حسب/NOUN-MS اعتقاد/NOUN-MS +ه/PRON رفع/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ كل/NOUN-MS من/PREP لم/PART يعتقد/V لم/PART ينتفع/V E/E 
+S/S فنسأل/NOUN-MS ال+/DET من/PREP +ان/PRON أن/PART يجير/V +نا/PRON ./PUNC ../PUNC E/E 
+S/S من/PREP ال+/DET ريا/NOUN-MS مضاعف/NOUN-MS +ا/CASE أجور/NOUN-FP +نا/PRON E/E 
+S/S و+/CONJ أن/PART يكون/V نافع/NOUN-MS +ا/CASE ب+/PREP علم/NOUN-MS +ه/PRON ./PUNC ../PUNC E/E 
+S/S من/PREP اعتنى/V ب+/PREP حفظ/NOUN-MS +ه/PRON و+/CONJ فهم/NOUN-MS +ه/PRON E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS ال+/DET كلام/NOUN-MS E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S كلام/NOUN-MS +هم/PRON لفظ/V مفيد/ADJ-MS مسند/ADJ-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ ال+/DET كلم/NOUN-FS +ة/NSUFF ال+/DET لفظ/NOUN-MS ال+/DET مفيد/ADJ-MS ال+/DET مفرد/NOUN-MS E/E 
+S/S ل+/PREP اسم/NOUN-MS و+/CONJ فعل/NOUN-MS ثم/CONJ حرف/NOUN-MS تنقسم/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ هذه/PRON ثلاث/ADJ-FS +ة/NSUFF هي/PRON ال+/DET كلم/NOUN-MS E/E 
+S/S و+/CONJ ال+/DET قول/NOUN-MS لفظ/NOUN-MS قد/PART أفاد/V مطلق/ADJ-MS +ا/CASE ./PUNC ../PUNC E/E 
+S/S ك+/PREP قم/NOUN-MS و+/CONJ قد/PART و+/CONJ إن/PART زيد/NOUN-MS +ا/CASE ارتقى/V E/E 
+S/S ف+/CONJ ال+/DET اسم/NOUN-MS ب+/PREP ال+/DET تنوين/NOUN-MS و+/CONJ ال+/DET خفض/NOUN-MS عرف/V ./PUNC ../PUNC E/E 
+S/S و+/CONJ حرف/NOUN-MS خفض/NOUN-MS و+/CONJ ب+/PREP لام/NOUN-MS و+/CONJ ألف/NOUN-MS E/E 
+S/S و+/CONJ ال+/DET فعل/NOUN-MS معروف/ADJ-MS ب+/PREP قد/PART و+/CONJ ال+/DET سين/ADJ-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ تاء/V تأنيث/NOUN-MS مع/NOUN-MS ال+/DET تسكين/NOUN-MS E/E 
+S/S وتا/NOUN-MS فعل/V +ت/PRON مطلق/ADJ-MS +ا/CASE ك+/PREP جئت/NOUN-MS لي/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ ال+/DET نون/NOUN-MS و+/CONJ ال+/DET يا/PART في/PREP افعلن/NOUN-MS و+/CONJ افعلي/NOUN-MS E/E 
+S/S و+/CONJ ال+/DET حرف/NOUN-MS لم/PART يصلح/V ل+/PREP +ه/PRON علام/NOUN-MS +ه/PRON ./PUNC ../PUNC E/E 
+S/S إلا/PART انتفا/NOUN-MS قبول/NOUN-MS +ه/PRON ال+/DET علامه/NOUN-MS E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS ال+/DET إعراب/NOUN-MS */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S إعراب/NOUN-MS +هم/PRON تغيير/NOUN-MS آخر/NOUN-MS ال+/DET كلم/NOUN-MS ./PUNC ../PUNC E/E 
+S/S تقدير/NOUN-MS +ا/CASE أو/CONJ لفظ/NOUN-MS +ا/CASE ل+/PREP عامل/NOUN-MS علم/NOUN-MS E/E 
+S/S أقسام/NOUN-FP +ه/PRON أربع/ADJ-FS +ة/NSUFF فلتعتبر/NOUN-MS ./PUNC ../PUNC E/E 
+S/S رفع/NOUN-MS و+/CONJ نصب/NOUN-MS و+/CONJ كذا/ADJ-MS جزم/NOUN-MS و+/CONJ جر/V E/E 
+S/S و+/CONJ ال+/DET كل/NOUN-MS غير/PART ال+/DET جزم/NOUN-MS في/PREP ال+/DET أسما/V يقع/V ./PUNC ../PUNC E/E 
+S/S و+/CONJ كل/NOUN-MS +ها/PRON في/PREP ال+/DET فعل/NOUN-MS و+/CONJ ال+/DET خفض/NOUN-MS امتنع/V E/E 
+S/S و+/CONJ سائر/ADJ-MS ال+/DET أسماء/NOUN-FP حيث/PART لا/PART شبه/NOUN-MS ./PUNC ../PUNC E/E 
+S/S قرب/NOUN-MS +ها/PRON من/PREP ال+/DET حروف/NOUN-FP معرب/ADJ-MS +ه/PRON E/E 
+S/S و+/CONJ غيرذي/NOUN-MS ال+/DET أسماء/NOUN-FP مبني/ADJ-MS خلا/PREP ./PUNC ../PUNC E/E 
+S/S مضارع/NOUN-MS من/PREP كل/NOUN-MS نون/NOUN-MS قد/PART خلا/V E/E 
+S/S */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS علام/NOUN-FP +ات/NSUFF ال+/DET إعراب/NOUN-MS */PUNC */PUNC */PUNC */PUNC E/E 
+S/S ل+/PREP ال+/DET رفع/NOUN-MS من/PREP +ها/PRON ضم/NOUN-FS +ة/NSUFF واو/NOUN-MS ألف/NUM-MS ./PUNC ../PUNC E/E 
+S/S كذا/NOUN-MS +ك/PRON نون/NOUN-MS ثابت/ADJ-MS لا/PART منحذف/ADJ-MS E/E 
+S/S ف+/CONJ ال+/DET ضم/NOUN-MS في/PREP اسم/NOUN-MS مفرد/NOUN-MS ك+/PREP أحمد/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ جمع/V تكسير/NOUN-MS ك+/PREP جاء/V ال+/DET أعبد/NOUN-FP E/E 
+S/S و+/CONJ جمع/V تأنيث/NOUN-MS ك+/PREP مسلم/NOUN-FP +ات/NSUFF ./PUNC ../PUNC E/E 
+S/S و+/CONJ كل/NOUN-MS فعل/NOUN-MS معرب/ADJ-MS كي/NOUN-FS +ات/NSUFF +ي/PRON E/E 
+S/S و+/CONJ ال+/DET واوفي/NOUN-MS جمع/NOUN-MS ال+/DET ذكور/NOUN-FP ال+/DET سالم/ADJ-MP ./PUNC ../PUNC E/E 
+S/S ك+/PREP ال+/DET صالحون/NOUN-MP هم/PRON أولو/NOUN-FS ال+/DET مكارم/NOUN-FP E/E 
+S/S كماأتت/NOUN-MS في/PREP ال+/DET خمس/NOUN-FS +ة/NSUFF ال+/DET أسماء/NOUN-FP ./PUNC ../PUNC E/E 
+S/S و+/CONJ هي/PRON التي/PART تأتي/V على/PREP ال+/DET ولاء/NOUN-MS E/E 
+S/S أب/NOUN-MS أخ/NOUN-MS حم/V و+/CONJ فوك/NOUN-MS ذو/NOUN-MS جرى/V ./PUNC ../PUNC E/E 
+S/S كل/NOUN-MS مضاف/ADJ-MP +ا/NSUFF مفرد/NOUN-MS +ا/CASE مكبر/NOUN-MS +ا/CASE E/E 
+S/S و+/CONJ في/PREP مثنى/NOUN-MS نحو/NOUN-MS زيدان/NOUN-FP ال+/DET ألف/NUM-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ ال+/DET نون/NOUN-MS في/PREP ال+/DET مضارع/NOUN-MS الذي/PART عرف/V E/E 
+S/S ب+/PREP يفعلان/NOUN-MS تفعلان/ADJ-MS أنتم/PRON +ا/CASE ./PUNC ../PUNC E/E 
+S/S و+/CONJ يفعل/V +ون/PRON تفعل/V +ون/PRON مع/NOUN-MS +هما/PRON E/E 
+S/S و+/CONJ تفعل/V +ين/NSUFF ترحم/ADJ-FS +ين/NSUFF حالي/ADJ-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ اشتهر/V +ت/PRON ب+/PREP ال+/DET خمس/NOUN-FS +ة/NSUFF ال+/DET أفعال/NOUN-FP E/E 
+S/S */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS علام/NOUN-FP +ات/NSUFF ال+/DET نصب/NOUN-MS */PUNC */PUNC */PUNC */PUNC E/E 
+S/S ل+/PREP ال+/DET نصب/NOUN-MS خمس/NOUN-MS و+/CONJ هي/PRON فتح/NOUN-FS +ة/NSUFF ألف/ADJ-MS ./PUNC ../PUNC E/E 
+S/S كسر/NOUN-MS و+/CONJ ياء/NOUN-MS ثم/CONJ نون/NOUN-MS تنحذف/NOUN-MS E/E 
+S/S ف+/CONJ انصب/V ب+/PREP فتح/NOUN-MS ما/PART ب+/PREP ضم/NOUN-MS قد/PART رفع/V ./PUNC ../PUNC E/E 
+S/S إلا/PART ك+/PREP هند/NOUN-FS +ات/NSUFF ف+/CONJ فتح/NOUN-MS +ه/PRON منع/NOUN-MS E/E 
+S/S و+/CONJ اجعل/V ل+/PREP نصب/NOUN-MS ال+/DET خمس/NUM-FS +ة/NSUFF ال+/DET أسما/V ألف/NUM-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ انصب/V ب+/PREP كسر/NOUN-MS جمع/NOUN-MS تأنيث/NOUN-MS عرف/V E/E 
+S/S و+/CONJ ال+/DET نصب/NOUN-MS في/PREP ال+/DET اسم/NOUN-MS الذي/PART قد/PART ثني/NOUN-MS +ا/CASE ./PUNC ../PUNC E/E 
+S/S و+/CONJ جمع/NOUN-MS تذكير/NOUN-MS مصحح/NOUN-MS بيا/NOUN-MS E/E 
+S/S و+/CONJ ال+/DET خمس/NUM-FS +ة/NSUFF ال+/DET أفعال/NOUN-FP حيث/PART تنتصب/V ./PUNC ../PUNC E/E 
+S/S ف+/CONJ حذف/NOUN-MS نون/NOUN-MS ال+/DET رفع/NOUN-MS مطلق/ADJ-MS +ا/CASE يجب/V E/E 
+S/S */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS علام/NOUN-FP +ات/NSUFF ال+/DET خفض/NOUN-MS */PUNC */PUNC */PUNC */PUNC E/E 
+S/S علام/NOUN-FS +ة/NSUFF ال+/DET خفض/NOUN-MS التي/PART ب+/PREP +ها/PRON انضبط/NOUN-MS ./PUNC ../PUNC E/E 
+S/S كسر/NOUN-MS و+/CONJ ياء/NOUN-MS ثم/CONJ فتح/NOUN-FS +ة/NSUFF فقط/ADV E/E 
+S/S فاخفض/NOUN-MS ب+/PREP كسر/NOUN-MS ما/PART من/PREP ال+/DET أسما/V عرف/V ./PUNC ../PUNC E/E 
+S/S في/PREP رفع/NOUN-MS +ه/PRON ب+/PREP ال+/DET ضم/NOUN-MS حيث/PART ينصرف/V E/E 
+S/S و+/CONJ اخفض/V ب+/PREP ياء/NOUN-MS كل/NOUN-MS ما/PART ب+/PREP +ها/PRON نصب/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ ال+/DET خمس/NUM-FS +ة/NSUFF ال+/DET أسما/V ب+/PREP شرط/NOUN-MS +ها/PRON تصب/V E/E 
+S/S و+/CONJ اخفض/V ب+/PREP فتح/NOUN-MS كل/NOUN-MS ما/PART لم/PART ينصرف/V ./PUNC ../PUNC E/E 
+S/S مما/PART ب+/PREP وصف/NOUN-MS ال+/DET فعل/NOUN-MS صار/V يتصف/V E/E 
+S/S ب+/PREP أن/PART يحوز/V ال+/DET اسم/NOUN-MS عل/NOUN-FS +ت/NSUFF +ين/NSUFF ./PUNC ../PUNC E/E 
+S/S أو/CONJ عل/NOUN-FS +ة/NSUFF تغني/V عن/PREP اثنتين/NOUN-MS E/E 
+S/S ف+/CONJ ألف/NOUN-MS ال+/DET تأنيث/NOUN-MS أغن/V +ت/PRON وحد/NOUN-MS +ها/PRON ./PUNC ../PUNC E/E 
+S/S و+/CONJ صيغ/NOUN-FS +ة/NSUFF ال+/DET جمع/NOUN-MS الذي/PART قد/PART انتهى/V E/E 
+S/S و+/CONJ ال+/DET علتان/NOUN-MS ال+/DET وصف/NOUN-MS مع/NOUN-MS عدل/NOUN-MS عرف/NOUN-MS ./PUNC ../PUNC E/E 
+S/S أووزن/NOUN-MS فعل/NOUN-MS أو/CONJ ب+/PREP نون/NOUN-MS و+/CONJ ألف/NOUN-MS E/E 
+S/S و+/CONJ هذه/PRON ال+/DET ثلاث/ADJ-MS تمنع/NOUN-MS ال+/DET علم/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ زاد/V تركيب/NOUN-MS +ا/CASE و+/CONJ أسماء/NOUN-FP ال+/DET عجم/NOUN-MS E/E 
+S/S كذا/NOUN-MS +ك/PRON تأنيث/ADJ-MS ب+/PREP ما/PART عدا/NOUN-MS ال+/DET ألف/NOUN-MS ./PUNC ../PUNC E/E 
+S/S ف+/CONJ إن/PART يضف/V أويأ/V +ت/PRON بعد/NOUN-MS أل/NOUN-MS صرف/NOUN-MS E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS علام/NOUN-FP +ات/NSUFF ال+/DET جزم/NOUN-MS */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S و+/CONJ ال+/DET جزم/NOUN-MS في/PREP ال+/DET أفعال/NOUN-FP ب+/PREP ال+/DET سكون/NOUN-MS ./PUNC ../PUNC E/E 
+S/S أوحذف/NOUN-MS حرف/NOUN-MS عل/NOUN-FS +ة/NSUFF أون/NOUN-FS +ون/NSUFF E/E 
+S/S ف+/CONJ حذف/NOUN-MS نون/NOUN-MS ال+/DET رفع/NOUN-MS قطع/NOUN-MS +ا/CASE يلزم/V ./PUNC ../PUNC E/E 
+S/S في/PREP ال+/DET خمس/NOUN-FS +ة/NSUFF ال+/DET أفعال/NOUN-FP حيث/PART تجزم/V E/E 
+S/S و+/CONJ ب+/PREP ال+/DET سكون/NOUN-MS اجزم/V مضارع/NOUN-MS +ا/CASE سلم/V ./PUNC ../PUNC E/E 
+S/S من/PREP كون/NOUN-MS +ه/PRON ب+/PREP حرف/NOUN-MS عل/NOUN-FS +ة/NSUFF ختم/V E/E 
+S/S إما/CONJ ب+/PREP واو/NOUN-MS أو/CONJ ب+/PREP ياء/NOUN-MS أو/CONJ ألف/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ جزم/NOUN-MS معتل/NOUN-MS ب+/PREP +ها/PRON أن/PART تنحذف/NOUN-MS E/E 
+S/S و+/CONJ نصب/NOUN-MS ذي/NOUN-MS واو/NOUN-MS و+/CONJ ياء/NOUN-MS يظهر/V ./PUNC ../PUNC E/E 
+S/S و+/CONJ ما/PART سوا/PART +ه/PRON في/PREP ال+/DET ثلاث/ADJ-MS قدر/V +وا/PRON E/E 
+S/S ف+/CONJ نحو/NOUN-MS يغزو/NOUN-FP يهتدي/V يخشى/V ختم/NOUN-MS ./PUNC ../PUNC E/E 
+S/S بعل/NOUN-FS +ة/NSUFF و+/CONJ غير/PART +ه/PRON من/PREP +ها/PRON سلم/V E/E 
+S/S وعل/NOUN-FS +ة/NSUFF ال+/DET أسماء/NOUN-FP ياء/NOUN-MS و+/CONJ ألف/NOUN-MS ./PUNC ../PUNC E/E 
+S/S ف+/CONJ نحو/NOUN-MS قاض/NOUN-MS و+/CONJ ال+/DET فتى/NOUN-MS ب+/PREP +ها/PRON عرف/V E/E 
+S/S إعراب/NOUN-MS كل/NOUN-MS من/PREP +هما/PRON مقدر/NOUN-MS ./PUNC ../PUNC E/E 
+S/S في/PREP +ها/PRON و+/CONJ لكن/PART نصب/V قاض/NOUN-MS يظهر/V E/E 
+S/S و+/CONJ قدر/V +وا/PRON ثلاث/NUM-FS +ة/NSUFF ال+/DET أقسام/NOUN-FP ./PUNC ../PUNC E/E 
+S/S في/PREP ال+/DET ميم/NOUN-MS قبل/NOUN-MS ال+/DET ياء/NOUN-MS من/PREP غلامي/NOUN-MS E/E 
+S/S و+/CONJ ال+/DET واو/NOUN-MS في/PREP ك+/PREP مسلم/ADJ-MP +ي/NSUFF أضمر/V +ت/PRON ./PUNC ../PUNC E/E 
+S/S و+/CONJ ال+/DET نون/NOUN-MS في/PREP ل+/PREP تبلون/NOUN-MS قدر/V +ت/PRON E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC فصل/NOUN-MS */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S ال+/DET معرب/ADJ-MP +ات/NSUFF كل/NOUN-MS +ها/PRON قد/PART تعرب/V ./PUNC ../PUNC E/E 
+S/S ب+/PREP ال+/DET حرك/NOUN-FP +ات/NSUFF أو/NOUN-MS حروف/NOUN-FP تقرب/V E/E 
+S/S ف+/CONJ أول/ADJ-MS ال+/DET قسم/NOUN-MD +ين/NSUFF من/PREP +ها/PRON أربع/NUM-MP ./PUNC ../PUNC E/E 
+S/S و+/CONJ هي/PRON التي/PART مر/V +ت/PRON ب+/PREP ضم/NOUN-MS ترفع/NOUN-MS E/E 
+S/S و+/CONJ كل/NOUN-MS ما/PART ب+/PREP ضم/NOUN-FS +ة/NSUFF قد/PART ارتفع/V ./PUNC ../PUNC E/E 
+S/S ف+/CONJ نصب/V +ه/PRON ب+/PREP لفتح/NOUN-MS مطلق/ADJ-MS +ا/CASE يقع/V E/E 
+S/S و+/CONJ خفض/NOUN-MS ال+/DET اسم/NOUN-MS من/PREP +ه/PRON ب+/PREP ال+/DET كسر/NOUN-MS التزم/V ./PUNC ../PUNC E/E 
+S/S و+/CONJ ال+/DET فعل/NOUN-MS من/PREP +ه/PRON باالسكون/NOUN-MS منجزم/NOUN-MS E/E 
+S/S لكن/CONJ ك+/PREP هند/NOUN-FS +ات/NSUFF ل+/PREP نصب/NOUN-MS +ه/PRON انكسر/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ غير/NOUN-MS مصروف/NOUN-MS ب+/PREP فتح/NOUN-FS +ة/NSUFF يجر/V E/E 
+S/S و+/CONJ كل/NOUN-MS فعل/NOUN-MS كان/V معتل/NOUN-MS +ا/CASE جزم/NOUN-MS ./PUNC ../PUNC E/E 
+S/S ب+/PREP حذف/NOUN-MS حرف/NOUN-MS عل/NOUN-FS +ة/NSUFF ك+/PREP ما/PART علم/V E/E 
+S/S و+/CONJ ال+/DET معرب/ADJ-MP +ات/NSUFF ب+/PREP ال+/DET حروف/NOUN-FP أربع/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ هي/PRON ال+/DET مثنى/NOUN-MS و+/CONJ ذكور/NOUN-FP تجمع/NOUN-MS E/E 
+S/S جمع/NOUN-MS +ا/PRON صحيح/ADJ-MS +ا/CASE ك+/PREP ال+/DET مثال/NOUN-MS ال+/DET خالي/ADJ-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ خمس/NOUN-FS +ة/NSUFF ال+/DET أسماء/NOUN-FP و+/CONJ ال+/DET أفعال/NOUN-FP E/E 
+S/S أما/PART ال+/DET مثنى/NOUN-MS ف+/CONJ ل+/PREP رفع/NOUN-MS +ه/PRON ال+/DET ألف/NUM-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ نصب/V +ه/PRON وجر/NOUN-MS +ه/PRON ب+/PREP ال+/DET يا/NOUN-MS عرف/NOUN-MS E/E 
+S/S و+/CONJ ك+/PREP ال+/DET مثنى/NOUN-MS ال+/DET جمع/NOUN-MS في/PREP نصب/NOUN-MS و+/CONJ جر/V ./PUNC ../PUNC E/E 
+S/S و+/CONJ رفع/V +ه/PRON ب+/PREP ال+/DET واو/NOUN-MS مر/NOUN-MS و+/CONJ استقر/V E/E 
+S/S و+/CONJ ال+/DET خمس/NUM-FS +ة/NSUFF ال+/DET اسما/NOUN-MD ك+/PREP هذا/PRON ال+/DET جمع/NOUN-MS في/PREP ./PUNC ../PUNC E/E 
+S/S رفع/NOUN-MS و+/CONJ خفض/NOUN-MS و+/CONJ انصبن/NOUN-MS ب+/PREP ال+/DET ألف/NOUN-MS E/E 
+S/S و+/CONJ ال+/DET خمس/NUM-FS +ة/NSUFF ال+/DET أفعال/NOUN-FP رفع/V +ها/PRON عرف/V ./PUNC ../PUNC E/E 
+S/S ب+/PREP نون/NOUN-MS +ها/PRON و+/CONJ في/PREP سوا/PART +ه/PRON تنحذف/ADJ-MS E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS ال+/DET معرف/NOUN-FS +ة/NSUFF و+/CONJ ال+/DET نكر/NOUN-FS +ة/NSUFF */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S و+/CONJ إن/PART ترد/V تعريف/NOUN-MS ال+/DET اسم/NOUN-MS ال+/DET نكره/ADJ-MS ./PUNC ../PUNC E/E 
+S/S ف+/CONJ هو/PRON الذي/PART يقبل/V أل/NOUN-MS مؤثر/ADJ-MS +ه/PRON E/E 
+S/S و+/CONJ غير/PART +ه/PRON معارف/NOUN-FP و+/CONJ تحصر/NOUN-MS ./PUNC ../PUNC E/E 
+S/S في/PREP ست/NUM-FS +ة/NSUFF ف+/CONJ ال+/DET أول/ADJ-MS مضمر/ADJ-MS E/E 
+S/S يكنى/V ب+/PREP +ه/PRON عن/PREP ظاهر/NOUN-MS فينتمي/NOUN-MS ./PUNC ../PUNC E/E 
+S/S ل+/PREP ال+/DET غيب/NOUN-MS و+/CONJ ال+/DET حضور/NOUN-MS و+/CONJ ال+/DET تكلم/NOUN-MS E/E 
+S/S وقسموه/NOUN-MS ثاني/NUM-MS +ا/CASE ل+/PREP متصل/ADJ-MS ./PUNC ../PUNC E/E 
+S/S مستتر/NOUN-MS أوبارز/NOUN-MS أو/CONJ منفصل/ADJ-MS E/E 
+S/S ثاني/NUM-MS ال+/DET معارف/NOUN-FP ال+/DET شهير/ADJ-MS ب+/PREP ال+/DET علم/NOUN-MS ./PUNC ../PUNC E/E 
+S/S ك+/PREP جعفر/NOUN-MS و+/CONJ مك/NOUN-FS +ة/NSUFF و+/CONJ ك+/PREP ال+/DET حرم/NOUN-MS E/E 
+S/S و+/CONJ أم/NOUN-MS عمرو/NOUN-MS و+/CONJ أبي/NOUN-MS سعيد/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ نحو/NOUN-MS كهف/NOUN-MS ال+/DET ظلم/NOUN-MS و+/CONJ ال+/DET رشيد/NOUN-MS E/E 
+S/S ف+/CONJ ما/PART أتى/V من/PREP +ه/PRON ب+/PREP أم/NOUN-MS أو/CONJ ب+/PREP أب/NOUN-MS ./PUNC ../PUNC E/E 
+S/S فكنية/NOUN-MS و+/CONJ غير/NOUN-MS +ه/PRON اسم/NOUN-MS أو/CONJ لقب/NOUN-MS E/E 
+S/S ف+/CONJ ما/PART ب+/PREP مدح/NOUN-MS أو/CONJ ب+/PREP ذم/NOUN-MS مشعر/NOUN-MS ./PUNC ../PUNC E/E 
+S/S ف+/CONJ لقب/NOUN-MS و+/CONJ ال+/DET اسم/NOUN-MS ما/PART لا/PART يشعر/V E/E 
+S/S ثالث/NUM-MS +ها/PRON إشار/NOUN-FS +ة/NSUFF كذا/ADJ-MS و+/CONJ ذي/NOUN-MS ./PUNC ../PUNC E/E 
+S/S رابع/NUM-MS +ها/PRON موصول/ADJ-MS ال+/DET اسم/NOUN-MS ك+/PREP الذي/PART E/E 
+S/S خامس/NUM-MS +ها/PRON معرف/NOUN-MS ب+/PREP حرف/NOUN-MS أل/ADJ-MS ./PUNC ../PUNC E/E 
+S/S ك+/PREP ما/PART تقول/V في/PREP محل/NOUN-MS ال+/DET محل/NOUN-MS E/E 
+S/S سادس/NUM-MS +ها/PRON ما/PART كان/V من/PREP مضاف/ADJ-MS ./PUNC ../PUNC E/E 
+S/S ل+/PREP واحد/NOUN-MS من/PREP هذه/PRON ال+/DET أصناف/NOUN-FP E/E 
+S/S كقولك/NOUN-MS ابني/NOUN-MS و+/CONJ ابن/NOUN-MS زيد/NOUN-MS و+/CONJ ابن/NOUN-MS ذي/PRON ./PUNC ../PUNC E/E 
+S/S و+/CONJ ابن/NOUN-MS الذي/PART ضرب/V +ت/PRON +ه/PRON و+/CONJ ابن/NOUN-MS ال+/DET بذي/NOUN-MS E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS ال+/DET أفعال/NOUN-FP */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S أفعال/NOUN-FP +هم/PRON ثلاث/ADJ-FS +ة/NSUFF في/PREP ال+/DET واقع/NOUN-MS ./PUNC ../PUNC E/E 
+S/S ماض/ADJ-MS و+/CONJ فعل/NOUN-MS ال+/DET أمر/NOUN-MS و+/CONJ ال+/DET مضارع/NOUN-MS E/E 
+S/S ف+/CONJ ال+/DET ماض/ADJ-MS مفتوح/ADJ-MS ال+/DET أخير/ADJ-MS إن/PART قطع/V ./PUNC ../PUNC E/E 
+S/S عن/PREP مضمر/ADJ-MS محرك/NOUN-MS ب+/PREP +ه/PRON رفع/V E/E 
+S/S ف+/CONJ إن/PART أتى/V مع/NOUN-MS ذا/PRON ال+/DET ضمير/NOUN-MS سكن/NOUN-MS +ا/CASE ./PUNC ../PUNC E/E 
+S/S و+/CONJ ضم/V +ه/PRON مع/NOUN-MS واو/NOUN-MS جمع/NOUN-MS عين/NOUN-MS +ا/CASE E/E 
+S/S و+/CONJ ال+/DET أمر/NOUN-MS مبني/ADJ-MS على/PREP ال+/DET سكون/NOUN-MS ./PUNC ../PUNC E/E 
+S/S أوحذف/NOUN-MS حرف/NOUN-MS عل/NOUN-FS +ة/NSUFF أو/CONJ نون/NOUN-MS E/E 
+S/S و+/CONJ افتتح/V +وا/PRON مضارع/NOUN-MS +ا/CASE ب+/PREP واحد/NOUN-MS ./PUNC ../PUNC E/E 
+S/S من/PREP ال+/DET حروف/NOUN-FP ال+/DET أربع/ADJ-MS ال+/DET زوائد/ADJ-FP E/E 
+S/S همز/NOUN-MS و+/CONJ نون/NOUN-MS و+/CONJ كذا/NOUN-MS ياء/NOUN-MS وتا/NOUN-MS ./PUNC ../PUNC E/E 
+S/S يجمع/V +ها/PRON قول/NOUN-MS +ي/PRON أني/V +ت/PRON يافتى/NOUN-MS E/E 
+S/S و+/CONJ حيث/PART كان/V +ت/PRON في/PREP رباعي/NOUN-MS تضم/V ./PUNC ../PUNC E/E 
+S/S و+/CONJ فتح/V +ها/PRON فيما/PART سوا/PART +ه/PRON ملتزم/ADJ-MS E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS إعراب/NOUN-MS ال+/DET فعل/NOUN-MS */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S رفع/V ال+/DET مضارع/NOUN-MS الذي/PART تجرد/NOUN-MS +ا/CASE ./PUNC ../PUNC E/E 
+S/S عن/PREP ناصب/ADJ-MS و+/CONJ جازم/ADJ-MS تأبد/ADJ-MS +ا/CASE E/E 
+S/S ف+/CONJ انصب/V ب+/PREP عشر/NOUN-MS و+/CONJ هي/PRON أن/PART و+/CONJ لن/PART و+/CONJ كي/PART ./PUNC ../PUNC E/E 
+S/S كذا/V إذن/ADV إن/FOREIGN صدر/V +ت/PRON و+/CONJ لام/V كي/NOUN-MS E/E 
+S/S و+/CONJ لام/V جحد/NOUN-MS و+/CONJ كذا/NOUN-MS حتى/PREP و+/CONJ أو/CONJ ./PUNC ../PUNC E/E 
+S/S و+/CONJ ال+/DET واو/NOUN-MS و+/CONJ الفا/NOUN-MS في/PREP جواب/NOUN-MS و+/CONJ عن/PREP +وا/PRON E/E 
+S/S ب+/PREP +ه/PRON جواب/NOUN-MS +ا/CASE بعد/NOUN-MS نفي/NOUN-MS أو/CONJ طلب/NOUN-MS ./PUNC ../PUNC E/E 
+S/S كلا/PART ترم/NOUN-MS علم/NOUN-MS +ا/CASE و+/CONJ تترك/V ال+/DET تعب/NOUN-MS E/E 
+S/S و+/CONJ جزم/NOUN-MS +ه/PRON ب+/PREP لم/PART و+/CONJ لما/PART قد/PART و+/CONJ جب/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ لا/PART و+/CONJ لام/V دلتا/NOUN-MS على/PREP ال+/DET طلب/NOUN-MS E/E 
+S/S كذا/NOUN-MS +ك/PRON إن/PART و+/CONJ ما/PART و+/CONJ من/PREP و+/CONJ إذ/PART ما/PART ./PUNC ../PUNC E/E 
+S/S أي/NOUN-MS متى/PART أيان/V أين/PART مهما/PART E/E 
+S/S و+/CONJ حيثما/NOUN-MS و+/CONJ كيفما/PART و+/CONJ أنى/V ./PUNC ../PUNC E/E 
+S/S ك+/PREP إن/PART يقم/V زيد/NOUN-MS و+/CONJ عمرو/NOUN-MS قم/NOUN-MS +نا/PRON E/E 
+S/S و+/CONJ اجزم/V ب+/PREP إن/PART و+/CONJ ما/PART ب+/PREP +ها/PRON قد/PART ألحق/V +ا/PRON ./PUNC ../PUNC E/E 
+S/S فعل/NOUN-FS +ين/NSUFF لفظ/NOUN-MS +ا/CASE أو/CONJ محل/NOUN-MS +ا/CASE مطلق/ADJ-MS +ا/CASE E/E 
+S/S و+/CONJ ليقترن/NOUN-MS ب+/PREP الفا/NOUN-MS جواب/NOUN-MS ل+/PREP ووقع/NOUN-MS ./PUNC ../PUNC E/E 
+S/S بعد/NOUN-MS ال+/DET أدا/NOUN-FS +ة/NSUFF موضع/NOUN-MS ال+/DET شرط/NOUN-MS امتنع/V E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS مرفوع/ADJ-FP +ات/NSUFF ال+/DET أسماء/NOUN-FP */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S مرفوع/ADJ-MS ال+/DET اسما/NOUN-MD سبع/NUM-FS +ة/NSUFF نأتي/V ب+/PREP +ها/PRON ./PUNC ../PUNC E/E 
+S/S معلوم/NOUN-FS +ة/NSUFF ال+/DET أسماء/NOUN-FP من/PREP تبويب/NOUN-MS +ها/PRON E/E 
+S/S ف+/CONJ ال+/DET فاعل/NOUN-MS اسم/NOUN-MS مطلق/ADJ-MS +ا/CASE قد/PART ارتفع/V ./PUNC ../PUNC E/E 
+S/S ب+/PREP فعل/NOUN-MS +ه/PRON و+/CONJ ال+/DET فعل/NOUN-MS قبل/NOUN-MS +ه/PRON وقع/V E/E 
+S/S و+/CONJ واجب/NOUN-MS في/PREP ال+/DET فعل/NOUN-MS أن/PART يجرد/V +ا/PRON ./PUNC ../PUNC E/E 
+S/S إذا/PART ل+/PREP جمع/NOUN-MS أو/CONJ مثنى/NOUN-MS أسند/V +ا/PRON E/E 
+S/S ف+/CONJ قل/V أتى/V ال+/DET زيدان/NOUN-FP وازيدونا/NOUN-MS ./PUNC ../PUNC E/E 
+S/S ك+/PREP جاء/V زيد/NOUN-MS ويجي/NOUN-MS أخو/NOUN-MS +نا/PRON E/E 
+S/S وقسموه/NOUN-MS ظاهر/NOUN-MS +ا/PRON و+/CONJ مضمر/ADJ-MS +ا/CASE ./PUNC ../PUNC E/E 
+S/S ف+/CONJ ال+/DET ظاهر/NOUN-MS ال+/DET لفظ/NOUN-MS الذي/PART قد/PART ذكر/V +ا/PRON E/E 
+S/S و+/CONJ ال+/DET مضمر/ADJ-MS اثن/NOUN-MS +ا/CASE عشر/NOUN-MS نوع/NOUN-MS +ا/PRON ف+/PART سما/V ./PUNC ../PUNC E/E 
+S/S كقمت/NOUN-MS قم/NOUN-MS +نا/PRON قم/V +ت/PRON قم/V +ت/PRON قمتم/NOUN-MS +ا/CASE E/E 
+S/S قمتن/NOUN-MS قمتم/NOUN-MS قام/V قام/V +ت/PRON قام/V +ا/PRON ./PUNC ../PUNC E/E 
+S/S قام/V +وا/PRON و+/CONJ قمن/V نحو/NOUN-MS صمتم/NOUN-MS عام/ADJ-MS +ا/CASE E/E 
+S/S و+/CONJ هذه/PRON ضمائر/NOUN-FP متصل/ADJ-MS +ه/PRON ./PUNC ../PUNC E/E 
+S/S و+/CONJ مثل/NOUN-MS +ها/PRON ال+/DET ضمائر/NOUN-FP ال+/DET منفصله/ADJ-MS E/E 
+S/S و+/CONJ غير/PART ذين/V ب+/PREP ال+/DET قياس/NOUN-MS يعلم/V ./PUNC ../PUNC E/E 
+S/S كلم/ABBREV يقم/V إلا/PART أنا/PRON أو/CONJ أنتم/PRON E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS نائب/NOUN-MS ال+/DET فاعل/ADJ-MS */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S أقم/NOUN-MS مقام/NOUN-MS ال+/DET فاعل/ADJ-MS الذي/PART حذف/NOUN-MS ./PUNC ../PUNC E/E 
+S/S مفعول/NOUN-MS +ه/PRON في/PREP كل/NOUN-MS مال/NOUN-MS +ه/PRON عرف/V E/E 
+S/S أو/CONJ مصدر/NOUN-MS +ا/CASE أو/CONJ ظرف/NOUN-MS +ا/CASE أو/CONJ مجرور/NOUN-MS +ا/CASE ./PUNC ../PUNC E/E 
+S/S إن/PART لم/PART تجد/V مفعول/NOUN-MS +ه/PRON ال+/DET مذكورا/NOUN-MS E/E 
+S/S و+/CONJ أول/ADJ-MS ال+/DET فعل/NOUN-MS الذي/PART هنا/ADV يضم/V ./PUNC ../PUNC E/E 
+S/S و+/CONJ كسر/V ماقبل/NOUN-MS ال+/DET أخير/NOUN-MS ملتزم/ADJ-MS E/E 
+S/S في/PREP كل/NOUN-MS ماض/ADJ-MS و+/CONJ هو/PRON في/PREP ال+/DET مضارع/NOUN-MS ./PUNC ../PUNC E/E 
+S/S منفتح/ADJ-MS ك+/PREP يدعى/V و+/CONJ ك+/PREP ادعي/V E/E 
+S/S و+/CONJ أول/ADJ-MS ال+/DET فعل/NOUN-MS الذي/PART كباعا/NOUN-FP ./PUNC ../PUNC E/E 
+S/S منكسر/ADJ-MS و+/CONJ هو/PRON الذي/PART قد/PART شاع/V +ا/PRON E/E 
+S/S و+/CONJ ذاك/PRON إما/CONJ مضمر/ADJ-MS أو/CONJ مظهر/NOUN-MS ./PUNC ../PUNC E/E 
+S/S ثاني/NUM-MS +هما/PRON ك+/PREP يكرم/V ال+/DET مبشر/NOUN-MS E/E 
+S/S أما/PART ال+/DET ضمير/NOUN-MS ف+/CONJ هو/PRON نحو/NOUN-MS قول/NOUN-MS +نا/PRON ./PUNC ../PUNC E/E 
+S/S دعي/V +ت/PRON أدعى/NOUN-MS مادعي/ADJ-MS إلا/PART أنا/PRON E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS ال+/DET مبتدإ/NOUN-MS و+/CONJ ال+/DET خبر/NOUN-MS */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S ال+/DET مبتدا/NOUN-MS اسم/NOUN-MS رفع/NOUN-MS +ه/PRON مؤبد/NOUN-MS ./PUNC ../PUNC E/E 
+S/S عن/PREP كل/NOUN-MS لفظ/NOUN-MS عامل/NOUN-MS مجرد/NOUN-MS E/E 
+S/S و+/CONJ ال+/DET خبر/NOUN-MS اسم/NOUN-MS ذو/NOUN-MS ارتفاع/NOUN-MS أسند/V +ا/PRON ./PUNC ../PUNC E/E 
+S/S مطابق/NOUN-MS +ا/CASE في/PREP لفظ/NOUN-MS +ه/PRON ل+/PREP ال+/DET مبتدا/NOUN-MS E/E 
+S/S ك+/PREP قول/NOUN-MS +نا/PRON زيد/NOUN-MS عظيم/NOUN-MS ال+/DET شأن/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ قول/NOUN-MS +نا/PRON ال+/DET زيدان/NOUN-FP قائم/NOUN-MD +ان/NSUFF E/E 
+S/S و+/CONJ مثل/NOUN-MS +ه/PRON ال+/DET زيد/NOUN-FS +ون/NSUFF قائمونا/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ من/PREP +ه/PRON أيض/ADV +ا/CASE قائم/NOUN-MS أخو/NOUN-MS +نا/PRON E/E 
+S/S و+/CONJ ال+/DET مبتدا/NOUN-MS اسم/NOUN-MS ظاهر/NOUN-MS ك+/PREP ما/PART مضى/V ./PUNC ../PUNC E/E 
+S/S أو/CONJ مضمر/ADJ-MS ك+/PREP أنت/PRON أهل/NOUN-MS ل+/PREP ال+/DET قضا/NOUN-MS E/E 
+S/S و+/CONJ لا/PART يجوز/V ال+/DET ابتدا/NOUN-MS ب+/PREP ما/PART اتصل/V ./PUNC ../PUNC E/E 
+S/S من/PREP ال+/DET ضمير/NOUN-MS بل/CONJ ب+/PREP كل/NOUN-MS ما/PART انفصل/V E/E 
+S/S أنا/PRON و+/CONJ نحن/PRON أنت/PRON أنت/PRON أنتم/PRON +ا/CASE ./PUNC ../PUNC E/E 
+S/S أنتن/V أنتم/PRON و+/CONJ هو/PRON و+/CONJ هي/PRON هم/PRON هما/PRON E/E 
+S/S و+/CONJ +هن/PRON أيض/ADV +ا/CASE ف+/PART ال+/DET جميع/NOUN-MS اثن/NOUN-MS +ا/CASE عشر/NUM-MP ./PUNC ../PUNC E/E 
+S/S و+/CONJ قد/PART مضى/V من/PREP +ها/PRON مثال/NOUN-MS معتبر/ADJ-MS E/E 
+S/S و+/CONJ مفرد/NOUN-MS +ا/CASE و+/CONJ غير/NOUN-MS +ه/PRON يأتي/V ال+/DET خبر/NOUN-MS ./PUNC ../PUNC E/E 
+S/S ف+/CONJ ال+/DET أول/ADJ-MS ال+/DET لفظ/NOUN-MS الذي/PART في/PREP ال+/DET نظم/NOUN-FS مر/NOUN-MS E/E 
+S/S و+/CONJ غير/PART +ه/PRON في/PREP أربع/ADJ-MS محصور/ADJ-MS ./PUNC ../PUNC E/E 
+S/S لا/PART غير/NOUN-MS و+/CONJ هي/PRON ال+/DET ظرف/NOUN-MS و+/CONJ ال+/DET مجرور/NOUN-MS E/E 
+S/S و+/CONJ فاعل/ADJ-MS مع/NOUN-MS فعل/NOUN-MS +ه/PRON الذي/PART صدر/V ./PUNC ../PUNC E/E 
+S/S و+/CONJ ال+/DET مبتدا/NOUN-MS مع/NOUN-MS مال/NOUN-MS +ه/PRON من/PREP ال+/DET خبر/NOUN-MS E/E 
+S/S ك+/PREP أنت/PRON عند/NOUN-MS +ي/PRON و+/CONJ ال+/DET فتى/NOUN-MS ب+/PREP داري/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ ابني/NOUN-MS قرا/NOUN-MS و+/CONJ ذا/NOUN-MS أبو/NOUN-MS +ه/PRON قاري/ADJ-MS E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC ك/PREP ان/NOUN-MS و+/CONJ أخو/NOUN-FP +ات/NSUFF +ها/PRON */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S </PUNC //PUNC span/FOREIGN >/PUNC E/E 
+S/S إرفع/V ب+/PREP كان/V ال+/DET مبتدا/NOUN-MS اسم/NOUN-MS +ا/CASE و+/CONJ ال+/DET خبر/NOUN-MS ./PUNC ../PUNC E/E 
+S/S ب+/PREP +ها/PRON انصبن/V ك+/PREP كان/V زيد/NOUN-MS ذا/PRON بصر/NOUN-MS E/E 
+S/S كذا/NOUN-MS +ك/PRON أضحى/V ظل/NOUN-MS بات/V أمسى/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ هكذ/NOUN-MS أصبح/V صار/V ليس/V +ا/CASE E/E 
+S/S فتىء/NOUN-MS و+/CONJ انفك/NOUN-MS و+/CONJ زال/V مع/NOUN-MS برح/V ./PUNC ../PUNC E/E 
+S/S أربع/NUM-MP +ها/PRON من/PREP بعد/NOUN-MS نفي/NOUN-MS تتضح/V E/E 
+S/S كذا/NOUN-MS +ك/PRON دام/V بعد/NOUN-MS ما/PART ال+/DET ظرفيه/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ هي/PRON التي/PART تكون/V مصدر/NOUN-MP +ي/NSUFF +ه/PRON E/E 
+S/S و+/CONJ كل/NOUN-MS ما/PART صرف/V +ت/PRON +ه/PRON مما/PART سبق/V ./PUNC ../PUNC E/E 
+S/S من/PREP مصدر/NOUN-MS و+/CONJ غير/PART +ه/PRON ب+/PREP +ه/PRON التحق/V E/E 
+S/S ككن/NOUN-MS صديق/ADJ-MS +ا/CASE لا/PART تكن/V مجافيا/ADJ-FP ./PUNC ../PUNC E/E 
+S/S و+/CONJ أنظر/V ل+/PREP كوني/NOUN-MS مصبح/NOUN-MS +ا/CASE موافي/ADJ-MS +ا/CASE E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC إن/PART و+/CONJ أخو/NOUN-FP +ات/NSUFF +ها/PRON */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S تنصب/V إن/PART ال+/DET مبتدا/NOUN-MS اسم/NOUN-MS +ا/CASE و+/CONJ ال+/DET خبر/NOUN-MS ./PUNC ../PUNC E/E 
+S/S ترفع/V +ه/PRON ك+/PREP إن/PART زيد/NOUN-MS +ا/CASE ذو/PRON نظر/NOUN-MS E/E 
+S/S و+/CONJ مثل/V إن/PART أن/PART ليت/PART في/PREP ال+/DET عمل/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ هكذا/ADV ك+/PREP أن/PART لكن/CONJ لعل/PART E/E 
+S/S و+/CONJ أكد/V +وا/PRON ال+/DET معنى/NOUN-MS ب+/PREP إن/PART أنا/PRON ./PUNC ../PUNC E/E 
+S/S و+/CONJ ليت/PART من/PREP ألفاظ/NOUN-FP من/PREP تمنى/V E/E 
+S/S ك+/PREP أن/PART ل+/PREP ال+/DET تشبيه/NOUN-MS في/PREP ال+/DET محاكي/NOUN-MP ./PUNC ../PUNC E/E 
+S/S و+/CONJ استعمل/V +وا/PRON لكن/PART في/PREP استدراك/NOUN-FP +ي/NSUFF E/E 
+S/S و+/CONJ ل+/PREP ترج/NOUN-MS و+/CONJ توقع/NOUN-MS لعل/PART ./PUNC ../PUNC E/E 
+S/S ك+/PREP قول/NOUN-MS +هم/PRON لعل/PART محبوب/NOUN-FP +ي/NSUFF وصل/V E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC ظن/NOUN-MS و+/CONJ أخو/NOUN-FP +ات/NSUFF +ها/PRON */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S إنصب/V ب+/PREP ظن/NOUN-MS ال+/DET مبتدا/NOUN-MS مع/NOUN-MS ال+/DET خبر/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ كل/NOUN-MS فعل/NOUN-MS بعد/NOUN-MS +ها/PRON على/PREP ال+/DET أثر/NOUN-MS E/E 
+S/S ك+/PREP خل/NOUN-FS +ت/NSUFF +ه/PRON حسب/NOUN-FS +ت/NSUFF +ه/PRON زعم/V +ت/PRON +ه/PRON ./PUNC ../PUNC E/E 
+S/S رأي/NOUN-FS +ت/NSUFF +ه/PRON وجد/V +ت/PRON +ه/PRON علم/NOUN-FP +ت/NSUFF +ه/PRON E/E 
+S/S جعل/V +ت/PRON +ه/PRON اتخذ/V +ت/PRON +ه/PRON و+/CONJ كل/NOUN-MS ما/PART ./PUNC ../PUNC E/E 
+S/S من/PREP هذه/PRON صرف/NOUN-FS +ت/NSUFF +ه/PRON فليعلما/NOUN-MS E/E 
+S/S ك+/PREP قو/NOUN-MS ل+/PREP +هم/PRON ظنن/V +ت/PRON زيد/NOUN-MS +ا/CASE منجد/NOUN-MS +ا/CASE ./PUNC ../PUNC E/E 
+S/S و+/CONJ اجعل/V ل+/PREP +نا/PRON هذا/PRON ال+/DET مكان/NOUN-MS مسجد/NOUN-MS +ا/CASE E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS ال+/DET نعت/NOUN-MS */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S ال+/DET نعت/NOUN-MS إمارافع/NOUN-MS ل+/PREP مضمر/ADJ-MS ./PUNC ../PUNC E/E 
+S/S يعود/V ل+/PREP ال+/DET منعوت/NOUN-MS أو/NOUN-MS ل+/PREP مظهر/NOUN-MS E/E 
+S/S ف+/CONJ أول/ADJ-MS ال+/DET قسم/NOUN-MD +ين/NSUFF من/PREP +ه/PRON أتبع/NOUN-FP ./PUNC ../PUNC E/E 
+S/S منعوت/NOUN-MS +ه/PRON من/PREP عشر/NOUN-FS +ة/NSUFF ل+/PREP أربع/NUM-MP E/E 
+S/S في/PREP واحد/NOUN-MS من/PREP أوجه/NOUN-FP ال+/DET إعراب/NOUN-MS ./PUNC ../PUNC E/E 
+S/S من/PREP رفع/NOUN-MS أوخفض/NOUN-MS أو/CONJ انتصاب/NOUN-MS E/E 
+S/S كذا/NOUN-MS من/PREP ال+/DET إفراد/NOUN-MS و+/CONJ ال+/DET تذكير/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ ال+/DET ضد/NOUN-MS و+/CONJ ال+/DET تعريف/NOUN-MS و+/CONJ ال+/DET تنكير/NOUN-MS E/E 
+S/S ك+/PREP قول/NOUN-MS +نا/PRON جاء/V ال+/DET غلام/NOUN-MS ال+/DET فاضل/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ جاء/V مع/NOUN-MS +ه/PRON نسو/NOUN-FS +ة/NSUFF حوامل/NOUN-FP E/E 
+S/S و+/CONJ ثاني/NOUN-MS ال+/DET قسم/NOUN-MD +ين/NSUFF من/PREP +ه/PRON أفرد/V ./PUNC ../PUNC E/E 
+S/S و+/CONJ إن/PART جرى/V ال+/DET منعوت/NOUN-MS غير/NOUN-MS مفرد/NOUN-MS E/E 
+S/S و+/CONJ اجعل/V +ه/PRON في/PREP ال+/DET تأنيث/NOUN-MS و+/CONJ ال+/DET تذكير/NOUN-MS ./PUNC ../PUNC E/E 
+S/S مطابق/NOUN-MS +ا/CASE ل+/PREP ال+/DET مظهر/NOUN-MS ال+/DET مذكور/ADJ-MS E/E 
+S/S مثال/NOUN-MS +ه/PRON قد/PART جاء/V حرتان/NOUN-FP ./PUNC ../PUNC E/E 
+S/S منطلق/NOUN-MS زوج/NOUN-MS +ا/PRON +هما/PRON ال+/DET عبدان/NOUN-FP E/E 
+S/S و+/CONJ مثل/NOUN-MS +ه/PRON أتى/V غلام/NOUN-MS سائل/ADJ-MS +ه/PRON ./PUNC ../PUNC E/E 
+S/S زوج/NOUN-FS +ت/NSUFF +ه/PRON عن/PREP دين/NOUN-MS +ها/PRON ال+/DET محتاج/NOUN-MS ل+/PREP +ه/PRON E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS ال+/DET عطف/NOUN-MS */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S و+/CONJ أتبع/V +وا/PRON ال+/DET معطوف/NOUN-MS ب+/PREP ال+/DET معطوف/NOUN-MS ./PUNC ../PUNC E/E 
+S/S علي/PREP +ه/PRON في/PREP إعراب/NOUN-MS +ه/PRON ال+/DET معروف/ADJ-MS E/E 
+S/S و+/CONJ تستوي/V ال+/DET أسماء/NOUN-FP و+/CONJ ال+/DET أفعال/NOUN-FP في/PREP ./PUNC ../PUNC E/E 
+S/S إتباع/NOUN-MS كل/NOUN-MS مثل/NOUN-MS +ه/PRON إن/FOREIGN يعطف/V E/E 
+S/S ب+/PREP ال+/DET واو/NOUN-MS و+/CONJ الفا/NOUN-MS أو/CONJ و+/CONJ أم/NOUN-MS و+/CONJ ثم/ADV ./PUNC ../PUNC E/E 
+S/S حتى/ADV و+/CONJ بل/CONJ و+/CONJ لا/PART و+/CONJ لكن/PART أما/PART E/E 
+S/S ك+/PREP جاء/V زيد/NOUN-MS ثم/ADV عمرو/NOUN-MS و+/CONJ أكرم/NOUN-MS ./PUNC ../PUNC E/E 
+S/S زيد/NOUN-MS +ا/CASE و+/CONJ عمر/NOUN-MS +ا/CASE ب+/PREP ال+/DET لقا/NOUN-MS و+/CONJ ال+/DET مطعم/NOUN-MS E/E 
+S/S و+/CONJ فئ/NOUN-FS +ة/NSUFF لم/PART يأكل/V +وا/PRON أويحضروا/NOUN-MS ./PUNC ../PUNC E/E 
+S/S حتى/PART يفوت/V أويزول/NOUN-MS ال+/DET منكر/ADJ-MS E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS ال+/DET توكيد/NOUN-MS */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S و+/CONJ جائز/NOUN-MS في/PREP ال+/DET اسم/NOUN-MS أن/PART يؤكد/V +ا/PRON ./PUNC ../PUNC E/E 
+S/S ف+/CONJ يتبع/V ال+/DET مؤكد/NOUN-MS ال+/DET مؤكدا/ADJ-MS E/E 
+S/S في/PREP أوجه/NOUN-FP ال+/DET إعراب/NOUN-MS و+/CONJ ال+/DET تعريف/NOUN-MS لا/PART ./PUNC ../PUNC E/E 
+S/S منكر/ADJ-MS ف+/PART من/PREP مؤكد/ADJ-MS خلا/PREP E/E 
+S/S و+/CONJ لفظ/V +ه/PRON ال+/DET مشهور/NOUN-MS في/PREP +ه/PRON أربع/NUM-MP ./PUNC ../PUNC E/E 
+S/S نفس/NOUN-MS و+/CONJ عين/NOUN-MS ثم/CONJ كل/NOUN-MS أجمع/NOUN-MS E/E 
+S/S و+/CONJ غير/PART +ها/PRON توابع/NOUN-FP ل+/PREP أجمع/ADJ-MS +ا/PRON ./PUNC ../PUNC E/E 
+S/S من/PREP أكتع/NOUN-MS و+/CONJ أبتع/NOUN-FP و+/CONJ أبصع/NOUN-FP +ا/CASE E/E 
+S/S ك+/PREP جاء/V زيد/NOUN-MS نفس/NOUN-MS +ه/PRON و+/CONJ قل/V أرى/V ./PUNC ../PUNC E/E 
+S/S جيش/NOUN-MS ال+/DET أمير/NOUN-MS كل/NOUN-MS +ه/PRON تأخر/V +ا/PRON E/E 
+S/S و+/CONJ طف/V +ت/PRON حول/NOUN-MS ال+/DET قوم/NOUN-MS أجمع/NOUN-FP +ي/NSUFF +نا/PRON ./PUNC ../PUNC E/E 
+S/S متبوع/NOUN-FP +ة/NSUFF ب+/PREP نحو/NOUN-MS أكتع/NOUN-FP +ي/NSUFF +نا/PRON E/E 
+S/S و+/CONJ إن/PART تؤكد/V كلم/NOUN-FS +ة/NSUFF أعد/V +ت/PRON +ها/PRON ./PUNC ../PUNC E/E 
+S/S ب+/PREP لفظ/NOUN-MS +ها/PRON كقولك/NOUN-MS انتهى/V انتهى/V E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS ال+/DET بدل/NOUN-MS */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S إذا/PART اسم/NOUN-MS أو/CONJ فعل/NOUN-MS ل+/PREP مثل/NOUN-MS +ه/PRON تلا/V ./PUNC ../PUNC E/E 
+S/S و+/CONJ ال+/DET حكم/NOUN-MS ل+/PREP ال+/DET ثاني/NOUN-MS و+/CONJ عن/PREP عطف/NOUN-MS خلا/PREP E/E 
+S/S فاجعله/NOUN-MS في/PREP إعراب/NOUN-MS +ه/PRON ك+/PREP ال+/DET أول/NUM-MS ./PUNC ../PUNC E/E 
+S/S منقب/ADJ-MS +ا/CASE ل+/PREP +ه/PRON ب+/PREP لفظ/NOUN-MS ال+/DET بدل/NOUN-MS E/E 
+S/S كل/NOUN-MS و+/CONJ بعض/NOUN-MS و+/CONJ اشتمال/NOUN-MS و+/CONJ غلط/NOUN-MS ./PUNC ../PUNC E/E 
+S/S ك+/PREP ذلك/PRON إضراب/NOUN-MS ف+/CONJ ب+/PREP ال+/DET خمس/NOUN-MS انضبط/NOUN-MS E/E 
+S/S كجاءني/NOUN-MS زيد/NOUN-MS أخو/NOUN-MS +ك/PRON و+/CONJ أكل/NOUN-MS ./PUNC ../PUNC E/E 
+S/S عند/NOUN-MS +ي/PRON رغيف/NOUN-MS +ا/PRON نصف/NOUN-MS +ه/PRON و+/CONJ قد/PART وصل/V E/E 
+S/S إلى/PREP زيد/NOUN-MS علم/NOUN-MS +ه/PRON الذي/PART درس/V ./PUNC ../PUNC E/E 
+S/S و+/CONJ قد/PART ركب/V +ت/PRON ال+/DET يوم/NOUN-MS بكرا/NOUN-MS ال+/DET فرس/NOUN-MS E/E 
+S/S إن/PART قل/V +ت/PRON بكرا/NOUN-MS دون/NOUN-MS قصد/NOUN-MS ف+/CONJ غلط/NOUN-MS ./PUNC ../PUNC E/E 
+S/S أو/CONJ قل/V +ت/PRON +ه/PRON قصد/NOUN-MS +ا/CASE ف+/CONJ إضراب/NOUN-MS فقط/ADV E/E 
+S/S و+/CONJ ال+/DET فعل/NOUN-MS من/PREP فعل/NOUN-MS ك+/PREP من/PREP يؤمن/V يثب/NOUN-MS ./PUNC ../PUNC E/E 
+S/S يدخل/V جنا/NOUN-MS +نا/PRON لم/PART ينل/V في/PREP +ها/PRON تعب/NOUN-MS E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS منصوب/NOUN-FP +ات/NSUFF ال+/DET أسماء/NOUN-FP */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S ثلاث/NUM-FS +ة/NSUFF من/PREP سائر/ADJ-MS ال+/DET أسما/V خل/V +ت/PRON ./PUNC ../PUNC E/E 
+S/S منصوب/NOUN-FP +ة/NSUFF و+/CONJ هذه/PRON عشر/NOUN-MS تل/V +ت/PRON E/E 
+S/S و+/CONJ كل/NOUN-MS +ها/PRON تأتي/V على/PREP ترتيب/NOUN-MS +ه/PRON ./PUNC ../PUNC E/E 
+S/S أول/NUM-MS +ها/PRON في/PREP ال+/DET ذكر/V مفعول/NOUN-MS ب+/PREP +ه/PRON E/E 
+S/S و+/CONJ ذلك/PRON اسم/NOUN-MS جاء/V منصوب/NOUN-MS +ا/CASE وقع/V ./PUNC ../PUNC E/E 
+S/S علي/PREP +ه/PRON فعل/V كاحذروا/NOUN-MS أهل/NOUN-MS ال+/DET طمع/NOUN-MS E/E 
+S/S في/PREP ظاهر/NOUN-MS و+/CONJ مضمر/ADJ-MS قد/PART انحصر/V ./PUNC ../PUNC E/E 
+S/S و+/CONJ قد/PART مضى/V ال+/DET تمثيل/NOUN-MS ل+/PREP الذي/PART ظهر/V E/E 
+S/S و+/CONJ غير/PART +ه/PRON قسم/NOUN-MD +ان/NSUFF أيض/ADV +ا/CASE متصل/ADJ-MS ./PUNC ../PUNC E/E 
+S/S كجاءني/NOUN-MS و+/CONJ جاء/V +نا/PRON و+/CONJ منفصل/ADJ-MS E/E 
+S/S مثال/NOUN-MS +ه/PRON إيا/PART +ي/PRON أو/CONJ إيان/NOUN-MS +ا/PRON ./PUNC ../PUNC E/E 
+S/S حيي/V +ت/PRON أكرم/NOUN-MS ب+/PREP الذي/PART حيا/NOUN-MS +نا/PRON E/E 
+S/S و+/CONJ قس/NOUN-MS بذ/NOUN-FS +ين/NSUFF كل/NOUN-MS مضمر/ADJ-MS فصل/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ ب+/PREP اللذين/PART قبل/NOUN-MS كل/NOUN-MS متصل/ADJ-MS E/E 
+S/S ف+/CONJ كل/NOUN-MS قسم/NOUN-MS من/PREP +هما/PRON قد/PART انحصر/V ./PUNC ../PUNC E/E 
+S/S ماجاء/NOUN-MS من/PREP أنواع/NOUN-FP +ه/PRON في/PREP اثن/NUM-MD +ي/NSUFF عشر/NUM-MP E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS ال+/DET مصدر/NOUN-MS */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S و+/CONJ إن/PART ترد/V تصريف/NOUN-MS نحو/NOUN-MS قام/V +ا/PRON ./PUNC ../PUNC E/E 
+S/S ف+/CONJ قل/V يقوم/V ثم/ADV قل/NOUN-MS قيام/NOUN-FS +ا/NSUFF E/E 
+S/S ف+/CONJ ما/PART يجيء/V ثالث/NUM-MS +ا/CASE ف+/CONJ ال+/DET مصدر/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ نصب/V +ه/PRON ب+/PREP فعل/NOUN-MS +ه/PRON مقدر/NOUN-MS E/E 
+S/S ف+/CONJ إن/PART يوافق/V فعل/NOUN-MS +ه/PRON الذي/PART جرى/V ./PUNC ../PUNC E/E 
+S/S في/PREP ال+/DET لفظ/NOUN-MS و+/CONJ ال+/DET معنى/NOUN-MS ف+/CONJ لفظي/NOUN-MS +ا/CASE يرى/V E/E 
+S/S أو/CONJ وافق/V ال+/DET معنى/NOUN-MS فقط/ADV و+/CONJ قد/PART روي/NOUN-MS ./PUNC ../PUNC E/E 
+S/S ب+/PREP غير/NOUN-MS لفظ/NOUN-MS ال+/DET فعل/NOUN-MS ف+/CONJ هو/PRON معنوي/ADJ-MS E/E 
+S/S فقم/NOUN-FP قيام/NOUN-MS +ا/PRON من/PREP قبيل/NOUN-MS ال+/DET أول/ADJ-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ قم/NOUN-MS وقوف/NOUN-MS +ا/PRON من/PREP قبيل/NOUN-MS ما/PART يلي/V E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS ال+/DET ظرف/NOUN-MS */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S هو/PRON اسم/NOUN-MS وقت/NOUN-MS أو/CONJ مكان/NOUN-MS انتصب/V ./PUNC ../PUNC E/E 
+S/S كل/NOUN-MS على/PREP تقدير/NOUN-MS في/PREP عند/NOUN-MS ال+/DET عرب/NOUN-MP E/E 
+S/S إذا/PART أتى/V ظرف/NOUN-MS ال+/DET مكان/NOUN-MS مبهم/NOUN-MS +ا/CASE ./PUNC ../PUNC E/E 
+S/S و+/CONJ مطلق/ADJ-MS +ا/CASE في/PREP غير/NOUN-MS +ه/PRON فليعلما/NOUN-MS E/E 
+S/S و+/CONJ ال+/DET نصب/NOUN-MS ب+/PREP ال+/DET فعل/NOUN-MS الذي/PART ب+/PREP +ه/PRON جرى/V ./PUNC ../PUNC E/E 
+S/S كسر/V +ت/PRON ميل/NOUN-MS +ا/CASE و+/CONJ اعتكف/V +ت/PRON أشهر/NOUN-FP +ا/CASE E/E 
+S/S أو/CONJ ليل/NOUN-FS +ة/NSUFF أو/CONJ يوم/NOUN-MS +ا/CASE أو/CONJ سن/NOUN-FP +ين/NSUFF ./PUNC ../PUNC E/E 
+S/S أومد/NOUN-FP +ة/NSUFF أو/CONJ جمع/NOUN-FS +ة/NSUFF أوحبنا/NOUN-MS E/E 
+S/S أو/CONJ قم/NOUN-MS صباح/NOUN-MS +ا/CASE أو/CONJ مساء/NOUN-MS أوسحر/NOUN-MS ./PUNC ../PUNC E/E 
+S/S أو/CONJ غدو/NOUN-FS +ة/NSUFF أو/CONJ بكر/NOUN-FS +ة/NSUFF إلى/PREP ال+/DET سفر/NOUN-MS E/E 
+S/S أو/CONJ ليل/NOUN-FS +ة/NSUFF ال+/DET إثنين/NOUN-MS أو/CONJ يوم/NOUN-MS ال+/DET أحد/NOUN-MS ./PUNC ../PUNC E/E 
+S/S أو/CONJ صم/ADJ-MS غد/NOUN-MS +ا/CASE أو/CONJ سرمد/NOUN-MS +ا/CASE أو/CONJ ال+/DET أبد/NOUN-MS E/E 
+S/S و+/CONJ اسم/NOUN-MS ال+/DET مكان/NOUN-MS نحو/NOUN-MS سر/NOUN-MS أمام/NOUN-MS +ه/PRON ./PUNC ../PUNC E/E 
+S/S أو/CONJ خلف/V +ه/PRON وراء/NOUN-MS +ه/PRON قدام/NOUN-MS +ه/PRON E/E 
+S/S يمين/NOUN-MS +ه/PRON شمال/NOUN-MS +ه/PRON تلقاء/NOUN-MS +ه/PRON ./PUNC ../PUNC E/E 
+S/S أو/CONJ فوق/NOUN-MS +ه/PRON أو/CONJ تحت/NOUN-MS +ه/PRON إزاء/NOUN-MS +ه/PRON E/E 
+S/S أو/CONJ مع/NOUN-MS +ه/PRON أو/CONJ حذاء/NOUN-MS +ه/PRON أو/CONJ عند/NOUN-MS +ه/PRON ./PUNC ../PUNC E/E 
+S/S أو/CONJ دون/NOUN-MS +ه/PRON أو/CONJ قبل/NOUN-MS +ه/PRON أو/CONJ بعد/NOUN-MS +ه/PRON E/E 
+S/S هناك/ADV ثم/ADV فرسخ/NOUN-MS +ا/CASE بريدا/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ ههنا/ADV قف/NOUN-MS موقف/NOUN-MS +ا/PRON سعيد/NOUN-MS +ا/CASE E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS ال+/DET حال/NOUN-MS */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S ال+/DET حال/NOUN-MS وصف/NOUN-MS ذو/PRON انتصاب/NOUN-MS آت/ADJ-FS +ي/NSUFF ./PUNC ../PUNC E/E 
+S/S مفسر/NOUN-MS +ا/CASE ل+/PREP مبهم/NOUN-MS ال+/DET هيآت/NOUN-MS E/E 
+S/S و+/CONJ إنما/PART يؤتى/V ب+/PREP +ه/PRON منكر/ADJ-MS +ا/CASE ./PUNC ../PUNC E/E 
+S/S و+/CONJ غالب/ADJ-MS +ا/CASE يؤتى/V ب+/PREP +ه/PRON مؤخر/NOUN-MS +ا/CASE E/E 
+S/S ك+/PREP جاء/V زيد/NOUN-MS راكب/NOUN-MS +ا/CASE ملفوف/ADJ-MS +ا/CASE ./PUNC ../PUNC E/E 
+S/S و+/CONJ قد/PART ضرب/V +ت/PRON عبده/NOUN-MS مكتوف/ADJ-MS +ا/CASE E/E 
+S/S و+/CONJ قد/PART يجيء/V في/PREP ال+/DET كلام/NOUN-MS أول/ADJ-MS +ا/CASE ./PUNC ../PUNC E/E 
+S/S و+/CONJ قد/PART يجيء/V جامد/ADJ-MS +ا/CASE مؤولا/NOUN-MS E/E 
+S/S و+/CONJ صاحب/NOUN-MS ال+/DET حال/NOUN-MS الذي/PART تقرر/V +ا/PRON ./PUNC ../PUNC E/E 
+S/S معرف/NOUN-MS و+/CONJ قد/PART يجي/V منكر/ADJ-MS +ا/CASE E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS ال+/DET تمييز/NOUN-MS */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S تعريف/NOUN-MS +ه/PRON آسم/NOUN-MS ذو/PRON انتصاب/NOUN-MS فسر/V +ا/PRON ./PUNC ../PUNC E/E 
+S/S ل+/PREP نسب/NOUN-FS +ة/NSUFF أو/CONJ ذات/NOUN-MS جنس/NOUN-MS قدر/NOUN-MS +ا/CASE E/E 
+S/S ك+/PREP انصب/V زيد/NOUN-MS عرق/NOUN-MS +ا/CASE و+/CONJ قد/PART علا/V ./PUNC ../PUNC E/E 
+S/S قدر/NOUN-MS +ا/CASE و+/CONJ لكن/PART أنت/PRON أعلى/ADJ-MS منزل/NOUN-MS +ا/CASE E/E 
+S/S وكاشتريت/NOUN-MS أربع/NUM-MP +ا/CASE نعاج/ADJ-MP +ا/CASE ./PUNC ../PUNC E/E 
+S/S أو/CONJ اشتري/V +ت/PRON ألف/NUM-MS رطل/NOUN-MS ساج/ADJ-MS +ا/CASE E/E 
+S/S أو/CONJ ب+/PREP عته/NOUN-MS مكيل/ADJ-FS +ة/NSUFF أرز/NOUN-FP +ا/CASE ./PUNC ../PUNC E/E 
+S/S أو/CONJ قدر/NOUN-MS باع/NOUN-MS أو/CONJ ذراع/NOUN-MS خزا/NOUN-MS E/E 
+S/S و+/CONJ واجب/NOUN-MS ال+/DET تمييز/NOUN-MS أن/PART ينكر/V +ا/PRON ./PUNC ../PUNC E/E 
+S/S و+/CONJ أن/PART يكون/V مطلق/ADJ-MS +ا/CASE مؤخر/ADJ-MS +ا/CASE E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS ال+/DET استثناء/NOUN-MS */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S أخرج/V ب+/PREP +ه/PRON ال+/DET كلام/NOUN-MS ما/PART خرج/V ./PUNC ../PUNC E/E 
+S/S من/PREP حكم/NOUN-MS +ه/PRON و+/CONJ كان/V في/PREP ال+/DET لفظ/NOUN-MS اندرج/NOUN-MS E/E 
+S/S و+/CONJ لفظ/V ال+/DET استثنا/NOUN-MS الذي/PART قد/PART حوى/V ./PUNC ../PUNC E/E 
+S/S إلا/PART و+/CONJ غير/PART +ا/PRON و+/CONJ سوى/PART سوى/NOUN-MS سوا/PART E/E 
+S/S خلا/V عدا/NOUN-MS حاشا/NOUN-MS ف+/CONJ مع/NOUN-MS إلا/PART انصب/V ./PUNC ../PUNC E/E 
+S/S ما/PART أخرج/V +ت/PRON من/PREP ذي/PRON تمام/ADJ-MS موجب/NOUN-MS E/E 
+S/S ك+/PREP قام/V كل/NOUN-MS ال+/DET قوم/NOUN-MS إلا/PART واحد/ADJ-MS +ا/CASE ./PUNC ../PUNC E/E 
+S/S و+/CONJ قد/PART رأي/V +ت/PRON ال+/DET قوم/NOUN-MS إلا/PART خالد/NOUN-MS +ا/CASE E/E 
+S/S و+/CONJ إن/PART يكن/V من/PREP ذي/PRON تمام/ADJ-MS انتفى/V ./PUNC ../PUNC E/E 
+S/S فأبدلن/NOUN-MS و+/CONJ ال+/DET نصب/NOUN-MS في/PREP +ه/PRON ضعف/NOUN-MS +ا/CASE E/E 
+S/S هذا/PRON إذا/PART استثني/V +ه/PRON من/PREP جنس/NOUN-MS +ه/PRON ./PUNC ../PUNC E/E 
+S/S و+/CONJ ما/PART سوا/PART +ه/PRON حكم/NOUN-MS +ه/PRON ب+/PREP عكس/NOUN-MS +ه/PRON E/E 
+S/S ك+/PREP لن/PART يقوم/V ال+/DET قوم/NOUN-MS إلا/PART جعفر/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ انصب/V في/PREP إلا/PART بعير/NOUN-MS +ا/CASE أكثر/ADJ-MS E/E 
+S/S و+/CONJ إن/PART يكن/V من/PREP ناقص/NOUN-MS ف+/CONJ إلا/PART ./PUNC ../PUNC E/E 
+S/S قد/PART ألغي/V +ت/PRON و+/CONJ ال+/DET عامل/ADJ-MS استقل/V +ا/PRON E/E 
+S/S كلم/ABBREV يقم/V إلا/PART أبو/NOUN-MS +ك/PRON أول/NUM-MS +ا/CASE ./PUNC ../PUNC E/E 
+S/S و+/CONJ لا/PART أرى/V إلا/PART أخا/NOUN-MS +ك/PRON مقبل/ADJ-MS +ا/CASE E/E 
+S/S و+/CONJ خفض/V مستثنى/NOUN-MS على/PREP ال+/DET إطلاق/NOUN-MS ./PUNC ../PUNC E/E 
+S/S يجوز/V بعد/NOUN-MS ال+/DET سبع/NOUN-FS +ة/NSUFF ال+/DET بواقي/NOUN-MP E/E 
+S/S و+/CONJ ال+/DET نصب/NOUN-MS أيض/ADV +ا/CASE جائز/NOUN-MS ل+/PREP من/PREP يشا/NOUN-MS ./PUNC ../PUNC E/E 
+S/S ب+/PREP ما/PART خلا/V و+/CONJ ما/PART عدا/V و+/CONJ ما/PART حشى/V E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS لا/PART ال+/DET عامل/ADJ-FS +ة/NSUFF عمل/NOUN-MS إن/PART */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S و+/CONJ حكم/NOUN-MS لا/PART ك+/PREP حكم/NOUN-MS إن/PART في/PREP ال+/DET عمل/NOUN-MS ./PUNC ../PUNC E/E 
+S/S ف+/CONJ انصب/V ب+/PREP +ها/PRON منكر/ADJ-MS +ا/CASE ب+/PREP +ها/PRON اتصل/V E/E 
+S/S مضاف/ADJ-MS +ا/CASE أو/CONJ مشابه/ADJ-FS ال+/DET مضاف/ADJ-MS ./PUNC ../PUNC E/E 
+S/S كلا/NOUN-MS غلام/NOUN-MS حاضر/ADJ-MS مكافي/NOUN-MS E/E 
+S/S لكن/CONJ إذا/PART تكرر/V +ت/PRON أجري/V +ت/PRON +ها/PRON ./PUNC ../PUNC E/E 
+S/S كذا/NOUN-MS +ك/PRON في/PREP ال+/DET أعمال/NOUN-FP أو/CONJ ألغي/V +ت/PRON +ها/PRON E/E 
+S/S و+/CONJ عند/NOUN-MS إفراد/NOUN-MS اسم/NOUN-MS +ها/PRON ال+/DET زم/ADJ-MS ال+/DET بنا/NOUN-MS ./PUNC ../PUNC E/E 
+S/S مركب/NOUN-MS +ا/CASE أو/CONJ رفع/NOUN-MS +ه/PRON منون/NOUN-MS +ا/CASE E/E 
+S/S كلا/PART أخ/NOUN-MS و+/CONJ لا/PART أب/NOUN-MS و+/CONJ انصب/V أبا/NOUN-MS ./PUNC ../PUNC E/E 
+S/S أيض/ADV +ا/CASE و+/CONJ إن/PART ترفع/V أخ/NOUN-MS +ا/CASE لا/PART تنصب/V +ا/PRON E/E 
+S/S و+/CONJ حيث/PART عرف/V +ت/PRON اسم/NOUN-MS +ها/PRON أو/CONJ فصل/NOUN-MS +ا/CASE ./PUNC ../PUNC E/E 
+S/S ف+/CONJ ارفع/V و+/CONJ نون/NOUN-MS و+/CONJ التزم/V تكرار/NOUN-MS لا/PART E/E 
+S/S كلا/PART علي/PREP حاضر/NOUN-MS و+/CONJ لا/PART عمر/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ لا/PART ل+/PREP +نا/PRON عبد/NOUN-MS و+/CONJ لا/PART ما/PART يدخر/V E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS ال+/DET نداء/NOUN-MS */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S خمس/NUM-MS تنادى/NOUN-MS و+/CONJ هي/PRON مفرد/NOUN-MS علم/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ مفرد/NOUN-MS منكر/ADJ-MS قصد/NOUN-MS +ا/CASE يؤم/ADJ-MS E/E 
+S/S و+/CONJ مفرد/NOUN-MS منكر/ADJ-MS سوا/NOUN-MS +ه/PRON ./PUNC ../PUNC E/E 
+S/S كذا/NOUN-MS ال+/DET مضاف/ADJ-MS و+/CONJ الذي/PART ضاها/V +ه/PRON E/E 
+S/S ف+/CONJ ال+/DET أول/ADJ-FS +ان/NSUFF في/PREP +هما/PRON ال+/DET بنا/NOUN-MS لزم/V ./PUNC ../PUNC E/E 
+S/S على/PREP الذي/PART في/PREP رفع/NOUN-MS كل/NOUN-MS قد/PART علم/V E/E 
+S/S من/PREP غير/PART تنوين/ADJ-MS على/PREP ال+/DET إطلاق/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ ال+/DET نصب/NOUN-MS في/PREP ال+/DET ثلاث/NOUN-FS +ة/NSUFF ال+/DET بواقي/NOUN-MP E/E 
+S/S كي/PART +ا/CASE علي/PREP يا/PART غلامي/NOUN-MS بي/ABBREV انطلق/V ./PUNC ../PUNC E/E 
+S/S يا/PART غافل/V +ا/PRON عن/PREP ذكر/NOUN-MS رب/NOUN-MS +ه/PRON أفق/NOUN-MS E/E 
+S/S يا/PART كاشف/NOUN-MS ال+/DET بلوى/NOUN-MS و+/CONJ يا/PART أهل/NOUN-MS ال+/DET ثنا/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ يا/PART لطيف/NOUN-MS +ا/CASE ب+/PREP ال+/DET عباد/NOUN-MS الطف/NOUN-MD ب+/PREP +نا/PRON E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS ال+/DET مفعول/NOUN-MS ل+/PREP أجل/NOUN-MS +ه/PRON */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S و+/CONJ ال+/DET مصدر/NOUN-MS انصب/V إن/PART أتى/V بيان/NOUN-MS +ا/CASE ./PUNC ../PUNC E/E 
+S/S لعل/PART +ة/NSUFF ال+/DET فعل/NOUN-MS الذي/PART قد/PART كان/V +ا/PRON E/E 
+S/S و+/CONJ شرط/NOUN-MS +ه/PRON اتحاد/NOUN-MS +ه/PRON مع/NOUN-MS عامل/NOUN-MS +ه/PRON ./PUNC ../PUNC E/E 
+S/S فيما/PART ل+/PREP +ه/PRON من/PREP وقت/NOUN-MS +ه/PRON و+/CONJ فاعل/NOUN-MS +ه/PRON E/E 
+S/S ك+/PREP قم/NOUN-MS ل+/PREP زيد/NOUN-MS اتقاء/NOUN-MP شر/NOUN-MS +ه/PRON ./PUNC ../PUNC E/E 
+S/S و+/CONJ أقصد/V عليا/ADJ-MS ابتغاء/NOUN-MS بره/NOUN-FP E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS ال+/DET مفعول/NOUN-MS مع/NOUN-MS +ه/PRON */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S تعريف/NOUN-MS +ه/PRON اسم/NOUN-MS بعد/NOUN-MS واو/NOUN-MS فسر/V +ا/PRON ./PUNC ../PUNC E/E 
+S/S من/PREP كان/V مع/NOUN-MS +ه/PRON فعل/NOUN-MS غير/NOUN-MS +ه/PRON جرى/V E/E 
+S/S ف+/CONJ انصب/V +ه/PRON ب+/PREP ال+/DET فعل/NOUN-MS الذي/PART ب+/PREP +ه/PRON اصطحب/V ./PUNC ../PUNC E/E 
+S/S أوشب/NOUN-FP +ه/PRON فعل/V ك+/PREP استوى/NOUN-MS ال+/DET ماوالخشب/NOUN-MS E/E 
+S/S و+/CONJ ك+/PREP ال+/DET أمير/NOUN-MS قادم/NOUN-MS و+/CONJ ال+/DET عسكرا/NOUN-MS ./PUNC ../PUNC E/E 
+S/S و+/CONJ نحو/NOUN-MS سر/V +ت/PRON و+/CONJ ال+/DET أمير/NOUN-MS ل+/PREP ال+/DET قرى/NOUN-MS E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS مخفوض/NOUN-FP +ات/NSUFF ال+/DET أسماء/NOUN-FP */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S خافض/NOUN-MS +ها/PRON ثلاث/ADJ-FS +ة/NSUFF أنواع/NOUN-FP ./PUNC ../PUNC E/E 
+S/S ال+/DET حرف/NOUN-MS و+/CONJ ال+/DET مضاف/ADJ-MS و+/CONJ ال+/DET إتباع/NOUN-MS E/E 
+S/S أما/PART ال+/DET حروف/NOUN-FP ههنا/ADV ف+/CONJ من/PREP إلى/PREP ./PUNC ../PUNC E/E 
+S/S باء/V و+/CONJ كاف/NOUN-MS في/PREP و+/CONJ لام/NOUN-MS عن/PREP على/PREP E/E 
+S/S كذا/NOUN-MS +ك/PRON و+/CONJ اوب/NOUN-MS +ا/CASE و+/CONJ تاء/NOUN-MS في/PREP ال+/DET حلف/NOUN-MS ./PUNC ../PUNC E/E 
+S/S مذ/PREP منذ/PART رب/NOUN-MS واو/NOUN-MS رب/NOUN-MS ال+/DET منحذف/NOUN-MS E/E 
+S/S كسر/V +ت/PRON من/PREP مصر/NOUN-MS إلى/PREP ال+/DET عراق/NOUN-MP ./PUNC ../PUNC E/E 
+S/S و+/CONJ جئ/V +ت/PRON ل+/PREP ال+/DET محبوب/NOUN-MS ب+/PREP اشتياق/NOUN-MS E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC باب/NOUN-MS ال+/DET إضافة/ADJ-MS */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S من/PREP ال+/DET مضاف/NOUN-MS أسقط/V ال+/DET تنوينا/NOUN-MS ./PUNC ../PUNC E/E 
+S/S أو/CONJ نون/NOUN-MS +ه/PRON كأهلكم/NOUN-MS أهلون/NOUN-MP +ا/CASE E/E 
+S/S و+/CONJ اخفض/V ب+/PREP +ه/PRON ال+/DET اسم/NOUN-MS الذي/PART ل+/PREP +ه/PRON تلا/V ./PUNC ../PUNC E/E 
+S/S كقاتلا/NOUN-MS غلام/NOUN-MS زيد/NOUN-MS قتل/NOUN-MS +ا/CASE E/E 
+S/S و+/CONJ هو/PRON على/PREP تقدير/NOUN-MS أو/CONJ لام/NOUN-MS ./PUNC ../PUNC E/E 
+S/S أو/CONJ من/PREP ك+/PREP مكر/NOUN-MS ال+/DET ليل/NOUN-MS أو/CONJ غلامي/NOUN-MS E/E 
+S/S أو/CONJ عبد/NOUN-MS زيد/NOUN-MS أو/CONJ إن/PART +ا/PRON زجاج/NOUN-MS ./PUNC ../PUNC E/E 
+S/S أو/CONJ ثوب/NOUN-MS خز/ADJ-MS أوكباب/NOUN-MS ساج/NOUN-MS E/E 
+S/S و+/CONJ قد/PART مض/V +ت/PRON أحكام/NOUN-FP كل/NOUN-MS تابع/ADJ-MS ./PUNC ../PUNC E/E 
+S/S مبسوط/NOUN-FP +ة/NSUFF في/PREP ال+/DET أربع/NUM-MP ال+/DET توابع/NOUN-FP E/E 
+S/S في/PREP +ا/PRON إلهي/ADJ-MS الطف/NOUN-MD ب+/PREP +نا/PRON فنتبع/NOUN-MS ./PUNC ../PUNC E/E 
+S/S سبل/NOUN-FP ال+/DET رشاد/NOUN-MS و+/CONJ ال+/DET هدى/NOUN-MS فنرتفع/NOUN-MS E/E 
+S/S و+/CONJ في/PREP جمادى/NOUN-MS سادس/ADJ-MS ال+/DET سبعينا/NOUN-MS ./PUNC ../PUNC E/E 
+S/S بعد/NOUN-MS انت/NOUN-MS +ها/PRON تسع/ADJ-MS من/PREP ال+/DET مئينا/NOUN-MS E/E 
+S/S قد/PART تم/V نظم/NOUN-FS هذه/PRON (/PUNC ال+/DET مقدمه/NOUN-MS )/PUNC ./PUNC ../PUNC E/E 
+S/S في/PREP ربع/NOUN-MS ألف/NOUN-MS كافي/ADJ-MS +ا/CASE من/PREP أحكم/V +ه/PRON E/E 
+S/S نظم/V ال+/DET فقيرالشرف/NOUN-MS العمريطي/NOUN-MS ./PUNC ../PUNC E/E 
+S/S ذي/NOUN-MS ال+/DET عجز/NOUN-MS و+/CONJ ال+/DET تقصير/NOUN-MS و+/CONJ ال+/DET تفريط/NOUN-MS E/E 
+S/S و+/CONJ ال+/DET حمد/NOUN-MS ل+/PREP الله/NOUN-MS مدى/NOUN-MS ال+/DET دوام/NOUN-MS ./PUNC ../PUNC E/E 
+S/S على/PREP جزيل/NOUN-MS ال+/DET فضل/NOUN-MS و+/CONJ ال+/DET إنعام/NOUN-MS E/E 
+S/S و+/CONJ أفضل/ADJ-MS ال+/DET صلا/NOUN-FS +ة/NSUFF و+/CONJ ال+/DET تسليم/NOUN-MS ./PUNC ../PUNC E/E 
+S/S على/PREP ال+/DET نبي/NOUN-MS ال+/DET مصطفى/NOUN-MS ال+/DET كريم/ADJ-MS E/E 
+S/S محمد/NOUN-MS و+/CONJ صحب/NOUN-FP +ه/PRON و+/CONJ ال+/DET آل/NOUN-MS ./PUNC ../PUNC E/E 
+S/S أهل/NOUN-MS التقى/V و+/CONJ ال+/DET علم/NOUN-MS و+/CONJ ال+/DET كمال/NOUN-MS E/E 
+S/S */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC */PUNC E/E 
+S/S -/PUNC علي/PREP +ه/PRON ال+/DET سلام/NOUN-MS -/PUNC -/PUNC علي/PREP +ه/PRON ال+/DET سلام/NOUN-MS -/PUNC -/PUNC علي/PREP +ه/PRON ال+/DET سلام/NOUN-MS -/PUNC E/E 
+S/S ب+/PREP عون/NOUN-MS الله/NOUN-MS تعالى/V و+/CONJ ال+/DET حمد/NOUN-MS ل+/PREP الله/NOUN-MS الذي/PART ب+/PREP نعم/NOUN-FS +ت/NSUFF +ه/PRON تتم/V ال+/DET صالح/NOUN-FP +ات/NSUFF ،/PUNC E/E 
+S/S و+/CONJ صلى/V الله/NOUN-MS و+/CONJ سلم/V على/PREP نبي/NOUN-MS +نا/PRON محمد/NOUN-MS و+/CONJ على/PREP آله/NOUN-FS و+/CONJ أصحاب/NOUN-MP +ه/PRON و+/CONJ ال+/DET تابع/ADJ-MP +ين/NSUFF ل+/PREP +هم/PRON ب+/PREP إحسان/NOUN-MS مدى/NOUN-MS ال+/DET أوقات/NOUN-FP ،/PUNC آمين/NOUN-MS ./PUNC E/E 
