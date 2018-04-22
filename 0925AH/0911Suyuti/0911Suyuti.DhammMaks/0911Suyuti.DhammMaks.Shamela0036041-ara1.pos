@@ -1,0 +1,478 @@
+S/S ال+/DET رسال/NOUN-FS +ة/NSUFF ال+/DET أخير/ADJ-FS +ة/NSUFF ذم/NOUN-MS ال+/DET مكس/NOUN-MS E/E 
+S/S 1/NUM-MP -/PUNC E/E 
+S/S سند/NOUN-MS ال+/DET مصنف/NOUN-MS ./PUNC E/E 
+S/S 2/NUM-MP -/PUNC E/E 
+S/S ال+/DET أحاديث/NOUN-FP ال+/DET وارد/ADJ-FS +ة/NSUFF في/PREP ذم/NOUN-MS ال+/DET مكس/NOUN-MS ./PUNC E/E 
+S/S 3/NUM-MP -/PUNC E/E 
+S/S صاحب/NOUN-MS ال+/DET مكس/NOUN-MS في/PREP ال+/DET نار/NOUN-MS ./PUNC E/E 
+S/S 4/NUM-MP -/PUNC E/E 
+S/S ساع/NOUN-FS +ة/NSUFF تفتح/V في/PREP +ها/PRON أبواب/NOUN-FP ال+/DET سماء/NOUN-MS ./PUNC E/E 
+S/S 5/NUM-MP -/PUNC E/E 
+S/S ال+/DET ساحر/NOUN-MS لا/PART يستجاب/V ل+/PREP +ه/PRON ./PUNC E/E 
+S/S 6/NUM-MP -/PUNC E/E 
+S/S من/PREP دلائل/NOUN-FP ال+/DET نبو/NOUN-FS +ة/NSUFF ./PUNC E/E 
+S/S 7/NUM-MP -/PUNC E/E 
+S/S هل/PART كان/V سهيل/NOUN-MS بشار/NOUN-MS +ا/CASE ؟/PUNC 8/NUM-MP -/PUNC E/E 
+S/S آخر/NOUN-MS ال+/DET مجلس/NOUN-MS ./PUNC E/E 
+S/S سند/NOUN-MS ال+/DET مصنف/NOUN-MS E/E 
+S/S قال/V ال+/DET شيخ/NOUN-MS ال+/DET علام/NOUN-FS +ة/NSUFF جلال/NOUN-MS ال+/DET دين/NOUN-MS ال+/DET سيوطي/ADJ-FP عفا/NOUN-MS الله/NOUN-MS عن/PREP +ه/PRON :/PUNC ال+/DET مجلس/NOUN-MS ال+/DET حادي/ADJ-MS و+/CONJ ال+/DET تسع/ADJ-FS +ون/NSUFF من/PREP ال+/DET أمالي/NOUN-MP في/PREP ذم/NOUN-MS ال+/DET مكس/NOUN-MS أملي/V +ه/PRON يوم/NOUN-MS ال+/DET جمع/NOUN-FS +ة/NSUFF سابع/NUM-MS عشر/NUM-MP جمادى/NOUN-MS سن/NOUN-FS +ة/NSUFF أربع/NUM-MP و+/CONJ سبع/NUM-MP +ين/NSUFF و+/CONJ ثمانمائ/NOUN-FS +ة/NSUFF ./PUNC E/E 
+S/S أنبأ/NOUN-FP ال+/DET إملاء/NOUN-MS على/PREP ال+/DET درة/NOUN-MS ال+/DET فاخر/ADJ-FS +ة/NSUFF ل+/PREP أمر/NOUN-MS عرض/NOUN-MS ،/PUNC أخبرني/NOUN-MS شيخ/NOUN-MS +نا/PRON ال+/DET إمام/NOUN-MS ال+/DET عالم/NOUN-MS ال+/DET علام/NOUN-FS +ة/NSUFF تقي/NOUN-MS ال+/DET دين/NOUN-MS أحمد/NOUN-MS بن/NOUN-MS محمد/NOUN-MS ال+/DET سم/NOUN-FS +ين/NSUFF رحم/NOUN-MS +ه/PRON الله/NOUN-MS تعالى/V ،/PUNC أخبر/V +نا/PRON عبد/NOUN-MS الله/NOUN-MS بن/NOUN-MS علي/NOUN-MS ،/PUNC أخبر/V +نا/PRON أبو/NOUN-MS ال+/DET حسن/NOUN-MS ال+/DET فرضي/NOUN-MS ،/PUNC أخبرتنا/NOUN-MS زينب/NOUN-MS بنت/NOUN-MS مكي/NOUN-MS ح/ABBREV ./PUNC E/E 
+S/S ال+/DET أحاديث/NOUN-FP ال+/DET وارد/ADJ-FS +ة/NSUFF في/PREP ذم/NOUN-MS ال+/DET مكس/NOUN-MS 155/NUM-MP -/PUNC E/E 
+S/S و+/CONJ كتب/V إلى/PREP عالي/ADJ-MS +ا/CASE أبو/NOUN-MS عبد/NOUN-MS الله/NOUN-MS ال+/DET حلبي/NOUN-MS عن/PREP ال+/DET صلاح/NOUN-MS بن/NOUN-MS أبي/NOUN-MS عمر/NOUN-MS ،/PUNC أخبر/V +نا/PRON أبو/NOUN-MS ال+/DET حسن/NOUN-MS بن/NOUN-MS ال+/DET بخاري/NOUN-MS قال/V :/PUNC أخبر/V +نا/PRON أبو/NOUN-MS علي/NOUN-MS ال+/DET رصافي/NOUN-MP ،/PUNC أخبر/V +نا/PRON أبو/NOUN-MS ال+/DET قاسم/NOUN-MS ابن/NOUN-MS ال+/DET حصين/ADJ-MS ،/PUNC أخبر/V +نا/PRON أبو/NOUN-MS علي/NOUN-MS ال+/DET تميمي/NOUN-MS ،/PUNC أخبر/V +نا/PRON أبو/NOUN-MS بكر/NOUN-MS ال+/DET قطيعي/NOUN-MS ،/PUNC حدث/V +نا/PRON عبد/NOUN-MS الله/NOUN-MS ابن/NOUN-MS ال+/DET إمام/NOUN-MS أحمد/NOUN-MS ،/PUNC حدث/V +نا/PRON محمد/NOUN-MS بن/NOUN-MS سلم/NOUN-FS +ة/NSUFF ،/PUNC عن/PREP أبي/NOUN-MS إسحاق/NOUN-MS ،/PUNC عن/PREP يزيد/NOUN-MS بن/NOUN-MS أبي/NOUN-MS حبيب/NOUN-MS ،/PUNC عن/PREP عبد/NOUN-MS ال+/DET رحمن/NOUN-MS بن/NOUN-MS ثماثة/NOUN-MS ال+/DET حبيبي/NOUN-MS ،/PUNC عن/PREP عقب/NOUN-FS +ة/NSUFF بن/NOUN-MS عامر/NOUN-MS (/PUNC رضي/V الله/NOUN-MS عن/PREP +ه/PRON )/PUNC قال/V :/PUNC سمع/V +ت/PRON رسول/NOUN-MS الله/NOUN-MS -/PUNC صلى/V الله/NOUN-MS علي/PREP +ه/PRON و+/CONJ سلم/V -/PUNC يقول/V :/PUNC "/PUNC لا/PART يدخل/V ال+/DET جن/NOUN-FS +ة/NSUFF صاحب/NOUN-MS مكس/NOUN-MS "/PUNC (/PUNC 1/NUM-MP )/PUNC ./PUNC E/E 
+S/S هذا/PRON حديث/NOUN-MS صحيح/ADJ-MS أخرج/V +ه/PRON أبو/NOUN-MS داود/NOUN-MS ،/PUNC و+/CONJ ابن/NOUN-MS خزيمة/NOUN-MS في/PREP صحيح/ADJ-MS +ه/PRON ،/PUNC و+/CONJ ال+/DET حاكم/NOUN-MS في/PREP مستدرك/ADJ-MS +ه/PRON ،/PUNC و+/CONJ ال+/DET دارمي/NOUN-MS في/PREP مسند/ADJ-MS +ه/PRON كل/NOUN-MS +هم/PRON من/PREP رواي/NOUN-FS +ة/NSUFF أبي/NOUN-MS إسحاق/NOUN-MS ،/PUNC و+/CONJ قال/V ال+/DET حاكم/NOUN-MS صحيح/ADJ-MS على/PREP شرط/NOUN-MS مسلم/NOUN-MS (/PUNC 2/NUM-MP )/PUNC ./PUNC E/E 
+S/S صاحب/NOUN-MS ال+/DET مكس/NOUN-MS في/PREP ال+/DET نار/NOUN-MS 156/NUM-MP -/PUNC E/E 
+S/S و+/CONJ ب+/PREP +ه/PRON إلى/PREP ال+/DET إمام/NOUN-MS أحمد/NOUN-MS قال/V :/PUNC حدث/NOUN-MS +نا/PRON قتيبة/NOUN-MS بن/NOUN-MS سعيد/NOUN-MS ،/PUNC حدث/V +نا/PRON ابن/NOUN-MS لهيعة/NOUN-MS ،/PUNC عن/PREP يزيد/NOUN-MS بن/NOUN-MS أبي/NOUN-MS حبيب/NOUN-MS ،/PUNC عن/PREP أبي/NOUN-MS ال+/DET خير/NOUN-MS قال/V :/PUNC E/E 
+S/S عرض/NOUN-MS مسلم/NOUN-FS +ة/NSUFF بن/NOUN-MS مخلد/NOUN-MS ،/PUNC و+/CONJ كان/V أمير/NOUN-MS +ا/CASE على/PREP مصر/NOUN-MS على/PREP رويفع/NOUN-MS بن/NOUN-MS ثابت/NOUN-MS أن/PART يوليه/NOUN-MS ال+/DET عشر/NOUN-MS ف+/CONJ قال/V :/PUNC إن/PART +ي/PRON سمع/V +ت/PRON رسول/NOUN-MS الله/NOUN-MS -/PUNC صلى/V الله/NOUN-MS علي/PREP +ه/PRON و+/CONJ سلم/V -/PUNC يقول/V :/PUNC "/PUNC إن/PART صاحب/NOUN-MS ال+/DET مكس/NOUN-MS في/PREP ال+/DET نار/NOUN-MS "/PUNC (/PUNC 3/NUM-MP )/PUNC ./PUNC E/E 
+S/S هذا/PRON حديث/NOUN-MS حسن/ADJ-MS أخرج/V +ه/PRON ال+/DET طبراني/NOUN-FP في/PREP ال+/DET كبير/ADJ-MS ب+/PREP نحو/NOUN-MS +ه/PRON ،/PUNC و+/CONJ ابن/NOUN-MS لهيعة/NOUN-MS حال/NOUN-MS +ه/PRON معروف/ADJ-MS و+/CONJ ال+/DET حديث/NOUN-MS ال+/DET أول/ADJ-MS يعضد/NOUN-FP +ه/PRON ./PUNC E/E 
+S/S 157/NUM-MP -/PUNC E/E 
+S/S و+/CONJ ب+/PREP +ه/PRON إلى/PREP ال+/DET إمام/NOUN-MS أحمد/NOUN-MS حدث/NOUN-MS +نا/PRON موسى/NOUN-MS بن/NOUN-MS داود/NOUN-MS و+/CONJ قتيبة/NOUN-MS بن/NOUN-MS سعيد/NOUN-MS قال/V :/PUNC ابن/NOUN-MS لهيعة/NOUN-MS عن/PREP يزيد/NOUN-MS بن/NOUN-MS أبي/NOUN-MS حبيب/NOUN-MS عن/PREP عبد/NOUN-MS ال+/DET رحمن/NOUN-MS بن/NOUN-MS حسان/NOUN-FP عن/PREP مخيس/NOUN-MS بن/NOUN-MS ظبي/NOUN-MS +ان/PRON عن/PREP رجل/NOUN-MS من/PREP جذام/NOUN-MS عن/PREP مالك/NOUN-MS بن/NOUN-MS عتاهية/NOUN-MS قال/V :/PUNC سمع/V +ت/PRON رسول/NOUN-MS الله/NOUN-MS -/PUNC صلى/V الله/NOUN-MS علي/PREP +ه/PRON و+/CONJ سلم/V -/PUNC يقول/V :/PUNC "/PUNC إذا/PART لقيتم/NOUN-MS عاشر/ADJ-MS +ا/CASE فاقتلوه/NOUN-MS "/PUNC (/PUNC 4/NUM-MP )/PUNC ./PUNC E/E 
+S/S أخرج/V +ه/PRON ابن/NOUN-MS عبد/NOUN-MS ال+/DET حكم/NOUN-MS في/PREP فتوح/NOUN-FP مصر/NOUN-MS عن/PREP عبد/NOUN-MS ال+/DET ملك/NOUN-MS بن/NOUN-MS مسلم/NOUN-FS +ة/NSUFF عن/PREP ابن/NOUN-MS لهيعة/NOUN-MS ./PUNC E/E 
+S/S ساع/NOUN-FS +ة/NSUFF تفتح/V في/PREP +ها/PRON أبواب/NOUN-FP ال+/DET سماء/NOUN-MS 158/NUM-MP -/PUNC E/E 
+S/S و+/CONJ ب+/PREP +ه/PRON إلى/PREP ال+/DET إمام/NOUN-MS أحمد/NOUN-MS قال/V :/PUNC حدث/NOUN-MS +نا/PRON على/PREP بن/NOUN-MS يزيد/NOUN-MS عن/PREP ال+/DET حسن/NOUN-MS بن/NOUN-MS أبي/NOUN-MS عامر/NOUN-MS استعمل/V كلاب/NOUN-MP بن/NOUN-MS أمية/NOUN-FS على/PREP ال+/DET أبل/NOUN-FS +ة/NSUFF ،/PUNC و+/CONJ عثمان/NOUN-MS بن/NOUN-MS أبي/NOUN-MS ال+/DET عاصي/NOUN-MS في/PREP أرض/NOUN-FS +ه/PRON ،/PUNC ف+/CONJ آتا/V +ه/PRON عثمان/NOUN-MS ف+/CONJ قال/V :/PUNC سمع/V +ت/PRON رسول/NOUN-MS الله/NOUN-MS -/PUNC صلى/V الله/NOUN-MS علي/PREP +ه/PRON و+/CONJ سلم/V -/PUNC يقول/V :/PUNC E/E 
+S/S "/PUNC إن/PART ب+/PREP ال+/DET ليل/NOUN-MS ساع/NOUN-FS +ة/NSUFF تفتح/V في/PREP +ها/PRON أبواب/NOUN-FP ال+/DET سماء/NOUN-MS ،/PUNC ينادي/V هل/PART من/PREP سائل/ADJ-MS ف+/CONJ أعط/V +ه/PRON ؟/PUNC هل/PART من/PREP داع/NOUN-MS فأستجيب/ADJ-MS ل+/PREP +ه/PRON ؟/PUNC هل/PART من/PREP مستغفر/NOUN-MS فأغفر/ADJ-MS ل+/PREP +ه/PRON ؟/PUNC و+/CONJ أن/PART داود/NOUN-MS خرج/V ذات/NOUN-MS ليل/NOUN-FS +ة/NSUFF ف+/CONJ قال/V :/PUNC E/E 
+S/S لا/PART يسأل/V الله/NOUN-MS أحد/NOUN-MS شيئ/NOUN-MS +ا/CASE إلا/PART أعطا/V +ه/PRON إلا/PART أن/PART يكون/V ساحر/ADJ-MS +ا/CASE أو/CONJ عشار/ADJ-MS +ا/CASE "/PUNC (/PUNC 5/NUM-MP )/PUNC ف+/CONJ دعا/NOUN-MS كلاب/NOUN-MP ب+/PREP قرقور/NOUN-MS (/PUNC 6/NUM-MP )/PUNC ف+/CONJ ركب/NOUN-MS في/PREP +ه/PRON ف+/PART انحدر/V إلى/PREP ابن/NOUN-MS عامر/NOUN-MS ،/PUNC ف+/CONJ قال/V :/PUNC دون/NOUN-MS +ك/PRON عمل/NOUN-MS +ك/PRON ف+/CONJ قال/V :/PUNC لم/PART ؟/PUNC قال/V :/PUNC حدثني/NOUN-MS عثمان/NOUN-MS ب+/PREP كذا/NOUN-MS و+/CONJ كذا/NOUN-MS ./PUNC E/E 
+S/S هذا/PRON حديث/ADJ-MS حسن/ADJ-MS روا/V +ت/PRON +ه/PRON محتج/NOUN-MS ب+/PREP +هم/PRON في/PREP ال+/DET صحيح/ADJ-MS إلا/PART علي/PREP بن/NOUN-MS يزيد/NOUN-MS ،/PUNC و+/CONJ قد/PART وثق/V ./PUNC E/E 
+S/S ال+/DET ساحر/NOUN-MS لا/PART يستجاب/V ل+/PREP +ه/PRON 159/NUM-MP -/PUNC E/E 
+S/S و+/CONJ في/PREP لفظ/NOUN-MS :/PUNC سمع/V +ت/PRON رسول/NOUN-MS الله/NOUN-MS -/PUNC صلى/V الله/NOUN-MS علي/PREP +ه/PRON و+/CONJ سلم/V -/PUNC يقول/V :/PUNC "/PUNC كان/V ل+/PREP داود/NOUN-MS ساع/NOUN-FS +ة/NSUFF يوقظ/V في/PREP +ها/PRON أهل/NOUN-MS +ه/PRON يقول/V :/PUNC يا/PART آل/NOUN-MS داود/NOUN-MS قوم/V +وا/PRON فصل/V +وا/PRON ف+/CONJ إن/PART هذه/PRON ساع/NOUN-FS +ة/NSUFF يستجاب/V في/PREP +ها/PRON ال+/DET دعاء/NOUN-MS إلا/PART ل+/PREP ساحر/NOUN-MS أو/CONJ عاشر/NOUN-MS +ا/CASE "/PUNC (/PUNC 7/NUM-MP )/PUNC ./PUNC E/E 
+S/S 160/NUM-MP -/PUNC E/E 
+S/S و+/CONJ روا/V +ه/PRON ال+/DET طبراني/NOUN-FP في/PREP ال+/DET أوسط/ADJ-MS من/PREP طريق/NOUN-MS أخرى/ADJ-MS ./PUNC E/E 
+S/S 161/NUM-MP -/PUNC E/E 
+S/S و+/CONJ ب+/PREP +ه/PRON إلى/PREP أبي/NOUN-MS ال+/DET حسن/NOUN-MS بن/NOUN-MS ال+/DET بخاري/ADJ-MS أنبأ/NOUN-FP أبو/NOUN-MS ال+/DET مكارم/NOUN-FP ال+/DET قمي/ADJ-MS ،/PUNC أخبر/V +نا/PRON أبو/NOUN-MS علي/NOUN-MS ال+/DET جداد/NOUN-MS ،/PUNC أخبر/V +نا/PRON أبو/NOUN-MS نعيم/NOUN-MS ،/PUNC أخبر/V +نا/PRON ال+/DET طبراني/NOUN-FP في/PREP ال+/DET أوسط/ADJ-MS ،/PUNC حدث/V +نا/PRON إبراهيم/NOUN-MS ،/PUNC E/E 
+S/S حدث/V +نا/PRON عبد/NOUN-MS ال+/DET رحمن/NOUN-MS بن/NOUN-MS سلام/NOUN-MS ،/PUNC حدث/V +نا/PRON داود/NOUN-MS ال+/DET عطار/NOUN-MS ،/PUNC عن/PREP هشام/NOUN-MS بن/NOUN-MS حسان/NOUN-FP ،/PUNC عن/PREP محمد/NOUN-MS بن/NOUN-MS سير/NOUN-FS +ين/NSUFF ،/PUNC عن/PREP عثمان/NOUN-MS بن/NOUN-MS أبي/NOUN-MS ال+/DET عاص/NOUN-MS ال+/DET ثقفي/ADJ-MS ،/PUNC عن/PREP ال+/DET نبي/NOUN-MS -/PUNC صلى/V الله/NOUN-MS علي/PREP +ه/PRON و+/CONJ سلم/V -/PUNC قال/V :/PUNC "/PUNC تفتح/V أبواب/NOUN-FP ال+/DET سماء/NOUN-MS نصف/NOUN-MS ال+/DET ليل/NOUN-MS ،/PUNC فينادى/NOUN-MS مناد/NOUN-MS :/PUNC هل/PART من/PREP داع/NOUN-MS فيستجاب/ADJ-MS ل+/PREP +ه/PRON ؟/PUNC هل/PART من/PREP سائل/ADJ-MS ف+/CONJ يعطى/V ؟/PUNC هل/PART من/PREP مكروب/NOUN-MS ف+/PART يفرج/V عن/PREP +ه/PRON ؟/PUNC ف+/CONJ لا/PART يبقى/V مسلم/NOUN-MS يدعو/V ب+/PREP دعو/NOUN-FS +ة/NSUFF إلا/PART استجاب/NOUN-MS الله/NOUN-MS ل+/PREP +ه/PRON إلا/PART زاني/NOUN-FS +ة/NSUFF تسعى/V ب+/PREP فرج/NOUN-MS +ها/PRON ،/PUNC أو/CONJ عشار/NOUN-MS +ا/CASE "/PUNC (/PUNC 8/NUM-MP )/PUNC ./PUNC E/E 
+S/S 162/NUM-MP -/PUNC E/E 
+S/S و+/CONJ أخرج/V +ه/PRON ال+/DET طبراني/NOUN-FP في/PREP ال+/DET كبير/ADJ-MS ب+/PREP لفظ/NOUN-MS :/PUNC "/PUNC إن/PART الله/NOUN-MS يدنو/NOUN-FP من/PREP خلق/NOUN-MS +ه/PRON فيغفر/NOUN-MS ل+/PREP من/PREP يستغفر/V إلا/PART ل+/PREP بغي/NOUN-MS تسعى/V ب+/PREP فرج/NOUN-MS +ها/PRON أو/CONJ عشار/NOUN-MS "/PUNC (/PUNC 9/NUM-MP )/PUNC ./PUNC E/E 
+S/S من/PREP دلائل/NOUN-FP ال+/DET نبو/NOUN-FS +ة/NSUFF 163/NUM-MP -/PUNC E/E 
+S/S و+/CONJ ب+/PREP +ه/PRON إلى/PREP أبي/NOUN-MS نعيم/NOUN-MS حدث/NOUN-MS +نا/PRON أبو/NOUN-MS علي/NOUN-MS بن/NOUN-MS ال+/DET صواف/NOUN-MS ،/PUNC حدث/V +نا/PRON بشر/NOUN-MS بن/NOUN-MS موسى/NOUN-MS ،/PUNC حدث/V +نا/PRON عمر/NOUN-MS بن/NOUN-MS على/PREP ال+/DET فارسي/ADJ-MS حدث/V +نا/PRON يعلي/V بن/NOUN-MS إبراهيم/NOUN-MS ال+/DET غزال/NOUN-MS ،/PUNC حدث/V +نا/PRON ال+/DET هيثم/NOUN-MS ابن/NOUN-MS جماز/NOUN-MS ،/PUNC و+/CONJ عن/PREP أبي/NOUN-MS كثير/NOUN-MS ،/PUNC عن/PREP زيد/NOUN-MS بن/NOUN-MS أرقم/NOUN-MS قال/V :/PUNC E/E 
+S/S كنت/NOUN-MS مع/NOUN-MS رسول/NOUN-MS الله/NOUN-MS -/PUNC صلى/V الله/NOUN-MS علي/PREP +ه/PRON و+/CONJ سلم/V -/PUNC في/PREP بعض/NOUN-MS سكك/NOUN-FP ال+/DET مدين/NOUN-FS +ة/NSUFF ف+/CONJ مرر/V +نا/PRON ب+/PREP خباء/NOUN-MS أعرابي/NOUN-FP ،/PUNC ف+/CONJ إذا/PART ظبي/NOUN-FS +ة/NSUFF مشدود/ADJ-FP +ة/NSUFF ف+/CONJ قال/V +ت/PRON :/PUNC يا/PART رسول/NOUN-MS الله/NOUN-MS إن/PART هذا/PRON ال+/DET أعرابي/NOUN-FP صادني/V ف+/CONJ لا/PART هو/PRON يذبحني/NOUN-MS فأستريح/ADJ-MS ،/PUNC و+/CONJ لا/PART هو/PRON يتركني/V ف+/PART أذهب/V ولي/NOUN-MS خشفان/NOUN-FP (/PUNC 10/NUM-MP )/PUNC في/PREP ال+/DET بري/NOUN-FS +ة/NSUFF ،/PUNC و+/CONJ قد/PART تعقد/V هذا/PRON ال+/DET لبن/NOUN-MS في/PREP أخلافي/NOUN-FP ؟/PUNC ف+/CONJ قال/V رسول/NOUN-MS الله/NOUN-MS -/PUNC صلى/V الله/NOUN-MS علي/PREP +ه/PRON و+/CONJ سلم/V -/PUNC :/PUNC E/E 
+S/S "/PUNC إن/PART أطلق/V +ت/PRON +ك/PRON ترجع/V +ي/PRON "/PUNC ؟/PUNC (/PUNC 11/NUM-MP )/PUNC قال/V +ت/PRON :/PUNC نعم/NOUN-MS ،/PUNC و+/CONJ إلا/PART عذبني/NOUN-MS الله/NOUN-MS ب+/PREP عذاب/NOUN-MS ال+/DET عشار/NOUN-MS ،/PUNC ف+/CONJ أطلق/V +ها/PRON ف+/PART ذهب/V +ت/PRON ثم/ADV رجع/V +ت/PRON ./PUNC E/E 
+S/S هذا/PRON حديث/NOUN-MS حسن/NOUN-MS ب+/PREP شواهد/NOUN-FP +ه/PRON ،/PUNC أخرج/V +ه/PRON ال+/DET بيهقي/NOUN-MS في/PREP ال+/DET دلائل/NOUN-FP ،/PUNC و+/CONJ ال+/DET هيثم/NOUN-MS ضعيف/ADJ-MS و+/CONJ شيخ/NOUN-MS +ه/PRON مجهول/NOUN-MS ،/PUNC لكن/PART ورد/V من/PREP حديث/NOUN-MS أبي/NOUN-MS سعيد/NOUN-MS أخرج/V +ه/PRON ال+/DET بيهقي/NOUN-MS و+/CONJ ال+/DET حاكم/NOUN-MS في/PREP ال+/DET إكليل/NOUN-MS ./PUNC E/E 
+S/S و+/CONJ أنس/V :/PUNC أخرج/V +ه/PRON ال+/DET طبراني/NOUN-FP في/PREP ال+/DET أوسط/ADJ-MS ،/PUNC و+/CONJ أم/NOUN-MS سلم/NOUN-FS +ة/NSUFF :/PUNC أخرج/V +ه/PRON في/PREP ال+/DET كبير/ADJ-MS ./PUNC E/E 
+S/S هل/PART كان/V سهيل/NOUN-MS عشار/NOUN-MS +ا/CASE 164/NUM-MP -/PUNC E/E 
+S/S و+/CONJ ب+/PREP +ه/PRON إلى/PREP ال+/DET طبراني/NOUN-FP :/PUNC حدث/V +نا/PRON محمد/NOUN-MS بن/NOUN-MS نوح/NOUN-MS ،/PUNC حدث/V +نا/PRON وهب/NOUN-MS بن/NOUN-MS حفص/NOUN-MS ،/PUNC حدث/V +نا/PRON عثمان/NOUN-MS بن/NOUN-MS عبد/NOUN-MS ال+/DET رحمن/NOUN-MS ،/PUNC عن/PREP إبراهيم/NOUN-MS بن/NOUN-MS يزيد/NOUN-MS ،/PUNC عن/PREP عمرو/NOUN-MS بن/NOUN-MS دينار/NOUN-MS ./PUNC E/E 
+S/S أن/PART +ه/PRON صحب/V ابن/NOUN-MS عمر/NOUN-MS في/PREP ال+/DET سفر/NOUN-MS ف+/CONJ كان/V إذا/PART طلع/NOUN-MS سهيل/NOUN-MS قال/V :/PUNC ل+/PREP عن/PREP الله/NOUN-MS سهيل/NOUN-MS +ا/PRON ف+/CONJ إني/NOUN-MS سمع/V +ت/PRON رسول/NOUN-MS الله/NOUN-MS -/PUNC صلى/V الله/NOUN-MS علي/PREP +ه/PRON و+/CONJ سلم/V -/PUNC يقول/V :/PUNC E/E 
+S/S "/PUNC كان/V عشار/NOUN-MS +ا/CASE يظلم/NOUN-FP +هم/PRON ،/PUNC و+/CONJ يغضب/NOUN-FP +هم/PRON أموال/NOUN-FP +هم/PRON ف+/CONJ مسخ/NOUN-MS +ه/PRON الله/NOUN-MS شهاب/NOUN-MS +ا/CASE ف+/CONJ جعل/V +ه/PRON حيث/PART تر/V +ون/PRON "/PUNC (/PUNC 12/NUM-MP )/PUNC ./PUNC E/E 
+S/S أخرج/V +ه/PRON ال+/DET بزار/NOUN-MS في/PREP مسند/ADJ-MS +ه/PRON ،/PUNC و+/CONJ إبراهيم/NOUN-MS هو/PRON ال+/DET خوارزمي/ADJ-MS متروك/ADJ-MS ،/PUNC و+/CONJ تابع/V +ه/PRON بشر/NOUN-MS بن/NOUN-MS عبيد/NOUN-MS و+/CONJ هو/PRON متروك/ADJ-MS أيض/ADV +ا/CASE ./PUNC E/E 
+S/S 165/NUM-MP -/PUNC E/E 
+S/S أخرج/V +ه/PRON في/PREP ال+/DET كبير/ADJ-MS ب+/PREP لفظ/NOUN-MS أن/PART ال+/DET نبي/NOUN-MS -/PUNC صلى/V الله/NOUN-MS علي/PREP +ه/PRON و+/CONJ سلم/V -/PUNC عن/PREP ابن/NOUN-MS عمر/NOUN-MS (/PUNC 13/NUM-MP )/PUNC ./PUNC E/E 
+S/S 166/NUM-MP -/PUNC E/E 
+S/S ورد/V من/PREP حديث/NOUN-MS علي/NOUN-MS أخرج/V +ه/PRON في/PREP ال+/DET كبير/ADJ-MS ب+/PREP لفظ/NOUN-MS أن/PART ال+/DET نبي/NOUN-MS -/PUNC صلى/V الله/NOUN-MS علي/PREP +ه/PRON و+/CONJ سلم/V -/PUNC (/PUNC 14/NUM-MP )/PUNC ./PUNC E/E 
+S/S "/PUNC ل+/PREP عن/PREP سهيل/NOUN-MS +ا/CASE ثلاث/NUM-MS مر/NOUN-FP +ات/NSUFF ،/PUNC ف+/CONJ إن/PART +ه/PRON كان/V يعشر/NOUN-FP ال+/DET ناس/NOUN-MP ف+/CONJ مسخ/NOUN-MS +ه/PRON الله/NOUN-MS شهاب/NOUN-MS +ا/CASE "/PUNC ./PUNC E/E 
+S/S 167/NUM-MP -/PUNC E/E 
+S/S أنبأ/V +ت/PRON عمر/NOUN-MS ابنى/NOUN-MS عن/PREP أبي/NOUN-MS ال+/DET حسن/NOUN-MS ال+/DET بغدادي/ADJ-MS أنبأ/NOUN-FP +نا/PRON أبو/NOUN-MS ال+/DET فضل/NOUN-MS بن/NOUN-MS ناصر/NOUN-MS في/PREP كتاب/NOUN-MS +ه/PRON عن/PREP أبي/NOUN-MS ال+/DET قاسم/NOUN-MS من/PREP مسند/ADJ-MS +ه/PRON ،/PUNC أنبأ/NOUN-FP أبو/NOUN-MS بكر/NOUN-MS بن/NOUN-MS صالح/NOUN-MS أنبأ/NOUN-FP أبو/NOUN-MS ال+/DET شيخ/NOUN-MS E/E 
+S/S ابن/NOUN-MS حبان/NOUN-FP ،/PUNC حدث/V +نا/PRON محمد/NOUN-MS بن/NOUN-MS إبراهيم/NOUN-MS بن/NOUN-MS سعيد/NOUN-MS ،/PUNC حدث/V +نا/PRON زيد/NOUN-MS بن/NOUN-MS ال+/DET حريش/NOUN-MS ،/PUNC حدث/V +نا/PRON حسين/NOUN-MS ال+/DET أشقر/NOUN-MS حدث/NOUN-MS +نا/PRON أسباط/NOUN-FP عن/PREP ال+/DET سدي/NOUN-MS ،/PUNC و+/CONJ عن/PREP منصور/NOUN-MS عن/PREP مجاهد/NOUN-MS :/PUNC E/E 
+S/S في/PREP قول/NOUN-MS +ه/PRON تعالى/V :/PUNC {/PUNC و+/CONJ لا/PART تقعد/V +وا/PRON ب+/PREP كل/NOUN-MS صراط/ADJ-MS توعد/V +ون/PRON }/PUNC (/PUNC 15/NUM-MP )/PUNC ./PUNC E/E 
+S/S قال/V :/PUNC أنزل/V +ت/PRON في/PREP ال+/DET مكاس/NOUN-FS +ين/NSUFF (/PUNC 16/NUM-MP )/PUNC ./PUNC E/E 
+S/S 168/NUM-MP -/PUNC E/E 
+S/S و+/CONJ أنشد/V +كم/PRON ل+/PREP نفس/NOUN-MS +ي/PRON :/PUNC E/E 
+S/S اقتل/V أولى/NUM-MS ال+/DET مكس/ADJ-MS و+/CONJ لا/PART تكترث/V ./PUNC ../PUNC E/E 
+S/S إن/PART حرم/V +وا/PRON ذاك/PRON أو/CONJ حللوه/NOUN-MS E/E 
+S/S ف+/CONJ إن/PART غير/PART ال+/DET خلق/NOUN-MS أوصى/V ب+/PREP أن/PART ./PUNC ../PUNC E/E 
+S/S إذا/PART لقي/V +ت/PRON معاشر/NOUN-FP +ا/CASE فاقتلوه/ADJ-MS E/E 
+S/S هذا/PRON آخر/ADJ-MS ال+/DET مجلس/NOUN-MS و+/CONJ ال+/DET حمد/NOUN-MS ل+/PREP الله/NOUN-MS رب/NOUN-MS ال+/DET عالم/NOUN-FS +ين/NSUFF و+/CONJ ال+/DET صلا/NOUN-FS +ة/NSUFF و+/CONJ ال+/DET سلام/NOUN-MS على/PREP سيد/NOUN-MS ال+/DET مرسل/NOUN-MP +ين/NSUFF سيد/NOUN-MS +نا/PRON محمد/NOUN-MS و+/CONJ على/PREP آله/NOUN-FS و+/CONJ صحب/NOUN-FP +ه/PRON E/E 
+S/S ال+/DET فهارس/NOUN-FP ال+/DET عام/ADJ-FS +ة/NSUFF ل+/PREP ال+/DET كتاب/NOUN-MS 1/NUM-MP -/PUNC E/E 
+S/S فهرس/V أطراف/NOUN-FP ال+/DET أحاديث/NOUN-FP ال+/DET نبوي/ADJ-FS +ة/NSUFF ./PUNC E/E 
+S/S 2/NUM-MP -/PUNC E/E 
+S/S فهرس/V أطراف/NOUN-FP ال+/DET آثار/NOUN-FP ال+/DET سلفي/ADJ-MS +ة/NSUFF ./PUNC E/E 
+S/S 3/NUM-MP -/PUNC E/E 
+S/S فهرس/V أطراف/NOUN-FP ال+/DET أشعار/NOUN-FP ./PUNC E/E 
+S/S 4/NUM-MP -/PUNC E/E 
+S/S فهرس/V ال+/DET أعلام/NOUN-FP ./PUNC E/E 
+S/S 5/NUM-MP -/PUNC E/E 
+S/S فهرس/V ال+/DET موضوع/NOUN-FP +ات/NSUFF ./PUNC E/E 
+S/S فهرس/V أطراف/NOUN-FP ال+/DET أحاديث/NOUN-FP E/E 
+S/S طرف/NOUN-MS ال+/DET حديث/NOUN-MS ال+/DET صحابي/NOUN-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS E/E 
+S/S أبغض/NOUN-FP ال+/DET خلق/NOUN-MS على/PREP الله/NOUN-MS رجل/NOUN-MS يجالس/NOUN-MS ال+/DET أمراء/NOUN-MP أبو/NOUN-MS أمام/NOUN-FS +ة/NSUFF ال+/DET باهلي/NOUN-MS 43/NUM-MP E/E 
+S/S اتق/V +وا/PRON أبواب/NOUN-FP ال+/DET سلطان/NOUN-MS و+/CONJ حواشي/NOUN-MP +ها/PRON أبو/NOUN-MS ال+/DET أعور/NOUN-MS ال+/DET سلمي/ADJ-MS 25/NUM-MP E/E 
+S/S اجلس/NOUN-MS ./PUNC E/E 
+S/S ال+/DET حسن/NOUN-MS 113/NUM-MP E/E 
+S/S اجلس/NOUN-MS في/PREP بيت/NOUN-MS +ك/PRON ./PUNC E/E 
+S/S عصم/NOUN-FS +ة/NSUFF 129/NUM-MP E/E 
+S/S اجلس/NOUN-MS و+/CONJ اكتم/NOUN-MS علي/PREP عمر/NOUN-MS بن/NOUN-MS ال+/DET خطاب/NOUN-MS 114/NUM-MP E/E 
+S/S إذا/PART رأي/V +ت/PRON ال+/DET عالم/NOUN-MS يخالط/NOUN-MS ال+/DET سلطان/NOUN-MS أبو/NOUN-MS هرير/NOUN-FS +ة/NSUFF 8/NUM-MP E/E 
+S/S إذا/PART قرأ/V ال+/DET رجل/NOUN-MS ال+/DET قرآن/NOUN-MS معاذ/NOUN-MS بن/NOUN-MS جبل/NOUN-MS 17/NUM-MP E/E 
+S/S إذا/PART لقي/V +ت/PRON عاشر/ADJ-MS +ا/CASE ./PUNC E/E 
+S/S مالك/NOUN-MS بن/NOUN-MS عتاهية/NOUN-MS 157/NUM-MP E/E 
+S/S إن/PART أبغض/NOUN-FP ال+/DET خلق/NOUN-MS إلى/PREP الله/NOUN-MS ./PUNC E/E 
+S/S أبو/NOUN-MS هرير/NOUN-FS +ة/NSUFF 5/NUM-MP E/E 
+S/S إن/PART طلق/NOUN-FS +ت/NSUFF +ك/PRON ترجع/V +ي/PRON ؟/PUNC زيد/NOUN-MS بن/NOUN-MS أرقم/NOUN-MS 163/NUM-MP E/E 
+S/S إن/PART ال+/DET عالم/NOUN-MS إذا/PART أراد/V ب+/PREP علم/NOUN-MS +ه/PRON أنس/NOUN-MS 88/NUM-MP E/E 
+S/S إن/PART الله/NOUN-MS ل+/PREP يغضب/NOUN-FP إذا/PART مدح/NOUN-MS ال+/DET فاسق/NOUN-MS أنس/V 84/NUM-MP E/E 
+S/S إن/PART أهون/NOUN-MS ال+/DET خلق/NOUN-MS على/PREP الله/NOUN-MS 6/NUM-MP E/E 
+S/S إن/PART الله/NOUN-MS يحب/V ال+/DET أمراء/NOUN-MP إذا/PART خالط/V +وا/PRON ال+/DET علماء/NOUN-MP عمر/NOUN-MS بن/NOUN-MS ال+/DET خطاب/NOUN-MS 20/NUM-MP E/E 
+S/S إن/PART ب+/PREP ال+/DET ليل/NOUN-MS ساع/NOUN-FS +ة/NSUFF تفتح/V في/PREP +ها/PRON أبواب/NOUN-FP ال+/DET سماء/NOUN-MS عثمان/NOUN-MS بن/NOUN-MS أبي/NOUN-MS ال+/DET عاصي/NOUN-MS 158/NUM-MP E/E 
+S/S إن/PART صاحب/NOUN-MS ال+/DET مكس/NOUN-MS في/PREP ال+/DET نار/NOUN-MS رويفع/NOUN-MS بن/NOUN-MS ثابت/NOUN-MS 156/NUM-MP E/E 
+S/S إن/PART في/PREP جهنم/NOUN-MS وادي/NOUN-MS +ا/CASE أبو/NOUN-MS هرير/NOUN-FS +ة/NSUFF 4/NUM-MP E/E 
+S/S إن/PART من/PREP أبغض/NOUN-FP ال+/DET قراء/NOUN-MP إلى/PREP الله/NOUN-MS أبو/NOUN-MS هرير/NOUN-FS +ة/NSUFF 7/NUM-MP E/E 
+S/S إن/PART ناس/NOUN-MP +ا/CASE من/PREP أم/NOUN-FS +ت/NSUFF +ي/PRON يتفقهون/NOUN-MS ابن/NOUN-MS عباس/NOUN-MS 9/NUM-MP E/E 
+S/S إن/PART ال+/DET ولا/NOUN-MD +ة/NSUFF يجاء/V ب+/PREP +هم/PRON يوم/NOUN-MS ال+/DET قيام/NOUN-FS +ة/NSUFF عمر/NOUN-MS بن/NOUN-MS ال+/DET خطاب/NOUN-MS 112/NUM-MP E/E 
+S/S إن/PART +ا/CASE ل+/PREP الله/NOUN-MS و+/CONJ إن/PART +ا/PRON إلي/PREP +ه/PRON راجع/V +ون/PRON عمر/NOUN-MS 23/NUM-MP E/E 
+S/S إن/PART +ك/PRON ضعيف/ADJ-MS ف+/CONJ إن/PART +ها/PRON أمان/NOUN-FS +ة/NSUFF أبو/NOUN-MS ذر/NOUN-MS 120/NUM-MP E/E 
+S/S إن/PART +ها/PRON س+/FUT_PART تكون/V أمراء/NOUN-MP من/PREP صدق/NOUN-MS +هم/PRON ابن/NOUN-MS عمر/NOUN-MS 14/NUM-MP E/E 
+S/S طرف/NOUN-MS ال+/DET حديث/NOUN-MS ال+/DET صحابي/NOUN-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS E/E 
+S/S إلا/PART يؤتى/NOUN-FP ب+/PREP +ه/PRON يوم/NOUN-MS ال+/DET قيام/NOUN-FS +ة/NSUFF عباد/NOUN-FS +ة/NSUFF بن/NOUN-MS ال+/DET صامت/ADJ-MS 131/NUM-MP E/E 
+S/S إياكم/NOUN-MS و+/CONJ أبواب/NOUN-FP ال+/DET سلطان/NOUN-MS رجل/NOUN-MS من/PREP بني/NOUN-MS سلمى/NOUN-MP 32/NUM-MP E/E 
+S/S تفتح/V أبواب/NOUN-FP ال+/DET سماء/NOUN-MS نصف/NOUN-MS ال+/DET ليل/NOUN-MS عثمان/NOUN-MS بن/NOUN-MS أبي/NOUN-MS ال+/DET عاصي/NOUN-MS 161/NUM-MP E/E 
+S/S س+/FUT_PART تكون/V أمراء/NOUN-MP تعرف/NOUN-FS +ون/NSUFF و+/CONJ تنكر/NOUN-MS +ون/PRON ابن/NOUN-MS عباس/NOUN-MS 34/NUM-MP E/E 
+S/S س+/FUT_PART يكون/V أمراء/NOUN-MP من/PREP دخل/NOUN-MS علي/PREP +هم/PRON جابر/NOUN-MS بن/NOUN-MS عبد/NOUN-MS الله/NOUN-MS 13/NUM-MP E/E 
+S/S س+/FUT_PART يكون/V أمراء/NOUN-MP يغشا/NOUN-FP +هم/PRON غواش/NOUN-FP أبو/NOUN-MS سعيد/NOUN-MS ال+/DET خدري/NOUN-MS 12/NUM-MP E/E 
+S/S س+/FUT_PART يكون/V ب+/PREP عدي/NOUN-MS أمراء/NOUN-MP ف+/CONJ من/PREP دخل/NOUN-MS علي/PREP +هم/PRON كعب/NOUN-MS بن/NOUN-MS عجر/NOUN-FS +ة/NSUFF 11/NUM-MP E/E 
+S/S س+/FUT_PART يكون/V ب+/PREP عدي/NOUN-MS سلاطين/NOUN-FP ال+/DET فتن/NOUN-MS عبد/NOUN-MS الله/NOUN-MS بن/NOUN-MS ال+/DET حارث/NOUN-MS 24/NUM-MP E/E 
+S/S س+/FUT_PART يكون/V في/PREP آخر/NOUN-MS ال+/DET زمان/NOUN-MS علماء/NOUN-MP ابن/NOUN-MS عباس/NOUN-MS 19/NUM-MP E/E 
+S/S س+/FUT_PART يكون/V قوم/V ب+/PREP عدي/NOUN-MS أم/NOUN-FS +ة/NSUFF من/PREP أم/NOUN-FS +ت/NSUFF +ي/PRON ابن/NOUN-MS عباس/NOUN-MS 26/NUM-MP E/E 
+S/S عج/V حجر/NOUN-MS إلى/PREP الله/NOUN-MS تعالى/V أبو/NOUN-MS هرير/NOUN-FS +ة/NSUFF 138/NUM-MP E/E 
+S/S ال+/DET علماء/NOUN-MP أمناء/NOUN-MP ال+/DET رسل/NOUN-MS أنس/NOUN-MS بن/NOUN-MS مالك/NOUN-MS 15/NUM-MP E/E 
+S/S ال+/DET فقهاء/NOUN-MP أمناء/NOUN-MP ال+/DET رسل/NOUN-MS علي/PREP بن/NOUN-MS أبي/NOUN-MS طالب/NOUN-MS 16/NUM-MP E/E 
+S/S كان/V عشار/NOUN-MS +ا/CASE يظلم/NOUN-FP +هم/PRON ابن/NOUN-MS عمر/NOUN-MS 164/NUM-MP E/E 
+S/S كان/V ل+/PREP داود/NOUN-MS ساع/NOUN-FS +ة/NSUFF يوقظ/V في/PREP +ها/PRON أهل/NOUN-MS +ه/PRON عثمان/NOUN-MS بن/NOUN-MS أبي/NOUN-MS ال+/DET عاصي/NOUN-MS 159/NUM-MP E/E 
+S/S ل+/PREP عن/PREP سهيل/NOUN-MS +ا/CASE ثلاث/NUM-MS مر/NOUN-FP +ات/NSUFF علي/PREP بن/NOUN-MS أبي/NOUN-MS طالب/NOUN-MS 166/NUM-MP E/E 
+S/S ل+/PREP يوشك/V رجل/NOUN-MS أن/PART يتمنى/V أبو/NOUN-MS هرير/NOUN-FS +ة/NSUFF 116/NUM-MP E/E 
+S/S ما/PART ازداد/V رجل/NOUN-MS من/PREP ال+/DET سلطان/NOUN-MS قرب/NOUN-MS +ا/CASE عبيد/NOUN-MS الله/NOUN-MS بن/NOUN-MS عمر/NOUN-MS 27/NUM-MP E/E 
+S/S ما/PART من/PREP أمير/NOUN-MS عشر/NOUN-FS +ة/NSUFF إلا/PART بريدة/V 133/NUM-MP E/E 
+S/S ما/PART من/PREP حاكم/NOUN-MS يحكم/V بين/NOUN-MS ال+/DET ناس/NOUN-MP ابن/NOUN-MS مسعود/NOUN-MS 123/NUM-MP E/E 
+S/S ما/PART من/PREP رجل/NOUN-MS ولى/V عشر/NOUN-FS +ة/NSUFF ابن/NOUN-MS عباس/NOUN-MS 135/NUM-MP E/E 
+S/S ما/PART من/PREP رجل/NOUN-MS في/PREP عشر/NOUN-FS +ة/NSUFF أبو/NOUN-MS أمام/NOUN-FS +ة/NSUFF 130/NUM-MP E/E 
+S/S ما/PART من/PREP عالم/NOUN-MS يأتي/V صاحب/NOUN-MS سلطان/NOUN-MS معاذ/NOUN-MS بن/NOUN-MS جبل/NOUN-MS 17/NUM-MP E/E 
+S/S من/PREP أتى/V أبواب/NOUN-FP ال+/DET سلاطين/NOUN-FP ابن/NOUN-MS عباس/NOUN-MS 1/NUM-MP //PUNC 2/3/PUNC E/E 
+S/S من/PREP اتبع/V ال+/DET صيد/NOUN-MS غفل/NOUN-MS ابن/NOUN-MS عباس/NOUN-MS 1/NUM-MP //PUNC 2/3/PUNC E/E 
+S/S طرف/NOUN-MS ال+/DET حديث/NOUN-MS ال+/DET صحابي/NOUN-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS E/E 
+S/S من/PREP أكرم/NOUN-MS فاسق/NOUN-MS +ا/CASE 94/NUM-MP E/E 
+S/S من/PREP تقرب/V من/PREP ذي/NOUN-MS سلطان/NOUN-MS ذراع/NOUN-MS +ا/CASE أنس/NOUN-MS 28/NUM-MP E/E 
+S/S من/PREP جعل/V قاضي/NOUN-MS +ا/CASE أبو/NOUN-MS هرير/NOUN-FS +ة/NSUFF 119/NUM-MP //PUNC 146/NUM-MP E/E 
+S/S من/PREP جعل/NOUN-MS ال+/DET +هم/PRON هما/PRON واحد/ADJ-MS +ا/CASE ابن/NOUN-MS مسعود/NOUN-MS 40/NUM-MP E/E 
+S/S من/PREP دعا/NOUN-MS ل+/PREP ظالم/ADJ-MS 94/NUM-MP E/E 
+S/S من/PREP سكن/NOUN-MS ال+/DET بادي/NOUN-FS +ة/NSUFF جفا/NOUN-MS ابن/NOUN-MS عباس/NOUN-MS -/PUNC أبو/NOUN-MS هرير/NOUN-FS +ة/NSUFF 1/NUM-MP //PUNC 2/3/PUNC E/E 
+S/S من/PREP طلب/NOUN-MS ال+/DET علم/NOUN-MS تكفل/V الله/NOUN-MS ب+/PREP رزق/NOUN-MS +ه/PRON 98/NUM-MP E/E 
+S/S من/PREP عاذ/NOUN-MS ب+/PREP الله/NOUN-MS فقد/V عاذ/NOUN-MS ب+/PREP معاذ/NOUN-MS ابن/NOUN-MS عمر/NOUN-MS 124/NUM-MP E/E 
+S/S من/PREP قرأ/V ال+/DET قرآن/NOUN-MS و+/CONJ تفقه/NOUN-MS في/PREP ال+/DET دين/NOUN-MS ابن/NOUN-MS عمر/NOUN-MS 30/NUM-MP E/E 
+S/S من/PREP كان/V قاضي/ADJ-MS +ا/CASE ف+/CONJ قضى/V ب+/PREP جور/NOUN-MS ابن/NOUN-MS عمر/NOUN-MS 124/NUM-MP E/E 
+S/S من/PREP مشى/V إلى/PREP سلطان/NOUN-MS جائر/NOUN-MS طوع/NOUN-MS +ا/CASE أبو/NOUN-MS ال+/DET درداء/NOUN-FS 29/NUM-MP E/E 
+S/S من/PREP ولى/V أحد/NOUN-MS +ا/CASE من/PREP ال+/DET ناس/NOUN-MP أبو/NOUN-MS ذر/NOUN-MS 115/NUM-MP E/E 
+S/S من/PREP ولى/V ثلاث/NUM-FS +ة/NSUFF إلا/PART لقى/NOUN-FS الله/NOUN-MS أبو/NOUN-MS ال+/DET درداء/NOUN-FS 137/NUM-MP E/E 
+S/S من/PREP ولى/V شيئ/NOUN-MS +ا/CASE من/PREP أمور/NOUN-FP ال+/DET مسلم/NOUN-MP +ين/NSUFF عمر/NOUN-MS بن/NOUN-MS ال+/DET خطاب/NOUN-MS 115/NUM-MP E/E 
+S/S من/PREP ولى/V عشر/NUM-FS +ة/NSUFF ف+/CONJ حكم/NOUN-MS بين/NOUN-MS +هم/PRON ابن/NOUN-MS عباس/NOUN-MS 136/NUM-MP E/E 
+S/S نعم/PART ما/PART لم/PART تقف/V على/PREP باب/NOUN-MS سد/NOUN-FS +ة/NSUFF ثوب/NOUN-MS +ان/PRON 10/NUM-MP E/E 
+S/S ويل/NOUN-MS ل+/PREP ال+/DET أمراء/NOUN-MP ،/PUNC ويل/NOUN-MS ل+/PREP ال+/DET عرفاء/NOUN-MP أبو/NOUN-MS هرير/NOUN-FS +ة/NSUFF 117/NUM-MP E/E 
+S/S لا/PART تزال/V هذه/PRON ال+/DET أم/NOUN-FS +ة/NSUFF ال+/DET حسن/NOUN-MS 21/NUM-MP E/E 
+S/S لا/PART خير/NOUN-MS في/PREP ال+/DET إمار/NOUN-FS +ة/NSUFF ل+/PREP مسلم/NOUN-MS حيان/ADJ-MS ال+/DET صدائي/NOUN-MP 126/NUM-MP E/E 
+S/S لا/PART يدخل/V ال+/DET جن/NOUN-FS +ة/NSUFF صاحب/NOUN-MS مكس/NOUN-MS عقب/NOUN-FS +ة/NSUFF بن/NOUN-MS عامر/NOUN-MS 155/NUM-MP E/E 
+S/S يؤتى/NOUN-FP ب+/PREP ال+/DET قاضي/NOUN-MS يوم/NOUN-MS ال+/DET قيام/NOUN-FS +ة/NSUFF ابن/NOUN-MS مسعود/NOUN-MS -/PUNC عائشة/NOUN-MS 122/NUM-MP //PUNC 126/NUM-MP E/E 
+S/S يا/PART أبا/NOUN-MS ذر/NOUN-MS إن/PART +ي/PRON أراك/V ضعيف/ADJ-MS +ا/CASE أبو/NOUN-MS ذر/NOUN-MS 118/NUM-MP E/E 
+S/S يا/PART معشر/NOUN-MS ال+/DET مهاجر/NOUN-MP +ين/NSUFF لا/PART تدخل/V +وا/PRON على/PREP أهل/NOUN-MS ال+/DET دنيا/NOUN-MS 94/NUM-MP E/E 
+S/S فهرس/V أطراف/NOUN-FP ال+/DET آثار/NOUN-FP E/E 
+S/S طرف/NOUN-MS ال+/DET أثر/NOUN-MS ال+/DET قائل/ADJ-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS E/E 
+S/S أبغض/NOUN-FP خلق/NOUN-MS الله/NOUN-MS رجل/NOUN-MS قمش/NOUN-MS علم/NOUN-MS +ا/CASE ابن/NOUN-MS ال+/DET كلبي/NOUN-MS 151/NUM-MP E/E 
+S/S اتق/NOUN-MS الله/NOUN-MS قد/PART ملأ/NOUN-FP +ت/PRON ال+/DET أرض/NOUN-FS جور/NOUN-MS +ا/CASE ال+/DET ثوري/ADJ-MS 96/NUM-MP E/E 
+S/S أتهنئوني/NOUN-MS ب+/PREP ال+/DET قضاء/NOUN-MS ؟/PUNC !/PUNC E/E 
+S/S أبو/NOUN-MS ال+/DET درداء/NOUN-FS 153/NUM-MP E/E 
+S/S احفظ/NOUN-MS عن/PREP +ي/PRON ثلاث/NUM-MS خصال/NOUN-FP أبو/NOUN-MS قلاب/NOUN-FS +ة/NSUFF 46/NUM-MP E/E 
+S/S أذهب/V إلى/PREP هؤلاء/PRON ابن/NOUN-MS أبي/NOUN-MS إياس/NOUN-MS 62/NUM-MP E/E 
+S/S أرد/V +ت/PRON أن/PART تكون/V من/PREP خير/NOUN-MS ال+/DET ملوك/NOUN-MP علي/NOUN-MS بن/NOUN-MS ال+/DET حسن/NOUN-MS ال+/DET صندلي/ADJ-MS 100/NUM-MP E/E 
+S/S أعز/NOUN-MS ال+/DET أشياء/NOUN-FP في/PREP آخر/NOUN-MS ال+/DET زمان/NOUN-MS ثلاث/NUM-FS +ة/NSUFF إبراهيم/NOUN-MS بن/NOUN-MS أدهم/NOUN-MS 103/NUM-MP E/E 
+S/S أفرغتم/NOUN-MS حمائم/NOUN-FP +كم/PRON وفرطحتم/ADJ-MS نعال/NOUN-FP +كم/PRON ./PUNC E/E 
+S/S ال+/DET حسن/NOUN-MS 65/NUM-MP E/E 
+S/S أما/PART بعد/NOUN-MS فقد/V جاءني/NOUN-MS كتاب/NOUN-MS +ك/PRON زمع/NOUN-FS +ة/NSUFF بن/NOUN-MS صالح/NOUN-MS 80/NUM-MP E/E 
+S/S أما/PART علم/V +ت/PRON أن/PART ال+/DET علماء/NOUN-MP يحشر/V +ون/PRON مع/NOUN-MS ال+/DET أنبياء/NOUN-MP ./PUNC E/E 
+S/S عبد/NOUN-MS الله/NOUN-MS بن/NOUN-MS وهب/NOUN-MS 147/NUM-MP E/E 
+S/S أنا/PRON لا/PART أذل/V ال+/DET علم/NOUN-MS ./PUNC E/E 
+S/S ال+/DET بخاري/NOUN-MS 62/NUM-MP E/E 
+S/S أنزل/V +ت/PRON في/PREP ال+/DET مكاسي/NOUN-MP +ين/NSUFF ./PUNC E/E 
+S/S مجاهد/NOUN-MS 167/NUM-MP E/E 
+S/S إن/PART أتي/NOUN-MS +ت/NSUFF +ك/PRON فقربتني/NOUN-MS ./PUNC E/E 
+S/S عيسى/NOUN-MS بن/NOUN-MS موسى/NOUN-MS 56/NUM-MP E/E 
+S/S إن/PART بعض/NOUN-MS ال+/DET خلفاء/NOUN-MP أرسل/V إلي/PREP +ه/PRON حماد/NOUN-MS بن/NOUN-MS سلم/NOUN-FS +ة/NSUFF 60/NUM-MP E/E 
+S/S إن/PART خير/NOUN-MS ال+/DET أمراء/NOUN-MP من/PREP أحب/NOUN-MS ال+/DET علماء/NOUN-MP أبو/NOUN-MS حازم/NOUN-MS 113/NUM-MP E/E 
+S/S إن/PART دعوك/NOUN-FP ل+/PREP تقرأ/V علي/PREP +هم/PRON ./PUNC E/E 
+S/S ال+/DET ثوري/ADJ-MS 50/NUM-MP //PUNC 59/NUM-MP E/E 
+S/S إن/PART سر/NOUN-MS +كم/PRON أن/PART تسلم/V +وا/PRON ال+/DET حسن/NOUN-MS 65/NUM-MP E/E 
+S/S إن/PART على/PREP أبواب/NOUN-FP ال+/DET سلطان/NOUN-MS فتن/NOUN-MS +ا/CASE ابن/NOUN-MS مسعود/NOUN-MS 36/NUM-MP E/E 
+S/S إن/PART فقراء/NOUN-MP ال+/DET قراء/NOUN-MP اتخذ/V +وا/PRON سلم/NOUN-MS +ا/CASE ال+/DET ثوري/ADJ-MS 75/NUM-MP E/E 
+S/S إن/PART في/PREP جهنم/NOUN-MS واد/NOUN-MS تستغيث/V من/PREP +ه/PRON سفيان/NOUN-FP ال+/DET ثوري/ADJ-MS 53/NUM-MP E/E 
+S/S إن/PART كان/V ال+/DET فضل/NOUN-MS لا/PART يداخل/V ال+/DET سلطان/NOUN-MS أبو/NOUN-MS بكر/NOUN-MS بن/NOUN-MS عياش/NOUN-MS 59/NUM-MP E/E 
+S/S إن/PART ال+/DET ناس/NOUN-MP لما/PART كان/V +وا/PRON على/PREP ال+/DET صواب/NOUN-MS أبو/NOUN-MS حازم/NOUN-MS 81/NUM-MP E/E 
+S/S طرف/NOUN-MS ال+/DET أثر/NOUN-MS ال+/DET قائل/ADJ-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS E/E 
+S/S إن/PART +ا/PRON أدرك/V +نا/PRON ال+/DET علماء/NOUN-MP و+/CONJ +هم/PRON لا/PART يأت/V +ون/PRON أحد/NOUN-MS +ا/CASE حماد/NOUN-MS بن/NOUN-MS سلم/NOUN-FS +ة/NSUFF 88/NUM-MP E/E 
+S/S إن/PART +ي/PRON أدرك/V +ت/PRON أهل/NOUN-MS ال+/DET دنيا/NOUN-MS تبع/NOUN-MS +ا/CASE ل+/PREP أهل/NOUN-MS ال+/DET علم/NOUN-MS أبو/NOUN-MS حازم/NOUN-MS 79/NUM-MP E/E 
+S/S إن/PART +ي/PRON أدرك/V +ت/PRON ال+/DET علماء/NOUN-MP أبو/NOUN-MS حازم/NOUN-MS 82/NUM-MP E/E 
+S/S إن/PART +ي/PRON طلب/V +ت/PRON ل+/PREP ال+/DET قضاء/NOUN-MS ف+/CONJ اختر/V +ت/PRON ما/PART ترى/V أبو/NOUN-MS معشر/NOUN-MS 148/NUM-MP E/E 
+S/S أول/NUM-MS ال+/DET أمار/ADJ-FS +ة/NSUFF ملام/ADJ-FS +ة/NSUFF معاوي/NOUN-FS +ة/NSUFF بن/NOUN-MS أبي/NOUN-MS سفيان/NOUN-FP 128/NUM-MP E/E 
+S/S ألا/PART رأي/V +ت/PRON عالم/NOUN-MS +ا/CASE يأتي/V باب/NOUN-MS سلطان/NOUN-MS أبو/NOUN-MS سليمان/NOUN-MS 73/NUM-MP E/E 
+S/S ألا/PART لا/PART يمشين/NOUN-MS رجل/NOUN-MS من/PREP +كم/PRON حذيفة/NOUN-MS بن/NOUN-MS ال+/DET يمان/NOUN-MS 41/NUM-MP E/E 
+S/S إياك/NOUN-MS و+/CONJ ال+/DET أهواء/NOUN-FP ال+/DET ثوري/ADJ-MS 52/NUM-MP E/E 
+S/S إياكم/NOUN-MS و+/CONJ مواقف/NOUN-FP ال+/DET فتن/NOUN-MS حذيفة/NOUN-MS 42/NUM-MP E/E 
+S/S ب+/PREP قراب/NOUN-FS +ت/NSUFF +ي/PRON و+/CONJ صحب/NOUN-FS +ت/NSUFF +ي/PRON ابن/NOUN-MS عمر/NOUN-MS 125/NUM-MP E/E 
+S/S ب+/PREP لغني/NOUN-MS أن/PART أول/NOUN-MS من/PREP يدعى/V ل+/PREP ال+/DET حساب/NOUN-MS محمد/NOUN-MS بن/NOUN-MS رافع/NOUN-MS 139/NUM-MP E/E 
+S/S تعزز/V +وا/PRON على/PREP أبناء/NOUN-MP ال+/DET دنيا/NOUN-MS ال+/DET ثوري/ADJ-MS 72/NUM-MP E/E 
+S/S جز/V من/PREP بين/NOUN-MS يد/NOUN-FS +ي/NSUFF بشر/NOUN-MS بن/NOUN-MS ال+/DET حارث/NOUN-MS 74/NUM-MP E/E 
+S/S دعا/V ال+/DET منصور/NOUN-MS أبا/NOUN-MS حنيف/ADJ-FS +ة/NSUFF و+/CONJ ال+/DET ثوري/ADJ-MS محمد/NOUN-MS بن/NOUN-MS يحيى/NOUN-FS ال+/DET بصري/ADJ-MS 146/NUM-MP E/E 
+S/S ال+/DET علم/NOUN-MS يقصد/V أبو/NOUN-MS ال+/DET عباس/NOUN-MS 78/NUM-MP E/E 
+S/S ال+/DET فقهاء/NOUN-MP أمناء/NOUN-MP ال+/DET رسل/NOUN-MS جعفر/NOUN-MS بن/NOUN-MS محمد/NOUN-MS 54/NUM-MP E/E 
+S/S في/PREP جهنم/NOUN-MS واد/NOUN-MS لا/PART يسكن/V +ه/PRON إلا/PART ال+/DET قراء/NOUN-MP سفيان/NOUN-FP 91/NUM-MP E/E 
+S/S قال/V بعض/NOUN-MS ال+/DET أمراء/NOUN-MP ل+/PREP أبي/NOUN-MS حازم/NOUN-MS سفيان/NOUN-FP 84/NUM-MP E/E 
+S/S قد/PART أحفيتم/NOUN-MS شوارب/NOUN-FP +كم/PART ال+/DET حسن/NOUN-MS 66/NUM-MP E/E 
+S/S كان/V ال+/DET علماء/NOUN-MP إذا/PART علم/V +وا/PRON عمل/V +وا/PRON مكحول/NOUN-MS 87/NUM-MP E/E 
+S/S كان/V ال+/DET فقهاء/NOUN-MP يأت/V +ون/PRON عمر/NOUN-MS بن/NOUN-MS عبد/NOUN-MS ال+/DET عزيز/NOUN-MS أبو/NOUN-MS ال+/DET زناد/NOUN-MS 86/NUM-MP E/E 
+S/S كان/V +ت/PRON ال+/DET قضاء/NOUN-MS في/PREP زمن/NOUN-MS بني/NOUN-MS إسرائيل/NOUN-MS عبد/NOUN-MS ال+/DET رحمن/NOUN-MS بن/NOUN-MS زيد/NOUN-MS 149/NUM-MP E/E 
+S/S كان/V كيس/NOUN-MS +ا/PRON حافظ/NOUN-MS +ا/CASE ل+/PREP ال+/DET حديث/NOUN-MS أحمد/NOUN-MS بن/NOUN-MS حنبل/NOUN-MS 102/NUM-MP E/E 
+S/S كن/V +نا/PRON نتعلم/V اجتناب/NOUN-MS ال+/DET سلطان/NOUN-MS ال+/DET فضل/NOUN-MS بن/NOUN-MS عباس/NOUN-MS 48/NUM-MP E/E 
+S/S لس/V +ت/PRON من/PREP حداث/NOUN-FP +ه/PRON ميمون/ADJ-MS بن/NOUN-MS مهران/NOUN-FP 60/NUM-MP E/E 
+S/S لما/PART رجع/V ال+/DET رشيد/NOUN-MS من/PREP ال+/DET حج/NOUN-MS نزل/V ال+/DET كوف/NOUN-FS +ة/NSUFF ابن/NOUN-MS معين/ADJ-MS 154/NUM-MP E/E 
+S/S طرف/NOUN-MS ال+/DET أثر/NOUN-MS ال+/DET قائل/ADJ-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS E/E 
+S/S لو/PART أن/PART أهل/NOUN-MS ال+/DET علم/NOUN-MS صان/V +وا/PRON ال+/DET علم/NOUN-MS ابن/NOUN-MS مسعود/NOUN-MS 40/NUM-MP E/E 
+S/S لو/PART أن/PART أهل/NOUN-MS ال+/DET علم/NOUN-MS صانو/NOUN-MS +ه/PRON ال+/DET فضيل/NOUN-MS 77/NUM-MP E/E 
+S/S لو/PART خيرت/NOUN-MS بين/NOUN-MS ال+/DET قضاء/NOUN-MS و+/CONJ بين/NOUN-MS ضرب/NOUN-MS عنقي/NOUN-MS مكحول/NOUN-MS 140/NUM-MP E/E 
+S/S ما/PART بي/ABBREV حاج/NOUN-FS +ة/NSUFF أتكلم/V ب+/PREP +ها/PRON أبو/NOUN-MS حازم/NOUN-MS 85/NUM-MP E/E 
+S/S ما/PART زال/V ال+/DET علم/NOUN-MS عزيز/NOUN-MS +ا/CASE حتى/PREP حمل/NOUN-MS إلى/PREP أبواب/NOUN-FP ال+/DET ملوك/NOUN-MP ال+/DET مأمون/NOUN-MS 89/NUM-MP E/E 
+S/S ما/PART شيء/NOUN-MS أبغض/V إلى/PREP الله/NOUN-MS من/PREP ال+/DET أوزاعي/NOUN-FP 92/NUM-MP E/E 
+S/S ما/PART وجد/V +ت/PRON مثل/NOUN-MS ال+/DET قاضي/NOUN-MS ال+/DET عالم/NOUN-MS إلا/PART أبو/NOUN-MS قلاب/NOUN-FS +ة/NSUFF 144/NUM-MP E/E 
+S/S من/PREP أراد/V أن/PART يكرم/V دين/NOUN-MS +ه/PRON ابن/NOUN-MS مسعود/NOUN-MS 36/NUM-MP E/E 
+S/S من/PREP تحلى/V ب+/PREP ال+/DET علم/NOUN-MS ابتلى/NOUN-MS ب+/PREP ثلاث/NOUN-MS ابن/NOUN-MS ال+/DET مبارك/NOUN-FP 97/NUM-MP E/E 
+S/S من/PREP طلب/NOUN-MS ال+/DET علم/NOUN-MS ل+/PREP أربع/NUM-MP دخل/NOUN-MS ال+/DET نار/NOUN-MS ابن/NOUN-MS مسعود/NOUN-MS 39/NUM-MP E/E 
+S/S هؤلاء/PRON الذين/PART يدخل/V +ون/PRON على/PREP ال+/DET ملوك/NOUN-MP وهيب/NOUN-MS 93/NUM-MP E/E 
+S/S هيهات/NOUN-MS هيهات/NOUN-MS أبو/NOUN-MS حازم/NOUN-MS 84/NUM-MP E/E 
+S/S و+/CONJ الله/NOUN-MS لا/PART أسأل/V ال+/DET دنيا/NOUN-MS منمن/NOUN-MS يملك/V +ها/PRON سفيان/NOUN-FP ال+/DET ثوري/ADJ-MS 71/NUM-MP E/E 
+S/S لا/PART أكون/V سفير/NOUN-MS +ا/CASE بين/NOUN-MS الله/NOUN-MS و+/CONJ خلق/NOUN-MS +ه/PRON ال+/DET قرافي/ADJ-MP 96/NUM-MP E/E 
+S/S لا/PART تأتو/V +هم/PRON و+/CONJ لا/PART تأمروهم/NOUN-MS أنس/NOUN-MS 51/NUM-MP //PUNC 70/NUM-MP E/E 
+S/S لا/PART تجالس/V صاحب/NOUN-MS بدع/NOUN-FS +ة/NSUFF يونس/NOUN-FS بن/NOUN-MS عبيد/NOUN-MS 47/NUM-MP E/E 
+S/S لا/PART تجمع/V من/PREP ال+/DET ضرائر/NOUN-FP أبو/NOUN-MS ذر/NOUN-MS 45/NUM-MP E/E 
+S/S لا/PART تكن/V أول/ADJ-MS من/PREP يضيع/V ال+/DET علم/NOUN-MS عبد/NOUN-MS الله/NOUN-MS بن/NOUN-MS رافع/NOUN-MS 63/NUM-MP E/E 
+S/S يا/PART أبا/NOUN-MS بكر/NOUN-MS عافا/NOUN-MS +نا/PRON الله/NOUN-MS و+/CONJ إياك/NOUN-MS ال+/DET زهري/NOUN-MS 94/NUM-MP E/E 
+S/S يا/PART بنى/NOUN-FP إن/PART +ي/PRON أخاف/V أن/PART أجلس/V من/PREP +هم/PRON مجلس/NOUN-MS +ا/CASE سلم/NOUN-FS +ة/NSUFF بن/NOUN-MS نبيط/NOUN-MS 38/NUM-MP E/E 
+S/S يا/PART عطاء/NOUN-MS إياك/NOUN-MS و+/CONJ أبواب/NOUN-FP ال+/DET سلطان/NOUN-MS وهب/NOUN-MS بن/NOUN-MS منبه/ADJ-MS 44/NUM-MP E/E 
+S/S يدخل/V ال+/DET رجل/NOUN-MS على/PREP ال+/DET سلطان/NOUN-MS ابن/NOUN-MS مسعود/NOUN-MS 37/NUM-MP E/E 
+S/S يكفيني/NOUN-MS الذي/PART ترك/V +ت/PRON +هم/PRON ل+/PREP +ه/PRON جابر/NOUN-MS بن/NOUN-MS حيان/NOUN-MS 55/NUM-MP E/E 
+S/S ينبغي/V ل+/PREP ال+/DET عالم/NOUN-MS إذا/PART قطع/V عن/PREP +ه/PRON ابن/NOUN-MS ال+/DET حاج/NOUN-MS 98/NUM-MP E/E 
+S/S ينبغي/V ل+/PREP ال+/DET عالم/NOUN-MS بل/NOUN-MS يتعين/V علي/PREP +ه/PRON ابن/NOUN-MS ال+/DET حاج/NOUN-MS 97/NUM-MP E/E 
+S/S </PUNC span/FOREIGN class/FOREIGN =/PUNC "/PUNC matn/FOREIGN "/PUNC >/PUNC فهرس/V ال+/DET أبي/NOUN-FP +ات/NSUFF ال+/DET شعري/ADJ-FS +ة/NSUFF E/E 
+S/S </PUNC //PUNC span/FOREIGN >/PUNC </PUNC span/FOREIGN class/FOREIGN =/PUNC "/PUNC matn/FOREIGN -/PUNC hr/FOREIGN "/PUNC >/PUNC  /PUNC </PUNC //PUNC span/FOREIGN >/PUNC صدر/V ال+/DET بيت/NOUN-MS ال+/DET قائل/ADJ-MS عدد/NOUN-MS ال+/DET أبي/NOUN-FP +ات/NSUFF ال+/DET قافي/ADJ-FS +ة/NSUFF رقم/NOUN-MS ال+/DET نص/NOUN-MS </PUNC span/FOREIGN class/FOREIGN =/PUNC "/PUNC matn/FOREIGN -/PUNC hr/FOREIGN "/PUNC >/PUNC  /PUNC </PUNC //PUNC span/FOREIGN >/PUNC أبلغ/V سليمان/NOUN-MS ال+/DET خليل/NOUN-MS بن/NOUN-MS أحمد/NOUN-MS 4/NUM-MP مال/NOUN-MS 105/NUM-MP E/E 
+S/S أرى/V ال+/DET ناس/NOUN-MP إبراهيم/NOUN-MS بن/NOUN-MS أدهم/NOUN-MS 2/NUM-MP دون/NOUN-MS 104/NUM-MP E/E 
+S/S اقتل/V أولى/NUM-MS ال+/DET سيوطي/ADJ-FP 2/NUM-MP حللوه/ADJ-MS 168/NUM-MP E/E 
+S/S ألا/PART اقتديتم/NOUN-MS 6/NUM-MP ورع/NOUN-MS 109/NUM-MP E/E 
+S/S تجنب/V +ت/PRON 2/NUM-MP قل/V +ان/PRON 110/NUM-MP E/E 
+S/S ترك/V +ت/PRON ال+/DET قضاء/NOUN-MS أحمد/NOUN-MS بني/NOUN-MS إسحاق/NOUN-MS 3/NUM-MP آخر/NOUN-MS +ه/PRON 150/NUM-MP E/E 
+S/S خذ/V من/PREP ال+/DET جاروش/NOUN-MS ابن/NOUN-MS ال+/DET مبارك/NOUN-FP 3/NUM-MP شعير/NOUN-MS 106/NUM-MP E/E 
+S/S خذ/V +ها/PRON إلي/PREP +ك/PRON ال+/DET فاقوسي/NOUN-MS 5/NUM-MP بين/NOUN-MS 109/NUM-MP E/E 
+S/S خليفة/NOUN-MS الله/NOUN-MS عبد/NOUN-MS ال+/DET ملك/NOUN-MS بن/NOUN-MS حبيب/NOUN-MS 3/NUM-MP أمم/NOUN-MP 143/NUM-MP E/E 
+S/S هيهات/NOUN-MS 1/NUM-MP طين/NOUN-MS 111/NUM-MP E/E 
+S/S يا/PART جاعل/NOUN-MS ال+/DET علم/NOUN-MS ابن/NOUN-MS ال+/DET مبارك/NOUN-FP 5/NUM-MP كين/NOUN-MS 107/NUM-MP E/E 
+S/S فهرس/V ال+/DET أعلام/NOUN-FP E/E 
+S/S ال+/DET اسم/NOUN-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS ب+/PREP ال+/DET كتاب/NOUN-MS ال+/DET اسم/NOUN-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS ب+/PREP ال+/DET كتاب/NOUN-MS E/E 
+S/S حرف/NOUN-MS ال+/DET ألف/NOUN-MS أحمد/NOUN-MS بن/NOUN-MS أبي/NOUN-MS 71/NUM-MP E/E 
+S/S إبراهيم/NOUN-MS 161/NUM-MP ال+/DET حواري/ADJ-MS E/E 
+S/S إبراهيم/NOUN-MS بن/NOUN-MS أدهم/NOUN-MS 103/NUM-MP //PUNC 104/NUM-MP أحمد/NOUN-MS بن/NOUN-MS ال+/DET صلت/NOUN-MS 72/NUM-MP E/E 
+S/S إبراهيم/NOUN-MS ال+/DET خوارزمي/NOUN-MS 164/NUM-MP أحمد/NOUN-MS بن/NOUN-MS عبد/NOUN-MS الله/NOUN-MS 52/NUM-MP E/E 
+S/S إبراهيم/NOUN-MS بن/NOUN-MS طاهر/NOUN-MS 76/NUM-MP أحمد/NOUN-MS بن/NOUN-MS عيسى/NOUN-MS 144/NUM-MP E/E 
+S/S إبراهيم/NOUN-MS بن/NOUN-MS يزيد/V 164/NUM-MP أحمد/NOUN-MS بن/NOUN-MS محمد/NOUN-MS بن/NOUN-MS 70/NUM-MP E/E 
+S/S أحمد/NOUN-MS 3/NUM-MP //PUNC 12/NUM-MP حمد/NOUN-FS +ون/NSUFF E/E 
+S/S //PUNC 13/NUM-MP //PUNC 117/NUM-MP //PUNC أحمد/NOUN-MS بن/NOUN-MS محمد/NOUN-MS 73/NUM-MP E/E 
+S/S 118/NUM-MP //PUNC 121/NUM-MP //PUNC ال+/DET قشيري/NOUN-MS E/E 
+S/S 126/NUM-MP //PUNC أسباط/NOUN-FP 167/NUM-MP E/E 
+S/S 130/NUM-MP //PUNC 131/NUM-MP //PUNC إسحاق/NOUN-MS بن/NOUN-MS إبراهيم/NOUN-MS 144/NUM-MP E/E 
+S/S 156/NUM-MP //PUNC 158/NUM-MP ./PUNC E/E 
+S/S إسماعيل/NOUN-MS بن/NOUN-MS إبراهيم/NOUN-MS 144/NUM-MP E/E 
+S/S أحمد/NOUN-MS بن/NOUN-MS أبي/NOUN-MS ال+/DET حسن/NOUN-MS 152/NUM-MP إبراهيم/NOUN-MS إسماعيل/NOUN-MS بن/NOUN-MS علي/NOUN-FS +ة/NSUFF 107/NUM-MP E/E 
+S/S أحمد/NOUN-MS بن/NOUN-MS حنبل/NOUN-MS 106/NUM-MP //PUNC 107/NUM-MP أنس/NOUN-MS 15/NUM-MP //PUNC 28/51/PUNC //PUNC 163/NUM-MP E/E 
+S/S أيوب/NOUN-MS ال+/DET سختياني/NOUN-MS 46/NUM-MP //PUNC 144/NUM-MP E/E 
+S/S حرف/NOUN-MS ال+/DET باء/V E/E 
+S/S بريدة/V 133/NUM-MP بشر/NOUN-MS بن/NOUN-MS موسى/NOUN-MS 163/NUM-MP E/E 
+S/S بشر/NOUN-MS بن/NOUN-MS ال+/DET حارث/NOUN-MS 72/NUM-MP بشير/NOUN-MS بن/NOUN-MS عاصم/NOUN-MS 112/NUM-MP //PUNC 115/NUM-MP E/E 
+S/S بشر/NOUN-MS بن/NOUN-MS عبيد/NOUN-MS 164/NUM-MP بكر/NOUN-MS بن/NOUN-MS محمد/NOUN-MS 53/NUM-MP E/E 
+S/S ال+/DET اسم/NOUN-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS ب+/PREP ال+/DET كتاب/NOUN-MS ال+/DET اسم/NOUN-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS ب+/PREP ال+/DET كتاب/NOUN-MS E/E 
+S/S حرف/NOUN-MS ال+/DET تاء/NOUN-MS E/E 
+S/S تمام/ADJ-MS 138/NUM-MP E/E 
+S/S حرف/NOUN-MS ال+/DET ثاء/NOUN-MS E/E 
+S/S ثوب/NOUN-MS +ان/PRON 10/NUM-MP //PUNC 132/NUM-MP E/E 
+S/S حرف/NOUN-MS ال+/DET جيم/NOUN-MS E/E 
+S/S جابر/NOUN-MS بن/NOUN-MS حيان/NOUN-MS 55/NUM-MP جعفر/NOUN-MS ،/PUNC 113/NUM-MP E/E 
+S/S جابر/NOUN-MS بن/NOUN-MS عبد/NOUN-MS الله/NOUN-MS 13/NUM-MP أبو/NOUN-MS ال+/DET أشهب/NOUN-MS E/E 
+S/S جعفر/NOUN-MS بن/NOUN-MS محمد/NOUN-MS 54/NUM-MP E/E 
+S/S حرف/NOUN-MS ال+/DET حاء/NOUN-MS E/E 
+S/S حذيفة/NOUN-MS بن/NOUN-MS ال+/DET يمان/NOUN-MS 41/NUM-MP //PUNC 42/NUM-MP ال+/DET حسن/NOUN-MS بن/NOUN-MS أبي/NOUN-MS 158/NUM-MP E/E 
+S/S حسان/NOUN-FP 71/NUM-MP عامر/NOUN-MS E/E 
+S/S ال+/DET حسن/NOUN-MS 21/NUM-MP //PUNC 63/65/PUNC //PUNC حسين/NOUN-MS ال+/DET أشقر/NOUN-MS 167/NUM-MP E/E 
+S/S 113/NUM-MP //PUNC 141/NUM-MP حماد/NOUN-MS بن/NOUN-MS سلم/NOUN-FS +ة/NSUFF 47/NUM-MP //PUNC 59/60/PUNC //PUNC 88/NUM-MP E/E 
+S/S ال+/DET حسن/NOUN-MS ال+/DET بصرى/NOUN-MS 64/NUM-MP حيان/NOUN-MS ال+/DET صدائي/ADJ-MP 126/NUM-MP E/E 
+S/S ال+/DET حسن/NOUN-MS بن/NOUN-MS سفيان/NOUN-FP 15/NUM-MP E/E 
+S/S حرف/NOUN-MS ال+/DET خاء/NOUN-MS E/E 
+S/S خزيمة/V 155/NUM-MP ال+/DET خليل/NOUN-MS بن/NOUN-MS أحمد/NOUN-MS 105/NUM-MP E/E 
+S/S خلف/NOUN-MS بن/NOUN-MS تميم/NOUN-MS 63/NUM-MP //PUNC 104/NUM-MP E/E 
+S/S ال+/DET اسم/NOUN-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS ب+/PREP ال+/DET كتاب/NOUN-MS ال+/DET اسم/NOUN-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS ب+/PREP ال+/DET كتاب/NOUN-MS E/E 
+S/S حرف/NOUN-MS ال+/DET دال/NOUN-MS E/E 
+S/S داود/NOUN-MS ال+/DET عطار/NOUN-MS 161/NUM-MP E/E 
+S/S حرف/NOUN-MS ال+/DET راء/NOUN-MS E/E 
+S/S راشد/NOUN-MS بن/NOUN-MS سعد/NOUN-MS 147/NUM-MP رويفع/NOUN-MS بن/NOUN-MS ثابت/ADJ-MS 156/NUM-MP E/E 
+S/S رشد/NOUN-FS +ين/NSUFF بن/NOUN-MS سعد/NOUN-MS 103/NUM-MP E/E 
+S/S حرف/NOUN-MS ال+/DET زاي/NOUN-MS E/E 
+S/S ال+/DET زبير/NOUN-MS بن/NOUN-MS ال+/DET حارث/NOUN-MS 73/NUM-MP زيد/NOUN-MS بن/NOUN-MS أرقم/NOUN-MS 163/NUM-MP E/E 
+S/S زمع/NOUN-FS +ة/NSUFF بن/NOUN-MS صالح/NOUN-MS 80/NUM-MP //PUNC 82/NUM-MP زيد/NOUN-MS بن/NOUN-MS ال+/DET حريش/NOUN-MS E/E 
+S/S حرف/NOUN-MS ال+/DET سين/NOUN-MS E/E 
+S/S سعد/NOUN-MS 109/NUM-MP سلم/NOUN-FS +ة/NSUFF بن/NOUN-MS نبيط/NOUN-MS 38/NUM-MP E/E 
+S/S سعد/NOUN-MS بن/NOUN-MS عباد/NOUN-FS +ة/NSUFF 131/NUM-MP سهيل/NOUN-MS 164/NUM-MP //PUNC 166/NUM-MP //PUNC E/E 
+S/S سعيد/NOUN-MS بن/NOUN-MS 58/NUM-MP //PUNC 86/NUM-MP سلام/NOUN-FS +ة/NSUFF بن/NOUN-MS محمد/NOUN-MS 69/NUM-MP E/E 
+S/S ال+/DET مسيب/NOUN-MS سليمان/NOUN-MS 71/NUM-MP //PUNC 105/NUM-MP E/E 
+S/S سفيان/NOUN-FP 84/NUM-MP //PUNC 91/109/PUNC //PUNC 114/146/PUNC سليمان/NOUN-MS بن/NOUN-MS عبد/NOUN-MS ال+/DET ملك/NOUN-MS 81/NUM-MP E/E 
+S/S سفيان/NOUN-FP ال+/DET ثوري/ADJ-MS 49/NUM-MP //PUNC 50/53/PUNC //PUNC سليمان/NOUN-MS ال+/DET مهلبي/ADJ-MS 105/NUM-MP E/E 
+S/S 57/NUM-MP //PUNC 69/70/PUNC //PUNC سليمان/NOUN-MS بن/NOUN-MS 79/NUM-MP //PUNC 85/NUM-MP E/E 
+S/S 73/NUM-MP //PUNC 74/95/PUNC هشام/NOUN-MS E/E 
+S/S سلمان/NOUN-MS 112/NUM-MP E/E 
+S/S ال+/DET اسم/NOUN-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS ب+/PREP ال+/DET كتاب/NOUN-MS ال+/DET اسم/NOUN-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS ب+/PREP ال+/DET كتاب/NOUN-MS E/E 
+S/S حرف/NOUN-MS ال+/DET صاد/NOUN-MS E/E 
+S/S صالح/NOUN-MS بن/NOUN-MS خليفة/NOUN-MS 73/NUM-MP E/E 
+S/S حرف/NOUN-MS ال+/DET طاء/NOUN-MS E/E 
+S/S طاهر/NOUN-MS بن/NOUN-MS عبد/NOUN-MS الله/NOUN-MS 76/NUM-MP E/E 
+S/S حرف/NOUN-MS ال+/DET عين/NOUN-MS E/E 
+S/S عباد/NOUN-FS +ة/NSUFF بن/NOUN-MS ال+/DET صامت/ADJ-MS 131/NUM-MP عبد/NOUN-MS ال+/DET رحمن/NOUN-MS 143/NUM-MP E/E 
+S/S عبد/NOUN-MS الله/NOUN-MS بن/NOUN-MS أحمد/NOUN-MS عبد/NOUN-MS ال+/DET رحمن/NOUN-MS بن/NOUN-MS أذين/NOUN-FS +ة/NSUFF 144/NUM-MP E/E 
+S/S عبد/NOUN-MS الله/NOUN-MS بن/NOUN-MS أبي/NOUN-MS جعفر/NOUN-MS 71/NUM-MP عبد/NOUN-MS ال+/DET رحمن/NOUN-MS بن/NOUN-MS أخي/NOUN-MS ال+/DET أصمعي/NOUN-FP 64/NUM-MP E/E 
+S/S عبد/NOUN-MS الله/NOUN-MS بن/NOUN-MS ال+/DET حارث/NOUN-MS 24/NUM-MP E/E 
+S/S عبد/NOUN-MS الله/NOUN-MS بن/NOUN-MS ال+/DET حسين/NOUN-MS 70/NUM-MP عبد/NOUN-MS ال+/DET رحمن/NOUN-MS بن/NOUN-MS ثمام/NOUN-FS +ة/NSUFF 155/NUM-MP E/E 
+S/S عبد/NOUN-MS الله/NOUN-MS بن/NOUN-MS رافع/NOUN-MS 61/NUM-MP عبد/NOUN-MS ال+/DET رحمن/NOUN-MS بن/NOUN-MS حسان/NOUN-FP 157/NUM-MP E/E 
+S/S عبد/NOUN-MS الله/NOUN-MS بن/NOUN-MS ال+/DET سدي/NOUN-MS 57/NUM-MP E/E 
+S/S عبد/NOUN-MS الله/NOUN-MS بن/NOUN-MS ال+/DET شخير/NOUN-MS 22/NUM-MP عبد/NOUN-MS ال+/DET رحمن/NOUN-MS بن/NOUN-MS زيد/NOUN-MS 149/NUM-MP E/E 
+S/S عبد/NOUN-MS الله/NOUN-MS بن/NOUN-MS عمير/NOUN-MS 27/NUM-MP عبد/NOUN-MS ال+/DET رحمن/NOUN-MS بن/NOUN-MS سلام/NOUN-MS 161/NUM-MP E/E 
+S/S عبد/NOUN-MS الله/NOUN-MS بن/NOUN-MS ال+/DET مبارك/NOUN-FP 57/NUM-MP //PUNC 107/NUM-MP عبد/NOUN-MS ال+/DET رحمن/NOUN-MS بن/NOUN-MS يزيد/NOUN-MS 79/NUM-MP E/E 
+S/S عبد/NOUN-MS الله/NOUN-MS بن/NOUN-MS محمد/NOUN-MS 69/NUM-MP عبد/NOUN-MS ال+/DET ملك/NOUN-MS 86/NUM-MP E/E 
+S/S عبد/NOUN-MS الله/NOUN-MS بن/NOUN-MS وهب/NOUN-MS 124/NUM-MP //PUNC 142/147/PUNC عبد/NOUN-MS ال+/DET ملك/NOUN-MS بن/NOUN-MS حبيب/NOUN-MS 143/NUM-MP E/E 
+S/S عبد/NOUN-MS ال+/DET جبار/NOUN-MS بن/NOUN-MS عبد/NOUN-MS ال+/DET عزيز/NOUN-MS 81/NUM-MP عبد/NOUN-MS ال+/DET ملك/NOUN-MS بن/NOUN-MS سلم/NOUN-FS +ة/NSUFF 157/NUM-MP E/E 
+S/S عبد/NOUN-MS ال+/DET رزاق/NOUN-MS 141/NUM-MP E/E 
+S/S ال+/DET اسم/NOUN-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS ب+/PREP ال+/DET كتاب/NOUN-MS ال+/DET اسم/NOUN-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS ب+/PREP ال+/DET كتاب/NOUN-MS E/E 
+S/S عبد/NOUN-MS ال+/DET ملك/NOUN-MS بن/NOUN-MS مروان/NOUN-MS 58/NUM-MP علي/PREP بن/NOUN-MS زيد/NOUN-MS 158/NUM-MP E/E 
+S/S عبد/NOUN-MS ال+/DET واحد/ADJ-MS 70/NUM-MP علي/PREP بن/NOUN-MS سعيد/NOUN-MS 68/NUM-MP E/E 
+S/S عبد/NOUN-MS ال+/DET واحد/NOUN-MS بن/NOUN-MS بكر/NOUN-MS 72/NUM-MP علي/PREP بن/NOUN-MS أبي/NOUN-MS طالب/NOUN-MS 16/NUM-MP //PUNC 33/84/PUNC //PUNC E/E 
+S/S عثمان/NOUN-MS 24/NUM-MP //PUNC 25/158/PUNC 152/NUM-MP E/E 
+S/S عثمان/NOUN-MS بن/NOUN-MS أبي/NOUN-MS ال+/DET عاصي/NOUN-MS 161/NUM-MP علي/PREP بن/NOUN-MS عبد/NOUN-MS ال+/DET عزيز/NOUN-MS 144/NUM-MP E/E 
+S/S عمار/NOUN-MS 62/NUM-MP E/E 
+S/S عثمان/NOUN-MS بن/NOUN-MS عبد/NOUN-MS ال+/DET رحمن/NOUN-MS 164/NUM-MP عمار/NOUN-MS بن/NOUN-MS سيف/NOUN-MS 74/NUM-MP E/E 
+S/S عصم/NOUN-FS +ة/NSUFF 129/NUM-MP عمر/NOUN-MS بن/NOUN-MS ال+/DET خطاب/NOUN-MS 20/NUM-MP //PUNC 23/95/PUNC //PUNC 14/115/PUNC //PUNC 167/NUM-MP E/E 
+S/S عطاء/NOUN-MS 44/NUM-MP عمر/NOUN-MS بن/NOUN-MS عبد/NOUN-MS ال+/DET عزيز/NOUN-MS 86/NUM-MP E/E 
+S/S عطاء/NOUN-MS ال+/DET خراساني/NOUN-MS 87/NUM-MP عمر/NOUN-MS بن/NOUN-MS علي/NOUN-MS ال+/DET فارسي/ADJ-MS 163/NUM-MP E/E 
+S/S عقب/NOUN-FS +ة/NSUFF بن/NOUN-MS عامر/NOUN-MS 155/NUM-MP E/E 
+S/S علي/PREP 125/NUM-MP عمرو/NOUN-MS بن/NOUN-MS دينار/NOUN-MS 164/NUM-MP E/E 
+S/S علي/PREP بن/NOUN-MS ال+/DET حسن/NOUN-MS 100/NUM-MP عوف/NOUN-MS بن/NOUN-MS مالك/NOUN-MS 129/NUM-MP E/E 
+S/S علي/PREP بن/NOUN-MS ال+/DET حسين/NOUN-MS 108/NUM-MP عيسى/NOUN-MS بن/NOUN-MS موسى/NOUN-MS 56/NUM-MP E/E 
+S/S حرف/NOUN-MS ال+/DET فاء/NOUN-MS E/E 
+S/S ال+/DET فضل/NOUN-MS بن/NOUN-MS عياش/NOUN-MS 48/NUM-MP فضيل/NOUN-MS بن/NOUN-MS غزو/NOUN-FS +ان/NSUFF 112/NUM-MP E/E 
+S/S ال+/DET فضيل/NOUN-MS بن/NOUN-MS عياض/NOUN-MS 75/NUM-MP E/E 
+S/S حرف/NOUN-MS ال+/DET قاف/NOUN-MS E/E 
+S/S ال+/DET قاسم/NOUN-MS 76/NUM-MP //PUNC 144/NUM-MP قتيبة/NOUN-MS بن/NOUN-MS سعيد/NOUN-MS 156/NUM-MP //PUNC 157/NUM-MP E/E 
+S/S ال+/DET اسم/NOUN-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS ب+/PREP ال+/DET كتاب/NOUN-MS ال+/DET اسم/NOUN-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS ب+/PREP ال+/DET كتاب/NOUN-MS E/E 
+S/S حرف/NOUN-MS ال+/DET كاف/NOUN-MS E/E 
+S/S كعب/NOUN-MS بن/NOUN-MS عجر/NOUN-FS +ة/NSUFF 110/NUM-MP كلاب/NOUN-MP بن/NOUN-MS أمية/NOUN-FS 158/NUM-MP E/E 
+S/S حرف/NOUN-MS ال+/DET ميم/NOUN-MS E/E 
+S/S مالك/NOUN-MS 61/NUM-MP //PUNC 68/NUM-MP محمد/NOUN-MS بن/NOUN-MS ال+/DET مظفر/NOUN-MS 101/NUM-MP E/E 
+S/S مالك/NOUN-MS بن/NOUN-MS أنس/NOUN-MS //PUNC 68/NUM-MP محمد/NOUN-MS بن/NOUN-MS نوح/NOUN-MS 164/NUM-MP E/E 
+S/S مالك/NOUN-MS بن/NOUN-MS عتاهية/NOUN-MS 157/NUM-MP محمد/NOUN-MS بن/NOUN-MS وهب/NOUN-MS 106/NUM-MP //PUNC 109/NUM-MP E/E 
+S/S مجاهد/NOUN-MS 167/NUM-MP محمد/NOUN-MS بن/NOUN-MS يحيى/NOUN-FS 146/NUM-MP E/E 
+S/S محمد/NOUN-MS بن/NOUN-MS إبراهيم/NOUN-MS 167/NUM-MP مخيس/NOUN-MS بن/NOUN-MS ظبي/NOUN-MS +ان/PRON 157/NUM-MP E/E 
+S/S محمد/NOUN-MS بن/NOUN-MS إسماعيل/NOUN-MS 62/NUM-MP مسعر/NOUN-MS 146/NUM-MP E/E 
+S/S محمد/NOUN-MS بن/NOUN-MS جعفر/NOUN-MS بن/NOUN-MS مصعب/NOUN-MS 74/NUM-MP مسلم/NOUN-MS 155/NUM-MP E/E 
+S/S مسلم/NOUN-FS +ة/NSUFF بن/NOUN-MS قيس/V 45/NUM-MP E/E 
+S/S محمد/NOUN-MS بن/NOUN-MS داود/NOUN-MS 72/NUM-MP مسلم/NOUN-FS +ة/NSUFF بن/NOUN-MS مخلد/NOUN-MS 156/NUM-MP E/E 
+S/S محمد/NOUN-MS ال+/DET راسبي/NOUN-MS 112/NUM-MP معاذ/NOUN-MS بن/NOUN-MS جبل/NOUN-MS 17/NUM-MP //PUNC 18/31/PUNC E/E 
+S/S محمد/NOUN-MS بن/NOUN-MS رافع/NOUN-MS 139/NUM-MP معاوي/NOUN-FS +ة/NSUFF 128/NUM-MP E/E 
+S/S محمد/NOUN-MS بن/NOUN-MS سلم/NOUN-FS +ة/NSUFF 145/NUM-MP معمر/NOUN-MS 141/NUM-MP E/E 
+S/S محمد/NOUN-MS بن/NOUN-MS سليمان/NOUN-MS 88/NUM-MP مقاتل/NOUN-FP بن/NOUN-MS صالح/NOUN-MS 88/NUM-MP E/E 
+S/S محمد/NOUN-MS بن/NOUN-MS سير/NOUN-FS +ين/NSUFF 161/NUM-MP مكحول/NOUN-MS 87/NUM-MP //PUNC 140/NUM-MP E/E 
+S/S محمد/NOUN-MS بن/NOUN-MS عجلان/NOUN-FP 85/NUM-MP ال+/DET منصور/NOUN-MS 146/NUM-MP //PUNC 167/NUM-MP E/E 
+S/S محمد/NOUN-MS بن/NOUN-MS علي/NOUN-MS 69/NUM-MP موسى/NOUN-MS بن/NOUN-MS داود/NOUN-MS 157/NUM-MP E/E 
+S/S ال+/DET تكريتي/NOUN-MS ميمون/ADJ-MS بن/NOUN-MS مهران/NOUN-FP 58/NUM-MP E/E 
+S/S ال+/DET اسم/NOUN-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS ب+/PREP ال+/DET كتاب/NOUN-MS ال+/DET اسم/NOUN-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS ب+/PREP ال+/DET كتاب/NOUN-MS E/E 
+S/S حرف/NOUN-MS ال+/DET نون/NOUN-MS E/E 
+S/S نافع/V 125/NUM-MP نعيم/NOUN-MS بن/NOUN-MS ال+/DET هضيم/NOUN-MS 65/NUM-MP E/E 
+S/S حرف/NOUN-MS ال+/DET هاء/NOUN-MS E/E 
+S/S هارون/NOUN-MS ال+/DET رشيد/NOUN-MS 61/NUM-MP //PUNC 114/NUM-MP هشام/NOUN-MS بن/NOUN-MS عبد/NOUN-MS ال+/DET ملك/NOUN-MS 84/NUM-MP //PUNC 87/NUM-MP E/E 
+S/S هشام/NOUN-MS بن/NOUN-MS حسان/NOUN-FP 161/NUM-MP هناد/NOUN-MS بن/NOUN-MS ال+/DET سري/NOUN-MS 27/NUM-MP E/E 
+S/S هشام/NOUN-MS بن/NOUN-MS عباد/NOUN-MS 54/NUM-MP ال+/DET هيثم/NOUN-MS بن/NOUN-MS جماز/NOUN-MS 163/NUM-MP E/E 
+S/S حرف/NOUN-MS ال+/DET واو/NOUN-MS E/E 
+S/S وكيع/V 114/NUM-MP وهب/NOUN-MS بن/NOUN-MS منبه/ADJ-MS 44/NUM-MP //PUNC 141/NUM-MP E/E 
+S/S وهب/NOUN-MS بن/NOUN-MS حفص/NOUN-MS 164/NUM-MP وهيب/NOUN-MS بن/NOUN-MS ال+/DET ورد/NOUN-MS 66/NUM-MP //PUNC 93/NUM-MP E/E 
+S/S حرف/NOUN-MS ال+/DET ياء/NOUN-MS E/E 
+S/S يحيى/NOUN-FS بن/NOUN-MS خالد/NOUN-MS 142/NUM-MP يعقوب/NOUN-MS بن/NOUN-MS إسحاق/NOUN-MS 69/NUM-MP E/E 
+S/S يحيى/NOUN-FS بن/NOUN-MS سعيد/NOUN-MS 153/NUM-MP يعلي/V بن/NOUN-MS إبراهيم/NOUN-MS 163/NUM-MP E/E 
+S/S يحيى/NOUN-FS بن/NOUN-MS معين/NOUN-MS 153/NUM-MP يوسف/NOUN-FS بن/NOUN-MS أسباط/NOUN-FP 49/NUM-MP //PUNC 83/NUM-MP E/E 
+S/S يزيد/V بن/NOUN-MS أبي/NOUN-MS حبيب/NOUN-MS 55/NUM-MP //PUNC 156/157/PUNC يونس/NOUN-FS بن/NOUN-MS عبد/NOUN-MS ال+/DET أعلى/ADJ-MS 147/NUM-MP E/E 
+S/S يزيد/V بن/NOUN-MS كميت/NOUN-MS 74/NUM-MP يونس/NOUN-FS بن/NOUN-MS عبيد/NOUN-MS 47/NUM-MP E/E 
+S/S ال+/DET اسم/NOUN-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS ب+/PREP ال+/DET كتاب/NOUN-MS ال+/DET اسم/NOUN-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS ب+/PREP ال+/DET كتاب/NOUN-MS E/E 
+S/S ال+/DET كنى/NOUN-FP من/PREP ال+/DET رجال/NOUN-MP E/E 
+S/S أبو/NOUN-MS إسحاق/NOUN-MS 155/NUM-MP أبو/NOUN-MS ذر/NOUN-MS 112/NUM-MP //PUNC 115/118/PUNC //PUNC 120/NUM-MP E/E 
+S/S أبو/NOUN-MS ال+/DET أعور/NOUN-MS 25/NUM-MP E/E 
+S/S أبو/NOUN-MS أمام/NOUN-FS +ة/NSUFF 43/NUM-MP //PUNC 130/NUM-MP أبو/NOUN-MS زرع/NOUN-FS +ة/NSUFF 142/NUM-MP E/E 
+S/S أبو/NOUN-MS بكر/NOUN-MS 114/NUM-MP أبو/NOUN-MS ال+/DET زناد/ADJ-MS 86/NUM-MP E/E 
+S/S أبو/NOUN-MS بكر/NOUN-MS بن/NOUN-MS ال+/DET حسن/NOUN-MS 64/NUM-MP أبو/NOUN-MS سعيد/NOUN-MS 163/NUM-MP E/E 
+S/S أبو/NOUN-MS بكر/NOUN-MS بن/NOUN-MS صالح/NOUN-MS 167/NUM-MP أبو/NOUN-MS سعيد/NOUN-MS ال+/DET أصمعي/NOUN-FP 86/NUM-MP E/E 
+S/S أبو/NOUN-MS بكر/NOUN-MS بن/NOUN-MS عياش/NOUN-MS 57/NUM-MP E/E 
+S/S أبو/NOUN-MS بكر/NOUN-MS ال+/DET قطيعي/NOUN-MS 155/NUM-MP أبو/NOUN-MS سعيد/NOUN-MS ال+/DET خدري/NOUN-MS 12/NUM-MP E/E 
+S/S أبو/NOUN-MS جعفر/NOUN-MS 95/NUM-MP أبو/NOUN-MS سفيان/NOUN-FP 128/NUM-MP E/E 
+S/S أبو/NOUN-MS جعفر/NOUN-MS بن/NOUN-MS أحمد/NOUN-MS 150/NUM-MP أبو/NOUN-MS شهاب/NOUN-MS 50/NUM-MP E/E 
+S/S أبو/NOUN-MS حازم/NOUN-MS 56/NUM-MP //PUNC 79/80/PUNC //PUNC 82/83/PUNC //PUNC 84/85/PUNC أبو/NOUN-MS ال+/DET شيخ/NOUN-MS أبو/NOUN-MS صالح/NOUN-MS E/E 
+S/S 18/NUM-MP //PUNC 30/NUM-MP E/E 
+S/S أبو/NOUN-MS ال+/DET حسن/NOUN-MS بن/NOUN-MS ال+/DET بخاري/NOUN-MS 155/NUM-MP //PUNC 161/NUM-MP ال+/DET أنطاكي/NOUN-FP 67/NUM-MP E/E 
+S/S أبو/NOUN-MS ال+/DET حسن/NOUN-MS 167/NUM-MP أبو/NOUN-MS عبد/NOUN-MS الله/NOUN-MS ال+/DET حلبي/NOUN-MS 155/NUM-MP E/E 
+S/S ال+/DET بغدادي/NOUN-MS أبو/NOUN-MS عبد/NOUN-MS ال+/DET رحمن/NOUN-MS 101/NUM-MP E/E 
+S/S أبو/NOUN-MS ال+/DET حسن/NOUN-MS بن/NOUN-MS فهر/NOUN-MS 61/NUM-MP أبو/NOUN-MS علي/NOUN-MS 163/NUM-MP E/E 
+S/S أبو/NOUN-MS ال+/DET حسن/NOUN-MS ال+/DET ميمون/ADJ-MP +ي/NSUFF 102/NUM-MP أبو/NOUN-MS علي/NOUN-MS ال+/DET آمدي/NOUN-MS 74/NUM-MP E/E 
+S/S أبو/NOUN-MS حنيف/ADJ-FS +ة/NSUFF 146/NUM-MP أبو/NOUN-MS علي/NOUN-MS ال+/DET تميمي/NOUN-MS 155/NUM-MP E/E 
+S/S أبو/NOUN-MS ال+/DET خير/NOUN-MS 156/NUM-MP أبو/NOUN-MS علي/NOUN-MS ال+/DET حداد/NOUN-MS 161/NUM-MP E/E 
+S/S أبو/NOUN-MS داود/NOUN-MS 1/NUM-MP //PUNC 2/155/PUNC أبو/NOUN-MS علي/NOUN-MS ال+/DET رصافي/NOUN-MP E/E 
+S/S أبو/NOUN-MS ال+/DET درداء/NOUN-FS 29/NUM-MP //PUNC 137/1533/PUNC أبو/NOUN-MS عمر/NOUN-MS 155/NUM-MP E/E 
+S/S ال+/DET اسم/NOUN-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS ب+/PREP ال+/DET كتاب/NOUN-MS ال+/DET اسم/NOUN-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS ب+/PREP ال+/DET كتاب/NOUN-MS E/E 
+S/S أبو/NOUN-MS عمر/NOUN-MS بن/NOUN-MS هبير/NOUN-FS +ة/NSUFF 64/NUM-MP أبو/NOUN-MS نصر/NOUN-MS 76/NUM-MP //PUNC 108/NUM-MP E/E 
+S/S أبو/NOUN-MS عمرو/NOUN-MS ال+/DET مدائني/NOUN-MS 21/NUM-MP أبو/NOUN-MS نعيم/NOUN-MS 12/NUM-MP //PUNC 15/42/PUNC //PUNC 54/NUM-MP E/E 
+S/S أبو/NOUN-MS ال+/DET علاء/NOUN-MS 73/NUM-MP 58/NUM-MP //PUNC 67/83/PUNC //PUNC E/E 
+S/S أبو/NOUN-MS عيسى/NOUN-MS ال+/DET أنباري/NOUN-FP 70/NUM-MP 106/NUM-MP //PUNC 161/109/PUNC E/E 
+S/S أبو/NOUN-MS غياث/NOUN-MS 104/NUM-MP 141/NUM-MP //PUNC 161/163/PUNC E/E 
+S/S أبو/NOUN-MS ال+/DET فتيان/NOUN-MP 5/NUM-MP أبو/NOUN-MS هارون/NOUN-MS 152/NUM-MP E/E 
+S/S أبو/NOUN-MS ال+/DET فضل/NOUN-MS 108/NUM-MP أبو/NOUN-MS هرير/NOUN-FS +ة/NSUFF 2/NUM-MP //PUNC 4/5/PUNC //PUNC 7/8/PUNC E/E 
+S/S أبو/NOUN-MS ال+/DET قاسم/NOUN-MS 155/NUM-MP //PUNC 167/NUM-MP 116/NUM-MP //PUNC 117/119/PUNC E/E 
+S/S أبو/NOUN-MS قلاب/NOUN-FS +ة/NSUFF 46/NUM-MP //PUNC 144/NUM-MP 129/NUM-MP //PUNC 134/138/PUNC E/E 
+S/S أبو/NOUN-MS كثير/NOUN-MS 163/NUM-MP أبو/NOUN-MS همام/NOUN-MS ال+/DET كلاعي/NOUN-MP 63/NUM-MP E/E 
+S/S أبو/NOUN-MS ال+/DET كرم/NOUN-MS 74/NUM-MP أبو/NOUN-MS وائل/NOUN-MS 115/NUM-MP E/E 
+S/S أبو/NOUN-MS معشر/NOUN-MS 148/NUM-MP أبو/NOUN-MS يحيى/NOUN-FS أحمد/NOUN-MS 102/NUM-MP E/E 
+S/S أبو/NOUN-MS ال+/DET مكارم/NOUN-FP 161/NUM-MP أبو/NOUN-MS يعلى/NOUN-FP 117/NUM-MP //PUNC 124/127/PUNC E/E 
+S/S من/PREP نسب/NOUN-MS ل+/PREP أبي/NOUN-MS +ه/PRON أو/CONJ جد/NOUN-MS +ه/PRON أو/CONJ غير/NOUN-MS +هما/PRON E/E 
+S/S ابن/NOUN-MS ال+/DET أسود/NOUN-FP 89/NUM-MP ابن/NOUN-MS دريد/NOUN-MS 55/NUM-MP //PUNC 56/151/PUNC E/E 
+S/S ابن/NOUN-MS أبي/NOUN-MS إياس/NOUN-MS 59/NUM-MP ابن/NOUN-MS أبي/NOUN-MS ال+/DET دنيا/NOUN-MS 80/NUM-MP E/E 
+S/S ابن/NOUN-MS باكو/NOUN-FS +ي/NSUFF +ه/PRON 69/NUM-MP //PUNC 75/NUM-MP ابن/NOUN-MS زيد/NOUN-MS 158/NUM-MP E/E 
+S/S ال+/DET شيرازي/NOUN-MS ابن/NOUN-MS سعد/NOUN-MS 37/NUM-MP //PUNC 38/145/PUNC //PUNC E/E 
+S/S ابن/NOUN-MS بلال/NOUN-MS 5/NUM-MP 151/NUM-MP //PUNC 153/NUM-MP E/E 
+S/S ابن/NOUN-MS ال+/DET حاج/NOUN-MS 99/NUM-MP ابن/NOUN-MS سير/NOUN-FS +ين/NSUFF 107/NUM-MP E/E 
+S/S ابن/NOUN-MS حبان/NOUN-FP 12/NUM-MP //PUNC 13/167/PUNC ابن/NOUN-MS أبي/NOUN-MS شيب/NOUN-FS +ة/NSUFF 34/NUM-MP //PUNC 41/42/PUNC //PUNC 45/NUM-MP E/E 
+S/S ابن/NOUN-MS حبيب/NOUN-MS ال+/DET رفقي/NOUN-MS 108/NUM-MP 112/NUM-MP E/E 
+S/S ال+/DET اسم/NOUN-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS ب+/PREP ال+/DET كتاب/NOUN-MS ال+/DET اسم/NOUN-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS ب+/PREP ال+/DET كتاب/NOUN-MS E/E 
+S/S ابن/NOUN-MS عباس/NOUN-MS 1/NUM-MP //PUNC 9/19/PUNC //PUNC 26/34/PUNC //PUNC 135/NUM-MP ابن/NOUN-MS لهيعة/NOUN-MS 156/NUM-MP //PUNC 157/NUM-MP E/E 
+S/S ابن/NOUN-MS عبد/NOUN-MS ال+/DET حكيم/NOUN-MS 149/NUM-MP //PUNC 157/NUM-MP ابن/NOUN-MS ال+/DET مبارك/NOUN-FP 67/NUM-MP //PUNC 106/107/PUNC E/E 
+S/S ابن/NOUN-MS عبد/NOUN-MS ال+/DET سلام/NOUN-MS 96/NUM-MP ابن/NOUN-MS مسعود/NOUN-MS 35/NUM-MP //PUNC 36/37/PUNC //PUNC 39/40/PUNC //PUNC 122/123/PUNC E/E 
+S/S ابن/NOUN-MS عدي/NOUN-MS 4/NUM-MP //PUNC 101/NUM-MP ابن/NOUN-MS مغول/NOUN-MP 109/NUM-MP E/E 
+S/S ابن/NOUN-MS عساكر/NOUN-FP 26/NUM-MP //PUNC 79/80/PUNC //PUNC 81/82/PUNC //PUNC 83/NUM-MP //PUNC ابن/NOUN-MS منير/NOUN-MS 62/NUM-MP E/E 
+S/S 84/NUM-MP //PUNC 84/85/PUNC //PUNC 86/87/PUNC //PUNC E/E 
+S/S 88/NUM-MP //PUNC 108/138/PUNC //PUNC 142/NUM-MP E/E 
+S/S ابن/NOUN-MS عمر/NOUN-MS 14/NUM-MP //PUNC 30/124/PUNC //PUNC 125/165/PUNC ابن/NOUN-MS هشام/NOUN-MS 43/NUM-MP E/E 
+S/S ابن/NOUN-MS عوف/NOUN-MS 70/NUM-MP //PUNC 107/NUM-MP ابن/NOUN-MS وهب/NOUN-MS 79/NUM-MP E/E 
+S/S ابن/NOUN-MS ال+/DET كلبي/NOUN-MS 151/NUM-MP E/E 
+S/S ال+/DET أنساب/NOUN-FP و+/CONJ ال+/DET ألقاب/NOUN-FP E/E 
+S/S ال+/DET إفريقي/ADJ-MS 83/NUM-MP 46/NUM-MP //PUNC 47/48/PUNC //PUNC 49/NUM-MP E/E 
+S/S ال+/DET آمدي/NOUN-MS 76/NUM-MP 50/NUM-MP //PUNC 52/53/PUNC //PUNC 57/NUM-MP E/E 
+S/S ال+/DET أوزاعي/NOUN-FP 87/NUM-MP //PUNC 92/NUM-MP 82/NUM-MP //PUNC 84/108/PUNC //PUNC E/E 
+S/S ال+/DET بخاري/NOUN-MS 37/NUM-MP //PUNC 59/102/PUNC 119/NUM-MP //PUNC 121/123/PUNC E/E 
+S/S ال+/DET برمكي/NOUN-MS 61/NUM-MP 163/NUM-MP E/E 
+S/S ال+/DET بزار/NOUN-MS 117/NUM-MP //PUNC 122/124/PUNC ال+/DET ترمذي/NOUN-MS 1/NUM-MP //PUNC 11/23/PUNC E/E 
+S/S 134/NUM-MP //PUNC 164/NUM-MP ال+/DET ثوري/ADJ-MS 52/NUM-MP //PUNC 146/NUM-MP E/E 
+S/S ال+/DET بيهقي/NOUN-MS 1/NUM-MP //PUNC 2/3/PUNC //PUNC 11/32/PUNC //PUNC 35/40/PUNC //PUNC 42/44/PUNC ال+/DET حاكم/NOUN-MS 11/NUM-MP //PUNC 15/17/PUNC //PUNC 22/23/PUNC //PUNC 24/31/PUNC //PUNC E/E 
+S/S ال+/DET اسم/NOUN-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS ب+/PREP ال+/DET كتاب/NOUN-MS ال+/DET اسم/NOUN-MS رقم/NOUN-MS ال+/DET نص/NOUN-MS ب+/PREP ال+/DET كتاب/NOUN-MS E/E 
+S/S 108/NUM-MP //PUNC 116/118/PUNC شهاب/NOUN-MS ال+/DET دين/NOUN-MS 96/NUM-MP E/E 
+S/S 119/NUM-MP //PUNC 120/155/PUNC ال+/DET شيرازي/NOUN-MS 14/NUM-MP E/E 
+S/S 163/NUM-MP ال+/DET طبراني/ADJ-FP 10/NUM-MP //PUNC 34/115/PUNC //PUNC E/E 
+S/S ال+/DET خرائطي/ADJ-FP 80/NUM-MP 121/NUM-MP //PUNC 124/125/PUNC E/E 
+S/S ال+/DET خطيب/NOUN-MS 56/NUM-MP //PUNC 60/68/PUNC //PUNC 88/NUM-MP 126/NUM-MP //PUNC 127/128/PUNC E/E 
+S/S ال+/DET دارمي/NOUN-MS 39/NUM-MP //PUNC 155/NUM-MP 132/NUM-MP //PUNC 133/135/PUNC E/E 
+S/S الديلمي/NOUN-MS 8/NUM-MP //PUNC 17/19/PUNC //PUNC 20/NUM-MP 160/NUM-MP //PUNC 161/162/PUNC E/E 
+S/S 25/NUM-MP //PUNC 28/29/PUNC //PUNC 33/NUM-MP 163/NUM-MP //PUNC 164/NUM-MP E/E 
+S/S 36/NUM-MP عز/V ال+/DET دين/NOUN-MS 95/NUM-MP E/E 
+S/S ال+/DET دينوري/NOUN-MS 139/NUM-MP //PUNC 144/NUM-MP ال+/DET عسكري/ADJ-MS 16/NUM-MP E/E 
+S/S ال+/DET رافعي/NOUN-MS 5/NUM-MP //PUNC 15/75/PUNC ال+/DET غزالي/NOUN-MP 90/NUM-MP //PUNC 95/NUM-MP E/E 
+S/S ال+/DET رعيشي/NOUN-MS 68/NUM-MP ال+/DET فاقوسي/ADJ-MS 108/NUM-MP E/E 
+S/S ال+/DET زجاج/NOUN-MS 64/NUM-MP ال+/DET قعنبي/ADJ-MS 56/NUM-MP E/E 
+S/S ال+/DET زهري/NOUN-MS 82/NUM-MP //PUNC 83/94/PUNC ال+/DET مأمون/NOUN-MS 89/NUM-MP E/E 
+S/S ال+/DET سدي/NOUN-MS 167/NUM-MP ال+/DET منذري/ADJ-MS 10/NUM-MP E/E 
+S/S ال+/DET نسائي/ADJ-MS 1/NUM-MP //PUNC 11/NUM-MP E/E 
+S/S ال+/DET نساء/NOUN-MP E/E 
+S/S عاثشة/NOUN-MS 121/NUM-MP //PUNC 127/NUM-MP أم/CONJ سلم/NOUN-FS +ة/NSUFF 163/NUM-MP E/E 
